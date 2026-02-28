@@ -1,0 +1,7789 @@
+
+
+
+
+You said:
+I'm the DC for River Valley Viking Varsity Football team. Help me build our defensive playbook and other documents and planning needed for our upcoming season. I have most of the playbook in my head I just need to organize it and solidify it.
+
+ChatGPT said:
+A simple way to get what’s in your head onto paper
+You need one “source of truth” playbook plus a small set of weekly / game-day documents. If you build the structure first, the content drops in quickly.
+
+Below is a complete framework you can start using immediately.
+
+1) Defensive playbook structure (table of contents)
+A. Identity (1–2 pages)
+Defensive philosophy: takeaways, explosive-prevention, 3rd down, red zone
+
+Base personnel & front family (ex: Mint/Tite family)
+
+Coverage family (split-field rules, man changeups, pressure answers)
+
+Terminology (short, consistent call language)
+
+B. Alignment & rules (the “always true” section)
+Front mechanics
+
+Base front (alignments, techniques, gap fits)
+
+Adjustments vs: 2x2, 3x1, 2-back, TE surface, trips, bunch, empty
+
+Run fit rules
+
+Box count rules
+
+Spill/box/force/lever language
+
+Cutback player, QB player, pitch player (if option teams exist)
+
+Coverage rules
+
+Base split-field rules (Quarters / Palms / Poach / MOD, etc.)
+
+Trips checks
+
+Motion rules
+
+RPO conflict rules (“if #2 blocks…”, “if fast 3…”, etc.)
+
+Tackling/turnover standards
+
+pursuit lanes, leverage, strip attempts
+
+C. Calls (your menu, kept tight)
+Organize calls by family, not by “favorite plays.”
+
+Base calls
+
+(Front) Base Mint/Tite + (Coverage) base split-field
+
+Coverage changeups
+
+3–5 total (ex: Cover 3 variant, 2-read, man-free, etc.)
+
+Pressures
+
+4–8 total, grouped by intent:
+
+Run pressures (create extra hat / wrong-arm)
+
+Pass pressures (3rd-and-long / empty)
+
+Sim / creeper (change picture, keep coverage structure)
+
+Special situations
+
+Goal line, red zone, backed up, 2-minute, 4-minute, 2pt, sudden change
+
+D. Teaching tools (for install)
+Position room “cheat sheets” (one page each)
+
+Install scripts (practice segments + coaching points)
+
+Common opponent formations and your automatic checks
+
+2) The “minimum viable” documents you’ll actually use weekly
+1) Defensive call sheet (game day)
+Build it around the same 3 inputs most call sheets use: down/distance, field zone, personnel. 
+
+A useful organizing concept is Set / Stress / Break:
+
+Set = best call
+
+Stress = changeup once they adjust
+
+Break = disruptive answer when you must flip momentum 
+
+2) Opponent scouting report
+Formations by personnel (with top concepts)
+
+1st down tendencies, 3rd down menu, red zone, backed up, 2pt
+
+Top 5 run concepts + top 5 pass concepts
+
+“Alert list” (trick plays, screens, shots) 
+
+3) Weekly install plan
+What gets installed Monday–Thursday
+
+What gets repped vs scout looks
+
+What gets “called live” in team periods
+
+4) Wristband / signal sheet
+A condensed call vocabulary for players (fast communication)
+
+3) How we’ll turn what’s in your head into a finished playbook (fast)
+Step 1 — Lock the defensive “language”
+We write:
+
+Position letters/names, front tags, coverage tags, pressure tags
+
+The call format (example):
+Front + Strength/Adjustment + Coverage + Pressure/Tag
+
+Step 2 — Build the base rules pages
+One page per: base front, base coverage, base run fits, trips/motion rules
+
+Step 3 — Add calls in a controlled way
+Start with:
+
+1 base call
+
+3 coverage changeups
+
+4 pressures
+
+4 special-situation calls
+
+Expand only if something fills a real gap.
+
+Step 4 — Create the weekly templates (fillable)
+Call sheet template
+
+Scouting report template
+
+Install plan template
+
+4) What I can produce next (no extra info required)
+I can draft, in one pass:
+
+A playbook table-of-contents + section shells
+
+A call sheet layout (down/distance × field zone × personnel)
+
+A scouting report template
+
+A weekly install plan template
+
+5) If you answer only one thing, answer this
+What is your base defensive structure?
+
+Front: (ex: Mint/Tite / 4-2-5 / 3-4, etc.)
+
+Coverage: (ex: split-field Quarters family / Cover 3 family / man-based)
+
+If you already know it’s Mint/Tite + split-field, I’ll proceed with that as the default and start drafting the shells and templates.
+
+
+You said:
+ask questions I'll answer and you track to build
+
+ChatGPT said:
+Intake 1 — Defensive identity and constraints (answer inline)
+Base front family
+
+What is your base? (Mint / Tite / 4-2-5 / 3-4 / other)
+
+Base personnel you live in most? (e.g., 4-2-5, 3-3-5, 3-4, etc.)
+
+Coverage family
+
+What is your “default” coverage on 1st/2nd down? (Quarters/split-field, Cover 3, man, etc.)
+
+Do you prefer split-field (quarters/palms/poach) or middle-field closed (Cover 3/1) as your core?
+
+Pressure philosophy
+
+Do you want to be: (a) 4-man + cover, (b) pressure-heavy, (c) simulated pressure/creepers, (d) mix
+
+How many pressures do you realistically want on the call sheet? (4 / 6 / 8 / 10+)
+
+Run-fit philosophy
+
+Spill/Box preference vs runs? (Spill it to force / set hard edge / box everything back inside)
+
+Who is the primary force player in your base? (CB / OLB / S)
+
+Your conference offenses
+
+Most common opponent style: (spread RPO, Wing-T, option, heavy run, air raid, etc.)
+
+Biggest weekly problem you need solved: (QB run, RPO glance, trips, bunch, screens, power/counter, etc.)
+
+Communication
+
+How do you call it? (signals, wristbands, huddle, tempo)
+
+Do you want callss/players to learn by: (a) rules first, (b) calls first, (c) hybrid
+
+Non-negotiables
+
+3 things your defense must always do well (example: stop QB run, no explosives, win 3rd down)
+
+Reply with your answers as:
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+After you answer, I’ll lock the playbook table of contents, define your call language, and start building the base rules pages.
+
+
+You said:
+1: base is 4-2-5 we will also run a 3-4, wether we base out of a 4-2-5 or 3-4 will depending on our personnel.
+
+2: 2x2: mod/clamp from sabans cover 7
+    3x1: special, clip, and poach
+    the above will be a ninja coverage call the dbs will make the actual call per formation
+    We will 100% run cover zero (my version) and cover one
+
+3: we want to be aggressive, but will know when to call of the horses drop into cover to get the picks
+
+4: let's talk about this "Run-fit philosophy"
+
+5: we play a mix of rpo, little wing-t, and air raid
+
+6: signals calls with rules/adjustments per formation
+
+7: no explosives, relentless effect(rally to the ball), fundamentally sound/disiplined football
+
+ChatGPT said:
+Locked inputs (what I’m tracking)
+Fronts: 4-2-5 base, also 3-4 (base depends on personnel)
+
+Core coverage family: Saban Cover 7 toolbox
+
+2x2: MOD / Clamp
+
+3x1: Special / Clip / Poach
+
+“Ninja” = DBs make final check based on formation
+
+Man: Cover 0 (your version) + Cover 1
+
+Pressure: aggressive; mix in “call off the dogs” (rush-to-drop / trap picks)
+
+Opponents: RPO + some Wing-T + Air Raid
+
+Communication: signals; rules/adjustments per formation
+
+Non-negotiables: no explosives; relentless rally; disciplined
+
+Playbook spine (draft naming so we can refine)
+Front families
+Base 4-2-5 (even/over/under tags as needed)
+
+3-4 package (personnel-driven)
+
+Coverage families
+NINJA (auto-check family)
+
+2x2 → MOD / Clamp
+
+3x1 → Special / Clip / Poach
+
+C0 (your version)
+
+C1
+
+Pressure families
+Aggressive pressure menu
+
+Call-off menu (rush-to-drop / trap)
+
+Next: Run-fit philosophy (we’ll lock your base rules)
+Answer these in order. Short answers are fine.
+
+A) Run-fit structure in your base 4-2-5
+Against 2x2 gun on early downs, do you want the box to be:
+
+6-man (light, safety involved late) or 7-man (safety in fit) as the normal answer?
+
+Who is the primary force/contain player vs run in your base call?
+
+CB (corner force) / Nickel / OLB / Safety / “depends (tell me rule)”
+
+Where do you want the ball to go most of the time?
+
+Spill to force (wrong-arm kickouts, spill to support)
+
+Box it (set edge, keep it inside)
+
+Bounce/contain (soft spill; keep it outside)
+Pick one as your default.
+
+B) Gap fit language (how you teach)
+Do you teach fits as:
+
+Spill/Force/Alley (role-based) or
+
+A/B/C/D gap (gap-based) or
+
+Hybrid (front fits are gaps; perimeter is spill/force)
+
+For QB run/RPO, who is your default QB player?
+
+DE / LB / Nickel / Safety (and what kind: scrape/exchange or straight)
+
+C) Option / Wing-T specific
+Vs Wing-T / Buck sweep style, do you want:
+
+Hard spill (wrong-arm pullers, force to support) or
+
+Box + overlap (set edge, LBs overlap) as your default?
+
+D) “C0 (your version)” run help
+When you call Cover 0, do you want:
+
+All-out pressure (no post safety), or
+
+0 with a rat/robber (still “0” to you but someone is inside help), or
+
+0 with a “plug” safety (extra fitter)
+
+Reply as:
+
+A1 …
+
+A2 …
+
+A3 …
+
+B4 …
+
+B5 …
+
+C6 …
+
+D7 …
+
+Once you answer, I’ll write:
+
+Your base run-fit rules page (4-2-5),
+
+The adjustment rules vs RPO/Wing-T/Air Raid,
+
+And the call structure for “NINJA” + fronts + pressures.
+
+
+You said:
+A1: 6-man
+A2: nickel to the field and safety to the boundary
+A3: box it
+B4: probably hybrid
+B5: DE (open to ideas here)
+C6: box overlap
+D7: base zero is called zeus this is delayed pressure on pass read it's all out nickel and will funnel the RB if he out your side even to block he's yours, if he is out the other side you rush
+
+A
+
+ChatGPT said:
+Run-fit philosophy locked
+Box: 6-man (light box as the default)
+
+Force/contain: Field = Nickel, Boundary = Safety
+
+Ball placement: Box it (set edges, keep inside)
+
+Teaching: hybrid (front fits by gap + perimeter roles)
+
+QB player: DE (you’re open to refinement)
+
+Wing-T: Box + overlap
+
+Cover 0 (Zeus): delayed pressure on pass read; Nickel all-out, RB rules as you described, otherwise rush
+
+What I’m building now (playbook pages we’ve effectively defined)
+1) Base 4-2-5 run-fit rule (first draft, terminology placeholders)
+Goal: 6-man box, edges set, ball boxed to pursuit, field nickel is force, boundary safety is force.
+
+Perimeter
+
+Field (to strength): Nickel = Force/Contain (set the edge, box ball back inside)
+
+Boundary: Safety = Force/Contain (set the edge, box ball back inside)
+
+Remaining DBs = Alley / cutback / pursuit leverage (we’ll define exact alley rules once we lock your coverage structure words)
+
+Front / Box (hybrid fits)
+
+DL/LB fits expressed in A/B/C/D with spill/box language for pullers and kickouts.
+
+Vs pull schemes (Power/Counter/Wing-T): Box + overlap rule set.
+
+I will formalize this into a one-page “Base Fit” chart after we lock:
+
+your base 4-2-5 front (Over/Under/Even)
+
+your strength call (field/TE/back) and how you set the front
+
+Next intake (critical): front structure + strength system + gap roles
+Answer these; short is fine.
+
+2) Base 4-2-5 front mechanics
+What is your default 4-2-5 front?
+
+Even (2-high look) / Over / Under / Multiple (pick the one you want as “default”)
+
+How do you set strength?
+
+Field/Boundary, TE, Back (RB), Passing strength (# of WR), or hybrid?
+
+What are your DL techniques in base?
+Give me a simple set like:
+
+Ends: 5s / 6s / wide-9 / 4i
+
+DTs: 1-tech + 3-tech (or 2i/4i, etc.)
+
+In the 4-2-5, is the Nickel treated as:
+
+a DB (apex player) or a true OLB (edge setter first), or hybrid?
+
+3) QB run / RPO rules (since you see RPO + Air Raid)
+Versus zone read, do you prefer:
+
+DE take QB + LB take dive (traditional), or
+
+DE squeeze dive + scrape exchange (LB/Nickel takes QB), or
+
+“depends” (tell me your default and your changeup)
+
+For RPO glance / slant (conflict on LB/S), what is your answer preference:
+
+rotate safety down (7th fitter), or
+
+pattern-match it and live with 6-man box, or
+
+pressure it (sim/creeper/Zeus), or
+
+mixed (rank them 1–3)
+
+4) “NINJA” coverage call structure (so it’s teachable)
+When you signal “NINJA”, who makes the final check?
+
+Mike? Safeties? Nickel? Corners? (one voice)
+
+What’s your preferred call format on the sideline?
+Example options:
+
+Front + Pressure + Ninja
+
+Ninja + Front + Pressure
+
+One word that implies all three (then tags)
+Pick one.
+
+Reply as:
+
+1 …
+
+2 …
+
+3 …
+
+4 …
+
+5 …
+
+6 …
+
+7 …
+
+8 …
+
+After this, I’ll output (in-chat) a clean defensive language map:
+
+personnel + positions,
+
+front names/tags,
+
+coverage families (Ninja, Zeus, C1),
+
+pressure families,
+
+and the exact signal-to-call translation.
+
+
+You said:
+1: shade 5-3-2i-5 set to the field, two high, nickel to the field
+2: protect space (strength: field)
+3: 5-3-2i-5 set to the field
+4: hybrid
+5: DE take who we don't won't to run the ball, camp rule is he takes the QB
+6: I need more information to answer this one
+7: safeties to each side 
+8: front stunt blitz coverage tags
+
+
+
+
+
+ChatGPT said:
+Locked: base front + strength + coverage command
+Base 4-2-5 front
+Front name (working): Shade
+
+Structure: 5–3–2i–5, set to the field, two-high shell
+
+Nickel: to the field, hybrid player (DB/OLB)
+
+Strength system
+Strength = Field (“protect space”)
+
+QB run rule
+CAMP rule: DE takes the QB (or “who we don’t want to run it” when you tag it)
+
+Ninja communication
+NINJA check authority: Safeties (each side makes the call for their half)
+
+Sideline call format
+Order: Front → stunt → blitz → coverage tags
+(Coverage tags include NINJA / Zeus / C1, plus any check tags)
+
+I need one more decision to finalize your base run fits
+Your front is “Shade 5–3–2i–5” but the LB gap responsibilities depend on what the 3-tech means in your system and where the 2i sits.
+
+Intake 3 — Box fits (fast, concrete)
+1) Define techniques in your language
+A) The “3” in your call: is that a 3-tech DT to the field (outside shoulder of guard), or is it a “stack”/shade call for an LB?
+
+Answer: 3-tech DT or LB.
+
+B) The 2i: is it always the boundary DT (inside shade of guard), or does it move with motion?
+
+Answer: boundary DT / moves / other.
+
+2) Who are the two LBs in 4-2-5 (names + sides)
+C) What do you call them?
+
+Mike + Will or Mike + Buck or Mike + Sam etc.
+And which one is field and which is boundary?
+
+3) Base interior fits vs Inside Zone (2x2 gun)
+D) In base Shade, who owns the A gaps?
+
+Mike/Will, or a DL (like 3-tech slants to A), or “depends”
+
+E) Who is the primary B-gap fitter to the field?
+
+LB or DL (3-tech) or “both depending on block”
+
+4) Spill/box rule vs kickout/pullers (Power/Counter)
+F) You said “box it.” On Power, who do you want to wrong-arm the kickout (spill) if it happens—or do you want the edge to box every time?
+
+Answer: always box / wrong-arm by DE / wrong-arm by Nickel / other.
+
+Reply as:
+
+A …
+
+B …
+
+C …
+
+D …
+
+E …
+
+F …
+
+Also: you paused on RPO (Q6). Here’s the info you need.
+When you say “I need more information,” the choice is about where you want to live versus glance/slant and bubble/now without adding a 7th fitter.
+
+Pick your default answer style(s) and rank them:
+
+Match it (stay 2-high): keep 6-man box, trust pattern-match to handle glance/bubble.
+
+Insert/rotate: bring boundary safety down (or roll) to become the 7th fitter and reduce run stress.
+
+Pressure answer: use Zeus/sim/creeper to force fast decisions and steal RPO windows.
+
+Reply with: RPO rank = (… , … , …).
+
+Once you send these, I will output the first “real” playbook pages in-text:
+
+Base Shade front alignments + gap fits (vs 2x2 / 3x1)
+
+Perimeter force rules (Nickel field / Safety boundary)
+
+CAMP QB run tag rules
+
+NINJA coverage procedure (2x2 + 3x1 checks, who calls what, how it’s signaled)
+
+
+You said:
+a: 3-tech DT to the field (outside shoulder of guard)
+b: boundary tackle doesn't move with motion
+c: Mike (field) , Will (boundary)
+d: Mike has open a gap to the field
+e: will has open b gap to the boundary
+f: box set the edge
+
+side note there are multiple front to our four down sets and multiple stunts that can be ran in all
+
+ChatGPT said:
+Locked: base Shade fits (4-2-5, field-set)
+Shade front (base)
+Ends: 5-tech / 5-tech
+
+DT (field): 3-tech (outside shoulder of field guard)
+
+DT (boundary): 2i (inside shoulder of boundary guard)
+
+LBs: Mike = field, Will = boundary
+
+Box type: 6-man
+
+Edge philosophy: Box (set edge; no default wrong-arm spill)
+
+Base interior fits
+Mike: open A to the field
+
+Will: open B to the boundary
+
+(We’ll define the closed A/B ownership and doubles rules in the next page, but your “open gap” assignments are now the anchor.)
+
+Perimeter force rules (base)
+Field edge force: Nickel
+
+Boundary edge force: Safety
+
+Ball placement: force/contain boxes everything back inside to pursuit
+
+QB run rule
+CAMP tag: DE = QB player (or “who we don’t want running”)
+
+Playbook Page 1 (draft): Shade 4-2-5 — Core Run Fits
+Use as your baseline install page; we can tighten wording after we name positions.
+
+Alignment (vs balanced 2x2, set to field)
+FDE (field end): 5-tech (box edge)
+
+FDT: 3-tech (B-gap presence to field)
+
+BDT: 2i (A/B anchor to boundary)
+
+BDE (boundary end): 5-tech (box edge)
+
+Mike (field): open A (field)
+
+Will (boundary): open B (boundary)
+
+Nickel (field): Force/contain (box edge)
+
+Boundary Safety: Force/contain (box edge)
+
+Other DBs: alley/pursuit leverage (to be defined under NINJA rules)
+
+Core rules (box it)
+Edges set the edge first. No automatic spill calls in base.
+
+Force players keep outside arm free, turn ball back inside.
+
+Backside cutback is owned by backside pursuit + alley player (we’ll assign exact alley responsibility per coverage check).
+
+Puller rule (Power/Counter/Wing-T)
+Box + overlap: edge stays outside; LBs overlap inside-out to fit off the pull path.
+
+If you want a named call for this (recommended), we’ll create a single tag (e.g., “BOX” or “WALL”) that reminds everyone the edge never wrong-arms.
+
+Incorporating your “multiple fronts + multiple stunts”
+Under your constraint (“fronts and stunts can be run in all”), the playbook should be modular:
+
+Call format (already aligned with your preference)
+Front + Stunt + Blitz + Coverage/Tags
+
+Example (structure): SHADE + (STUNT) + (BLITZ) + NINJA
+
+Man calls: SHADE + (STUNT) + ZEUS or SHADE + (STUNT) + C1
+
+Front families (we’ll build these next)
+For your four-down world, you likely want 4–6 fronts max:
+
+Shade (your base)
+
+Under (3-tech away from field / tighten boundary)
+
+Over (3-tech to strength with different end techniques)
+
+Tight (reduce ends / heavy B gaps vs Wing-T)
+
+Wide (wide-5 / 9 looks for Air Raid)
+
+Bear-ish (as a changeup if needed)
+
+Stunt families (re-usable across fronts)
+Keep stunts grouped by objective:
+
+Run stunts: slant/angle to dent zone and cancel open gaps
+
+Pass stunts: T/E, E/T, long-stick, wrap
+
+Sim looks: show pressure, drop out
+
+Next intake: name your fronts + name your stunts (so we can write pages 2–6)
+Answer these lists; one-word names are fine.
+
+1) Four-down fronts you actually want on the menu
+List your 4-2-5 fronts by name and give the technique picture like you did for Shade.
+
+Front 1: Name — (techs, set to field or not)
+
+Front 2:
+
+Front 3:
+
+Front 4:
+(Optional 5–6)
+
+2) Your “universal” stunts
+List the stunts you want to be able to call from any front (5–8 is ideal).
+
+Stunt A:
+
+Stunt B:
+
+…
+
+3) Blitz menu constraint
+How many blitzes do you want on the varsity call sheet?
+
+6 / 8 / 10 / 12
+
+Once you answer, I’ll produce:
+
+A clean Front Catalog (each front = alignment + base fits),
+
+A Stunt Catalog (stunt rules + who goes where),
+
+And a first-pass signals-to-call sheet structure for your sideline system.
+
+
+You said:
+position name are 
+field corner FC
+field safety FS
+bandit: nickel B
+anchor: field d end A
+tackle: field d tackle T
+nose: boundary d tackle N
+edge boundary d end/lb hybrid : E
+Mike field ILB M
+will boundary ILB W
+dawg boundary safety D
+boundary corner BC
+
+ChatGPT said:
+Position glossary locked (use this consistently across every page)
+Role	Tag	Notes
+Field Corner	FC	
+Field Safety	FS	2-high / NINJA half-field caller (field side)
+Bandit (Nickel)	B	Field force/contain in base
+Anchor (Field DE)	A	Box edge; CAMP QB player when tagged
+Tackle (Field DT)	T	3-tech to field in Shade
+Nose (Boundary DT)	N	2i boundary in Shade
+Edge (Boundary DE/LB hybrid)	E	Boundary edge; box edge
+Mike (Field ILB)	M	Open A (field) in base
+Will (Boundary ILB)	W	Open B (boundary) in base
+Dawg (Boundary Safety)	D	Boundary force/contain in base; NINJA half-field caller (boundary side)
+Boundary Corner	BC	
+Playbook Page 1 (finalized language): SHADE 4-2-5 — Base Fits + Force
+Alignment (Shade, set to field, 2-high)
+A = Field 5-tech (box edge)
+
+T = Field 3-tech (outside shoulder of field G)
+
+N = Boundary 2i (inside shoulder of boundary G)
+
+E = Boundary 5-tech / hybrid edge (box edge)
+
+M = Field ILB (open A field)
+
+W = Boundary ILB (open B boundary)
+
+B = Nickel (field force/contain)
+
+D = Boundary safety (boundary force/contain)
+
+FC/FS/BC = coverage leverage per NINJA
+
+Run-fit rules (base “BOX”)
+Edges box: A and E set the edge; do not wrong-arm by default.
+
+Force:
+
+Field force = B (keeps ball inside)
+
+Boundary force = D (keeps ball inside)
+
+Open gaps:
+
+M = open A (field)
+
+W = open B (boundary)
+
+Pullers (Power/Counter/Wing-T): Box + overlap
+
+Edge stays outside; M/W overlap inside-out off pull path.
+
+QB run tag
+CAMP: A (or called-side DE) is the QB player (“who we don’t want running”).
+
+Next: lock your coverage procedure for NINJA (so DBs can “make the call” cleanly)
+You already gave the family; now we need the communication + default checks.
+
+Intake 4 — NINJA rules (answer short)
+On the field side, when FS makes the check, does FC have veto/echo authority or does FS own it 100%?
+
+Answer: FS owns / FS + FC echo / FC owns
+
+On the boundary side, when D makes the check, does BC have veto/echo authority or does D own it 100%?
+
+Answer: D owns / D + BC echo / BC owns
+
+Default NINJA check vs 2x2 (if you don’t say otherwise):
+
+MOD or CLAMP?
+
+Default NINJA check vs 3x1 Trips (if you don’t say otherwise):
+
+SPECIAL / CLIP / POACH?
+
+Motion rule (fast motion / jet):
+When the offense motions from 2x2 → 3x1 late, do you want:
+
+Auto re-check to trips rules, or
+
+Lock the original call (“stay”), or
+
+Call-side only adjusts?
+
+Reply as:
+
+1 …
+
+2 …
+
+3 …
+
+4 …
+
+5 …
+
+After that, I’ll write the next two pages:
+
+NINJA Coverage Procedure (who calls what, when, how it’s echoed)
+
+Coverage Family Summary (MOD/CLAMP/SPECIAL/CLIP/POACH quick rules tied to FC/FS/B and BC/D/E)
+
+
+You said:
+1: safety owns
+2: D owns
+3: mod field, clamp boundary 
+4: poach
+5: check to trip rules poach
+
+ChatGPT said:
+NINJA coverage procedure locked
+Authority: FS owns field checks, D owns boundary checks
+
+2x2 defaults: Field = MOD, Boundary = CLAMP
+
+3x1 default: POACH
+
+Motion (2x2 → 3x1 late): auto check to trips rules → POACH
+
+Playbook Page 2: NINJA Coverage Procedure (communication + defaults)
+What “NINJA” means
+Sideline signals NINJA = coverage family only.
+
+FS sets the field-side check.
+
+D sets the boundary-side check.
+
+Coverage is formation-driven and can change with motion.
+
+Pre-snap process (every play)
+Identify formation: 2x2 / 3x1 / bunch / empty / compressed
+
+Identify strength (you use Field as strength by default)
+
+FS calls field check, D calls boundary check
+
+Corners echo alignment; B aligns to field as the force player.
+
+Default checks
+Versus 2x2 (no special tags)
+Field half: MOD
+
+Boundary half: CLAMP
+
+Versus 3x1 (Trips)
+Trips check: POACH (default)
+
+Applies whether trips is to the field or boundary (each side applies its rule for its half)
+
+Motion rule
+If offense motions 2x2 → 3x1 late:
+
+Auto re-check to trips rules: POACH
+
+FS/D communicate the new check immediately.
+
+Playbook Page 3: Coverage Family Quick Sheet (NINJA core)
+This page is intentionally “coachable.” If any of the below differs from your exact Saban rules, tell me and I’ll adjust.
+
+MOD (field default vs 2x2)
+Used when you want vertical control and keep the top on the coverage.
+
+FC/FS are in MOD rules on the field side.
+
+B aligns as field force/contain first; pass responsibilities align with your MOD match rules.
+
+CLAMP (boundary default vs 2x2)
+Used when you want tighter control on #1/#2 and reduce easy access throws.
+
+BC/D are in CLAMP rules on the boundary side.
+
+E remains a box edge; run first. (Pass rules tie to clamp technique/fit.)
+
+POACH (default vs 3x1)
+Used to handle the 3-receiver side without giving up the post.
+
+D is the boundary caller; FS is the field caller; both align their halves to POACH rules as formation dictates.
+
+Fits remain 6-man box unless you tag an insert/pressure.
+
+Next: your man package + pressure packaging (Zeus, Cover 1, “call off the dogs”)
+Intake 5 — Man structure (so it’s consistent with your force rules)
+Cover 1: do you want a low hole (rat) player by default?
+
+Yes/No. If yes: M / W / B / D / FS?
+
+Zeus (C0 delayed):
+
+Who are the rushers by default? (Example: “4 DL + B” or “A/T/N/E + B”)
+
+Who is responsible for the RB in protection/release besides the B rule you gave? (e.g., “M scans RB”, “W scans”, etc.)
+
+“Call off the dogs” (drop for picks):
+
+Is this primarily sim pressure (show 5-6 then drop to 2-high match), or trap coverage (2/robber), or both?
+Pick: sim / trap / both
+
+Reply as:
+
+1 …
+
+2a … (rushers)
+
+2b … (RB responsibility rule)
+
+3 …
+
+After that, I’ll produce:
+
+Man Coverage Page (C1 + Zeus) with your RB rule baked in,
+
+Pressure menu framework (how to tag stunts/blitzes without breaking NINJA),
+
+And a one-page call sheet skeleton using: Front + Stunt + Blitz + Coverage/Tags.
+
+
+You said:
+1: M and W will funnel the RB (take him to your side) if he is out away from you your the rat
+2: M is always going, B and W funnel the RB if he is away you rush. If he blocks to your side you consume his block. If the rb is up the middle the W takes him
+3: I just mean we will run zeus a couple times, then looks the same but drop into ninja or cover 3 match (viking).
+
+ChatGPT said:
+Locked: Man + Zeus + “call-off” complements
+Cover 1 (“Viking 1” working name)
+M and W: RB funnel rules
+
+If RB releases to your side → you take him (funnel/own him)
+
+If RB releases away → you become the RAT (low hole)
+
+(We’ll assign who is post safety once you confirm FS vs D preference.)
+
+Zeus (your C0 delayed pressure)
+M is always going (green-dog / add-on)
+
+B and W are RB-aware:
+
+If RB goes away from you → rush
+
+If RB blocks to your side → consume his block
+
+If RB is up the middle → W takes him
+
+Concept: looks like pressure; plays like C0 with your funnel rules
+
+Call-off complement
+Show Zeus look, then:
+
+Drop into NINJA, or
+
+Drop into Cover 3 match (“Viking”)
+
+Playbook Page 4: Cover 1 (“Viking 1”) — Responsibilities (draft, with your RB rules)
+Shell
+Single-high (confirm whether FS or D is the post player in base C1)
+
+Corners play man technique as coached (press/off based on tag)
+
+RB / RAT rules (locked)
+M and W are the RB funnel players.
+
+RB releases to your side → you take RB
+
+RB releases away → you are RAT
+
+RAT = low hole / crossers / glance-window player (inside leverage help)
+
+Coaching points
+Communicate RB location pre-snap (back left/right/pistol)
+
+If RB fast swings: funnel player stays on him; away player snaps eyes to RAT window
+
+Pending: confirm post safety and whether B has man on #2 or is the RAT in any variants.
+
+Playbook Page 5: ZEUS (C0 delayed) — Responsibilities (draft)
+Intent
+Pressure picture that punishes pass-set teams while being safe vs RB release rules.
+
+Rush / coverage
+M: always rush/add-on (locked)
+
+B: RB rule (funnel/consume/rush-away)
+
+W: RB rule + middle RB rule (locked)
+
+RB rules (locked, explicit)
+B and W:
+
+RB to your side and blocks → consume block
+
+RB out to your side → take him
+
+RB away from you → rush
+
+If RB releases up the middle: W takes RB
+
+Pending: confirm whether A/T/N/E are your base rushers every time, and whether any DL are “read/contain” players vs QB scramble.
+
+Playbook Page 6: “VIKING” — Cover 3 Match (Zeus-look call-off)
+When called
+After showing Zeus 1–3 times, call the same picture and drop to:
+
+NINJA, or
+
+VIKING (C3 match) to steal picks
+
+Core idea
+Present pressure, bail to a match-3 structure; punish hot throws and glance.
+
+Pending: define your exact C3 match rules (Rip/Liz, Seam-curl-flat match, who carries #2 vertical, etc.)
+
+Next intake (needed to finalize Pages 4–6 cleanly)
+A) Who is the post safety in Cover 1?
+Pick your default:
+
+FS is post (field safety in the middle)
+
+D is post (boundary safety in the middle)
+
+Formation-based (FS if ball on hash X, D if hash Y)
+
+Reply: Post = FS / D / rule
+
+B) Zeus rush structure (who are the “always rush” group besides M?)
+Most common:
+
+Option 1: A/T/N/E + M (+ B/W based on RB)
+
+Option 2: A/T/N/E + B (+ M always) (i.e., 6-man look)
+
+Option 3: Other (state it)
+
+Reply: Zeus rush = …
+
+C) Viking (C3 match) core rule choice
+Which C3 match family do you want?
+
+Rip/Liz (common match-3 language)
+
+Pattern-match 3 (“Saban-ish”)
+
+Spot-drop 3 with match tags (simpler)
+
+Reply: Viking C3 = …
+
+Once you answer A–C, I’ll output:
+
+Finalized C1 page, Zeus page, Viking C3 page with your position tags (FC/FS/B/A/T/N/E/M/W/D/BC),
+
+Plus a one-page “call menu” showing how Front/Stunt/Blitz pairs with NINJA/ZEUS/VIKING/C1.
+
+
+You said:
+a: we have 3 versions of cover 1 oregon (FS), Oklahoma(D), and Ohio(B)
+b: option 2
+C: explain my options. I have one but I want to hear those
+
+side note we have multiple version of cover zero
+
+ChatGPT said:
+Locked updates
+Cover 1 variants (3)
+Oregon = post safety FS
+
+Oklahoma = post safety D
+
+Ohio = post safety B (Bandit as post)
+
+Zeus rush structure
+Option 2: A/T/N/E + B as the core rush look, with M always adding, and W/B RB rules determining add/drop (your rules still apply).
+
+Cover 0
+Multiple versions (we will catalogue them as a family).
+
+Viking (Cover 3 match) — your option set explained
+You’re choosing how “matchy” your Cover 3 is and how complex the rules are for HS players. These are the three practical implementations:
+
+Option 1: Rip/Liz Match-3 (most teachable “true match”)
+What it is
+
+A Cover 3 shell with a simple “side call” (Rip or Liz) that defines who matches the seams and how underneath defenders relate to #2/#3.
+
+Pros
+
+Clear communication (“Rip/Liz”) and consistent roles.
+
+Good vs Air Raid spacing concepts (verts, sail, flood) when taught well.
+
+Pairs well with pressure looks (easy to rotate to 3).
+
+Cons
+
+Requires reps on #2 vertical rules and switch releases.
+
+Can be stressed by fast 3 (RB out) + #2 seam if hook/curl rules aren’t tight.
+
+When to pick it
+
+You want a dependable, relatively simple match-3 you can call often.
+
+Option 2: Pattern-Match 3 (“Saban-ish” / match rules tied to formation)
+What it is
+
+Cover 3, but the matching rules change depending on 2x2 vs 3x1, condensed sets, etc. It behaves more like “Cover 7 principles in a 3-shell.”
+
+Pros
+
+Best answers to modern RPO/Air Raid structures when installed correctly.
+
+Lets you “steal” throws (especially if you show Zeus then bail).
+
+Can align conceptually with your NINJA world (same thought process: formation-driven).
+
+Cons
+
+More mental load: it’s not one rule set, it’s a toolbox.
+
+Needs strong safety communication and meeting time.
+
+When to pick it
+
+You want your Cover 3 match to feel like an extension of NINJA checks.
+
+Option 3: Spot-Drop Cover 3 with Match Tags (simplest)
+What it is
+
+Base is spot-drop 3 (curl/flat, hook, deep thirds).
+
+You add a small number of “match tags” for common stressors:
+
+“Seam match #2 vertical”
+
+“Push with trips”
+
+“Carry crossers to X depth”
+
+“Match wheel”
+
+Pros
+
+Fast install, low bust rate.
+
+Great if you’re rotating personnel or you’re short on meeting time.
+
+Still allows “Zeus look → bail to 3” without confusion.
+
+Cons
+
+Less airtight vs Verts / Flood / Switch if tags aren’t called.
+
+QBs can find soft spots if rush doesn’t get home.
+
+When to pick it
+
+You want a call-off coverage that is safe and consistent, not ultra-complex.
+
+Recommendation framework (pick based on your stated identity)
+Given you already run NINJA (Cover 7 toolbox) and you want “Zeus look → bail,” the best fit is usually:
+
+Option 2 if your DB room is experienced and you want it to “feel like NINJA but in a 3-shell.”
+
+Option 1 if you want a clean, teachable match-3 that travels week to week.
+
+Option 3 if you want the lowest bust risk and simplest install.
+
+Next: define YOUR “Viking” in one sentence
+Answer these two and I’ll write the finalized VIKING page.
+
+Is Viking primarily a:
+
+call-off from Zeus (same pre-snap picture), or
+
+a standalone 3-match you’ll call normally too?
+
+Which option are you leaning toward for Viking?
+
+1 Rip/Liz, 2 Saban-ish match-3, or 3 spot-drop + tags
+
+Reply:
+
+…
+
+…
+
+Also: catalog your Cover 0 family (so it’s organized)
+Give me the names of your Cover 0 calls and the intent (one line each). Example format:
+
+Zeus — delayed pressure, RB funnel rules (already locked)
+
+_____ — (all-out, edge pressure, 6-man, etc.)
+
+List as many as you have; I’ll turn it into a Cover 0 section with a consistent naming + call structure.
+
+
+You said:
+1: stand alone and call off if Zeus 
+2: no sure all have a place. Probably make since to have a drop cover 3 and one of the over two.
+
+Zorro B has the RB. M and W have not pass responsibility unless tagged with Tampa where they drop or spy where the one tagged spies the quarterback 
+
+Zunnel M and W funnel the RB like  Zeus  but the M and W
+
+Zill will has RB
+
+Zike M has RB
+
+ChatGPT said:
+Locked: VIKING usage
+VIKING is a standalone call and also the call-off when you show ZEUS.
+
+Given your note (“all have a place”), the clean structure is:
+
+VIKING (Base) = spot-drop Cover 3 with a small set of match tags (low bust risk; great call-off).
+
+VIKING+ (Match) = add one true match-3 system (either Rip/Liz or Saban-ish match-3) for weeks you need it.
+
+That gives you two gears without confusion.
+
+Cover 0 Family (Playbook Section Draft)
+Naming convention (so players learn it fast)
+All Cover 0 calls start with Z- and only change RB responsibility / add-ons.
+
+ZEUS (already locked)
+Core idea: delayed pressure on pass read
+
+Rush picture: A/T/N/E + B with M always adding, W/B add/drop by RB rule
+
+RB rules (locked):
+
+B and W funnel/consume/rush-away
+
+If RB up the middle → W has RB
+
+ZORRO
+RB responsibility: B has RB
+
+M and W: no pass responsibility unless tagged:
+
+TAMPA tag = M/W drop (Tampa-style middle runner / hook players)
+
+SPY tag = tagged player spies QB
+
+Coaching point: ZORRO is a simple “RB is Bandit’s problem” 0 structure that keeps M/W as add-on tools unless you tag them.
+
+ZUNNEL
+RB responsibility: M and W funnel RB (same funnel concept as Zeus, but driven by M/W)
+
+Rule (write it exactly like Zeus funnel language):
+
+RB to your side → take him
+
+RB away → (rush or rat—you choose; see quick intake below)
+
+ZILL
+RB responsibility: W has RB
+
+ZIKE
+RB responsibility: M has RB
+
+Two tags that apply to all Cover 0 calls
+TAMPA (0-Tampa)
+Converts M/W from add-on/green-dog into droppers (middle/inside zone help) while the rest stays 0-ish.
+
+Use when QB is killing you with quick in-breakers / glance and you still want pressure picture.
+
+SPY (0-Spy)
+Tagged player spies QB.
+
+Use vs Air Raid scramble/QB run game when you want 0 coverage but don’t want the QB escaping.
+
+Quick intake to finalize your ZUNNEL rules (1 line answer)
+When M/W are funneling RB and RB releases away from you, do you want that player to become:
+
+RUSH, or
+
+RAT (low hole), or
+
+LOCK (man elsewhere)?
+
+Reply: Zunnel away = RUSH / RAT / LOCK
+
+(If you don’t answer, default I recommend is RAT, because it helps on glance/slant while still keeping pressure integrity with others.)
+
+VIKING (Cover 3) — Build as “Base + Match Gear”
+VIKING (Base): Spot-drop 3 with tags (recommended default)
+Use cases
+
+Safe call-off after Zeus
+
+Prevent explosives
+
+Stable vs mixed offenses (RPO + Wing-T + Air Raid)
+
+Core structure (roles; you can tweak exact assignments)
+
+FC / BC: deep thirds (no free fades/posts)
+
+FS: middle third
+
+D: curl/flat (boundary) or seam-curl depending on formation
+
+B: curl/flat (field)
+
+M / W: hook players (eyes to QB; relate to #3)
+
+Standard tags (keep to 3–5 max)
+
+VIKING-SEAM: match #2 vertical (don’t let seams split you)
+
+VIKING-PUSH (Trips): trips distribution adjustment
+
+VIKING-CROSS: carry crosser to depth before passing
+
+VIKING-SCREEN: trigger rules vs now/bubble
+
+VIKING+ (Match gear): pick ONE system
+You said one of the other two options; here’s the clean decision:
+
+If you want simplest true match: RIP/LIZ
+Add just: VIKING RIP or VIKING LIZ
+
+It becomes your “real match 3” call for Air Raid weeks.
+
+If you want it to feel like NINJA: Saban-ish match-3
+This becomes “NINJA thinking inside a 3-shell.”
+
+Best when your DB room is experienced and you want formation-driven answers.
+
+Recommendation: start with RIP/LIZ as the first add-on because it’s easier to install cleanly. You can add the Saban-ish version later if needed.
+
+Next intake (minimal) to finish the VIKING page
+Pick the one you want as VIKING+:
+
+VIKING+ = RIP/LIZ or VIKING+ = SABAN-3
+
+Reply with that one line, plus the ZUNNEL away rule, and I’ll output:
+
+Final Cover 0 section (Zeus/Zorro/Zunnel/Zill/Zike + tags)
+
+Final Viking Base + Viking+ pages using your position tags (FC/FS/B/A/T/N/E/M/W/D/BC)
+
+A compact call menu showing: Front + Stunt + Blitz + (NINJA / VIKING / Oregon/Oklahoma/Ohio / Z-family)
+
+
+You said:
+Zunnel away Rush unless tagged with Tampa then rat
+
+Viking + rip/liz
+
+ChatGPT said:
+Locked
+ZUNNEL away = RUSH; if TAMPA tagged then RAT
+
+VIKING+ = RIP/LIZ
+
+Playbook Section: Cover 0 (Z-family)
+Global concepts
+All Z-calls are Cover 0 family. Default expectation: man leverage + aggressive rush intent.
+
+Universal tags
+
+TAMPA: converts specified 2nd-level players into droppers / inside help (RAT/middle runner concept as you coach it)
+
+SPY: tagged player spies QB
+
+ZEUS (Delayed 0 pressure)
+Intent: show pressure, delay/add on pass read, force QB to hold ball.
+
+Rush picture (base): A/T/N/E + B with M always adding
+
+W and/or B may add or not based on RB rule below.
+
+RB rules (locked)
+
+B and W:
+
+RB blocks to your side → consume block
+
+RB releases to your side → take him
+
+RB releases away → RUSH
+
+If RB releases up the middle → W has RB
+
+M: always going (add-on)
+
+ZORRO
+RB: B has RB
+M/W: no pass responsibility unless tagged
+
+TAMPA: M/W become droppers (your Tampa rules)
+
+SPY: tagged player spies QB
+
+Use: simplify RB handling; keep M/W as pressure tools unless you intentionally drop/spy.
+
+ZUNNEL
+RB: M and W funnel RB (Zeus-style funnel rules)
+
+RB to your side → take him
+
+RB away → RUSH
+
+If TAMPA tagged: away player becomes RAT (locked)
+
+Use: when RB release is the stressor and you want the ILBs to own the back while still adding rush away.
+
+ZILL
+RB: W has RB (man)
+
+Use: when you want W locked on the back (screen team, checkdown team).
+
+ZIKE
+RB: M has RB (man)
+
+Use: when M is your best matchup/trigger on RB and you want W as add-on/rat (if tagged).
+
+Playbook Section: VIKING (Cover 3 Family)
+VIKING (Base) — Spot-drop 3 with match tags
+Intent: safe, anti-explosive, low bust; also your primary Zeus call-off.
+
+Core structure (base roles)
+Deep 3
+
+FC = deep third
+
+FS = middle third
+
+BC = deep third
+
+Underneath
+
+B = curl/flat (field)
+
+D = curl/flat (boundary)
+
+M = hook
+
+W = hook
+
+If you prefer seam/curl definitions by formation (2x2 vs 3x1), we’ll add that as a tag rather than changing base rules.
+
+Recommended VIKING tags (keep menu tight)
+VIKING SEAM: match #2 vertical rules (prevent seams)
+
+VIKING PUSH (Trips): distribution adjustment vs 3x1
+
+VIKING CROSS: carry crosser to depth before passing
+
+VIKING SCREEN: trigger/replace rules vs now/bubble
+
+VIKING+ (Match Gear) — RIP/LIZ
+Intent: “true match 3” when Air Raid/RPO spacing demands it.
+
+Call: VIKING RIP or VIKING LIZ
+
+Operation: a single side call sets seam-match distribution rules (teach once; rep often)
+
+Use cases: verts, sail/flood, switch releases, glance RPO weeks
+
+Playbook Page: Coverage Call Menu (how you’ll signal it)
+Base split-field
+NINJA (checks by FS field / D boundary)
+
+2x2 default: MOD (field) + CLAMP (boundary)
+
+3x1 default: POACH
+
+Motion 2x2→3x1: auto POACH
+
+Man-free family
+OREGON = Cover 1 (post FS) + your RB funnel/rat rules
+
+OKLAHOMA = Cover 1 (post D) + same RB funnel/rat rules
+
+OHIO = Cover 1 (post B) + same RB funnel/rat rules
+
+Cover 0 family
+ZEUS / ZORRO / ZUNNEL / ZILL / ZIKE (+ TAMPA / SPY tags)
+
+Cover 3 family
+VIKING (base)
+
+VIKING RIP/LIZ (match gear)
+
+Next intake (to finalize the written pages with exact responsibilities)
+Answer these 3 items; one-liners:
+
+In OREGON/OKLAHOMA/OHIO, who has the RB by default before funnel rules apply?
+
+Example: “B has RB unless Z-tag” or “M/W funnel always” etc.
+
+In VIKING base, do you want B and D to be:
+
+hard curl/flat (fast to flat), or
+
+seam-curl-flat match (carry #2 vertical to depth then release), or
+
+“depends by tag” (then base is hard curl/flat)
+
+In ZEUS, do A/E have any QB contain rule (cage) or are they pure rush?
+
+Answer: cage/contain or pure rush
+
+After that, I will output a clean, copy/paste-ready “Coverage Section” that reads like a real playbook, plus a one-page install order (Week 1–3) for: Shade + Ninja + Oregon/Zeus + Viking.
+
+
+You said:
+1: M and W funnel the RB rush if not out their side. I tagged with Tampa the LB the RB is away from becomes the rat
+
+2: I think it makes sense to have the D be seam curl flat and B curl flat?
+
+3: I think they have to contain/cage the qb?
+
+Let’s talk Zeus rule to make sure they are correct 
+
+
+ChatGPT said:
+Locked updates
+Cover 1 (Oregon/Oklahoma/Ohio) RB / RAT rules
+M and W funnel the RB
+
+RB out to your side → you take him
+
+RB not out to your side → you rush
+
+TAMPA tag: the LB the RB is away from becomes the RAT
+
+Viking base underneath
+D = seam-curl-flat
+
+B = curl-flat
+
+Zeus contain
+A/E must cage/contain QB (we’ll formalize exact contain rules)
+
+Zeus rules — confirm and tighten (so it installs clean)
+Right now, Zeus has three “moving parts”:
+
+Rush picture (who is showing/going)
+
+RB rules (funnel/consume/rush-away)
+
+QB cage (who contains and how)
+
+Below is the Zeus page as I understand it. Mark any line as ✅ correct or edit it.
+
+ZEUS (Cover 0 delayed pressure) — Draft rules
+A) Pre-snap picture / rush structure
+Base show: A/T/N/E + B are your primary rush threats.
+
+M is an add-on rusher (always going).
+
+W is conditional (RB rules).
+
+Coverage is 0 behind it (with your RB responsibility rules).
+
+B) RB rules (locked from you)
+Applies to B and W:
+
+If RB blocks to your side → consume his block.
+
+If RB releases to your side → you have RB (take him).
+
+If RB releases away → you rush.
+
+If RB releases up the middle → W has RB.
+
+Question (needs explicit wording): if RB releases “up the middle,” does B still rush? (I assume yes unless you say otherwise.)
+
+C) M rule
+M always goes (rush/add-on) regardless of RB action.
+
+D) QB cage/contain (needs your exact technique)
+A and E are cage players:
+
+do not run past QB depth
+
+keep rush lane integrity
+
+squeeze pocket back to inside rush
+
+Interior (T/N) push depth through A/B gaps to collapse pocket.
+
+Zeus “call off” pairing (locked)
+After showing Zeus, you will call the same look and bail to:
+
+NINJA, or
+
+VIKING / VIKING RIP-LIZ
+
+Intake 6 — Zeus cage specifics (answer these 5; short)
+When you say delayed pressure on pass read, who is “reading pass”?
+
+B only? B + W? everyone? (I assume B as the trigger unless told otherwise.)
+
+Is B blitzing off the edge immediately, or creeping (2 steps, read set/release, then go)?
+
+Answer: immediate / creep-read-go
+
+If RB steps up to block middle:
+
+You said W takes him. Does W then man him (mirror), or just collision then release eyes back?
+
+Answer: man / collision then eyes
+
+If RB blocks to B’s side and B consumes:
+
+Does B stay on him the whole play (man), or can he shed and continue rush?
+
+Answer: stay / shed-rush
+
+Cage rule: do you want a 2-cage (A and E contain) or a 3-cage (A + E + one interior has a mirror/spy lane)?
+
+Answer: 2-cage / 3-cage (if 3-cage, which player: T or N or M?)
+
+Provisional Zeus page (if you want a default now)
+If you answer nothing further, the cleanest install default is:
+
+Trigger = B creep-read-go
+
+RB middle = W man
+
+Consume = stay on block
+
+Cage = 2-cage (A & E)
+
+Reply with answers 1–5 and I’ll output the finalized Zeus page (with FC/FS/B/A/T/N/E/M/W/D/BC assignments) and a short coaching script for how to teach it in 10 minutes.
+
+
+You said:
+M is in the primary rush. B is funneling the RB with the W. If the back is out his side he has him, if he is away he rushes
+
+ChatGPT said:
+Zeus — updated and simplified (based on your clarification)
+Core change
+M is a primary rusher (always in the rush).
+
+B and W share the RB funnel rule:
+
+RB out to your side → you have RB
+
+RB away → you rush
+
+This is clean and teachable.
+
+ZEUS (Cover 0) — Playbook Page (current finalized version)
+Intent
+Delayed/conditional 0 pressure that:
+
+punishes protection and RB release,
+
+forces quick decisions,
+
+still contains QB with cage lanes.
+
+Front / rush picture
+Rushers (base): A, T, N, E, M are always rush.
+
+Conditional rush: B and W based on RB release (below).
+
+Coverage: Cover 0 behind it.
+
+RB funnel rules (locked)
+Applies to B and W:
+
+If RB releases to your side → you take RB (man).
+
+If RB releases away → you rush.
+
+(If you want a specific “RB up the middle” override, add later; not required for install 1.)
+
+QB cage / contain (locked directionally)
+A and E = cage/contain
+
+do not run past QB depth
+
+keep outside rush lanes
+
+force QB to step up into interior push
+
+T and N = vertical push
+
+M = primary add-on (attack interior; keep lane integrity)
+
+Two items to confirm (so there’s no install-day ambiguity)
+RB “up the middle” (check release)
+When RB releases straight through the A-gaps (fast check release), who takes him?
+
+Option A: W takes him
+
+Option B: B takes him (if field)
+
+Option C: Nearest (B or W)
+Reply: RB middle = W / B / nearest
+
+Zeus trigger
+Is Zeus:
+
+immediate (rush now; B/W decide instantly based on back release), or
+
+creep-read-go (B/W take 1–2 read steps, then rush if away)?
+Reply: Zeus = immediate / creep
+
+If you answer those two, Zeus is fully locked.
+
+Next (I will produce immediately after your 2 answers)
+Final Zeus page (clean copy/paste)
+
+A “Zeus install script” (10-minute teach + 5 reps vs 3 common looks)
+
+A one-page “Z family” summary showing:
+
+Zorro (B has RB),
+
+Zunnel (M/W funnel; away rush; Tampa makes away LB rat),
+
+Zill (W has RB),
+
+Zike (M has RB),
+
+Zeus (B/W funnel; away rush; M always rush; cage)
+
+
+You said:
+RB middle = W
+
+2: play run first if pass read check back then rush or take RB
+
+ChatGPT said:
+ZEUS fully locked
+RB middle = W
+
+Zeus is run-first → pass-read → check RB → then rush/take RB (i.e., a read/green-dog style 0 pressure, not pure immediate).
+
+Playbook Page: ZEUS (Cover 0, run-first/pass-read)
+Intent
+Run-first alignment that becomes Cover 0 pressure on pass, with built-in RB funnel rules and QB cage.
+
+Call
+(Front) + (Stunt) + ZEUS
+Front example: SHADE + ZEUS
+
+Responsibilities (by position)
+Primary rush (always rush on pass)
+A, T, N, E, M = primary rush on pass-read
+
+A & E: cage/contain rush lanes (keep QB in pocket)
+
+T & N: vertical push/collapse pocket
+
+M: primary add-on rusher (inside lane integrity)
+
+Conditional (B and W) — run-first then RB check
+B and W are run-first (fit rules still apply).
+
+On pass-read:
+
+If RB releases to your side → you take RB (man).
+
+If RB releases away → you rush.
+
+If RB releases up the middle → W takes RB (locked).
+
+Coverage behind it
+Cover 0 (no post safety). Match leverage rules as coached (inside/out, based on scouting).
+
+Coaching points
+Eyes: B/W key RB through the first two steps.
+
+Communication: pre-snap declare RB location (back left/right/pistol).
+
+Cage: A/E cannot run past QB depth—force him up into T/N/M.
+
+Zeus install script (10 minutes + reps)
+1) 2-minute board talk (single sentence rules)
+“Run first. If pass: B/W check the back. Back to you = you have him. Back away = you rush. Middle release = W. A/E cage.”
+
+2) 3-minute walk-through (no pads)
+Rep these 3 looks:
+
+2x2 Gun RB weak (away from B)
+
+2x2 Gun RB strong (to B)
+
+3x1 Trips RB weak (check your B/W communication)
+
+Call out each rep:
+
+“Pass!” → B/W verbalize: “Back to me / away” → “Rush / I’ve got him”
+
+3) 5 reps at tempo (team or skelly + rush)
+Rep 1–2: RB check release to flat (both sides)
+
+Rep 3: RB middle release (W takes)
+
+Rep 4: RB blocks to B side (B stays run/pass discipline then rushes if away rule triggers—here it won’t)
+
+Rep 5: QB scramble attempt (A/E cage emphasis)
+
+Cover 0 “Z family” summary (one-page section)
+ZEUS
+Run-first → pass-read
+
+Rush on pass: A/T/N/E/M
+
+B/W: funnel RB; away rush; RB middle = W
+
+A/E: cage
+
+ZORRO
+B has RB
+
+M/W: no pass responsibility unless tagged
+
+Tags: TAMPA (droppers), SPY (spy QB)
+
+ZUNNEL
+M/W funnel RB
+
+RB away → rush
+
+If TAMPA tagged: away LB becomes RAT
+
+ZILL
+W has RB
+
+ZIKE
+M has RB
+
+Next intake (to finish your pressure + stunt catalog)
+List your top stunts that apply to any front (names only).
+
+List your other four-down fronts besides SHADE (name + technique picture like 5-3-2i-5).
+
+Once you drop those lists, I’ll generate:
+
+Front catalog pages (Shade + the rest)
+
+Stunt catalog pages
+
+A compact game-day call sheet skeleton aligned to Front → Stunt → Blitz → Coverage/Tags.
+
+
+You said:
+Should we talk motion and run route rules for zero family first?
+
+ChatGPT said:
+Yes. Do motion + route rules first.
+If the Z-family (0) doesn’t have motion, stack/bunch, and switch release rules, you’ll get busts—especially vs Air Raid and RPO teams. We’ll standardize a “0 family ruleset” that applies to Zeus/Zorro/Zunnel/Zill/Zike unless a tag overrides it.
+
+Cover 0 Family: Motion + Route Rules (build sheet)
+Intake 7 — answer these, then I’ll write the finalized “0 Rules” page
+A) Motion handling (most important)
+Fast motion across formation (jet/orbit): do you want
+
+Bumps (zone-off), or
+
+Lock (stay on original man), or
+
+Slide (everyone shifts responsibilities one spot)?
+
+RB motion out to empty (back leaves backfield):
+
+Who takes him by default in non-tagged 0 calls?
+
+Nearest LB (M/W), B, or call-dependent (Zill/Zike/Zorro) only?
+
+3x1 → 2x2 motion (trips reduces):
+
+Do you want to re-match live or keep original?
+
+B) Stacks / bunch / condensed (pick your base rule)
+Against bunch/stack in Cover 0, do you want:
+
+Banjo (in/out switch), or
+
+Lock (true man), or
+
+Box (triangle/box call with leverage rules)?
+
+If you already use a word (Banjo/Box/Lock), tell me your word.
+
+C) Switch releases / routes (Air Raid problems)
+Versus switch verticals (slot and WR crossing releases), do you want defenders to:
+
+Chase (stay man no matter what), or
+
+Zone it off at a landmark (pass off), or
+
+Call “In/Out” and exchange?
+
+Crossers (mesh/shallow):
+
+Do you want a built-in “no rub” rule (trail + over/under communication), or do you prefer to pressure it and live with it?
+
+D) Pick protection vs rub routes (must-have)
+On rub/pick attempts, do you teach:
+
+“Lock unless picked, then plaster nearest”, or
+
+“Switch on contact”, or
+
+specific “Rub” call?
+
+Reply as:
+
+A1 …
+
+A2 …
+
+A3 …
+
+B4 …
+
+C5 …
+
+C6 …
+
+D7 …
+
+After your answers, I will produce:
+
+A single Cover 0 Motion & Route Rules page,
+
+A short sideline tag set (2–4 tags) to handle bunch/switch/empty without adding more base calls.
+
+
+You said:
+A1: slide safeties travel
+A2: nearest based on call, depending on personnel we could use nearest B or W
+A3: safety travels
+B4: banjo with bunch we will have a C: first out, D: first in, FS: deeper in the middle of C and D he will take the second in, second out, or middle. The FS is the fixer (make the C and D right)
+C5: play of rails and exchange. In zero everyone has to have a man. Safeties make the corner right
+C6: need help here, currently the pllay MEG 
+D7: switch on contact 
+
+ChatGPT said:
+Locked: Cover 0 (Z-family) motion + route rules
+Fast motion: SLIDE, safeties travel
+
+Trips reduce / formation change: safety travels (i.e., re-fit match responsibilities with travel)
+
+RB to empty: nearest by call/personnel, typically B or W
+
+Bunch/stack: BANJO
+
+C (BC) = first OUT
+
+D = first IN
+
+FS = deeper middle / fixer (takes 2nd in/2nd out/middle; makes C & D right)
+
+Switch verticals / rails: exchange, safeties make corners right
+
+Rub/pick: switch on contact
+
+Crossers/mesh: currently MEG; you want better help here
+
+Playbook Page: Cover 0 Family — Motion & Route Rules (applies to Zeus/Zorro/Zunnel/Zill/Zike unless tagged)
+1) Motion rules
+Fast motion (jet/orbit/across)
+Call: SLIDE
+
+Safeties travel with the motion and set the slide.
+
+Underneath defenders slide leverage/responsibility one position as coached.
+
+Trips reduce / 3x1 → 2x2 late
+Safeties travel and reset matchups pre-snap.
+
+RB motion out (empty)
+RB is taken by the nearest by call/personnel (typically B or W).
+
+(If you want this 100% deterministic, we can add one tag: EMPTY = B or EMPTY = W.)
+
+2) Bunch/Stack rules — BANJO (0 family)
+C (BC): First OUT
+
+D: First IN
+
+FS: deeper middle fixer
+
+takes 2nd IN / 2nd OUT / middle
+
+FS makes C and D right (final adjustment voice)
+
+3) Switch releases / Rails
+Exchange rules vs switch verticals/rails.
+
+Safeties make corners right (final authority to prevent two-on-one busts).
+
+Everyone still ends with a man.
+
+4) Pick/Rub
+Switch on contact
+
+Communicate through traffic; plaster nearest eligible if picked.
+
+Mesh / crossers (C6) — recommended solution set (choose 1 base + 1 tag)
+Right now “MEG” vs mesh can get you rub’d up if you don’t have a built-in escape hatch. In a Cover 0 family, you generally have three workable approaches:
+
+Option A: “CUT” (switch/trail rules built into 0)
+Rule: shallow crossers are cut across the formation; defenders don’t chase through the wash.
+
+Pros: reduces busts vs mesh/rub, keeps leverage clean.
+
+Cons: needs clear landmark (e.g., “cut at the ball” or “cut at the hash”).
+
+Option B: “RAT” tag (one low-hole player)
+Even in “0 family,” you can tag a RAT (usually W or M) to sit inside and erase mesh.
+
+Pros: best vs mesh and glance; pairs with your TAMPA concept.
+
+Cons: technically no longer pure 0; but it plays like 0 to the QB pre-snap if disguised.
+
+Option C: Pressure answer (call it when you expect mesh)
+Call ZEUS or a true all-out 0 when they live in mesh—force the ball out before mesh develops.
+
+Pros: simple; fits your aggressive identity.
+
+Cons: if they screen you, must have screen triggers.
+
+What I recommend for your system
+Base rule: keep MEG as default for normal sets.
+
+Add one mesh tag: RAT (or CUT) so you can call it quickly.
+
+Since you already use TAMPA and understand RAT, the lowest-friction add is:
+
+“RAT” = the LB away from RB (or called LB) sits low hole and hunts crossers.
+
+Intake 8 — pick your mesh solution
+Choose:
+
+Base mesh solution for Z-family:
+
+CUT or RAT-tag only (keep MEG unless tagged)
+
+If RAT: who is your default RAT in Z-family?
+
+M / W / B / “away-from-RB LB”
+
+Reply:
+
+…
+
+…
+
+After that, I’ll output a finalized “0 Family Rules” page plus the quick sideline tags list (SLIDE / BANJO / EXCHANGE / MESH tag) and integrate it into the Zeus/Z-calls pages.
+
+
+You said:
+Safeties slide/bump with receiver motion the underneath defenders don’t 
+Option C
+We have a rat call  with Tampa 
+
+ChatGPT said:
+Updates locked (corrections)
+On motion, ONLY safeties slide/bump with receiver motion. Underneath defenders do not slide.
+
+Mesh/crossers solution for the Z-family: Option C (pressure answer).
+
+You already have RAT via TAMPA as the complementary answer.
+
+Playbook Page: Cover 0 Family Rules (Motion + Route + Picks)
+Applies to: ZEUS / ZORRO / ZUNNEL / ZILL / ZIKE unless a tag overrides.
+
+1) Motion rules (critical)
+Receiver motion (jet/orbit/return/short)
+Safeties travel (slide/bump).
+
+Underneath defenders do NOT slide/bump.
+
+The traveled safety fixes matchups and prevents leverage busts.
+
+Trips reduce / 3x1 → 2x2
+Safeties travel and reset who is responsible for what (fixer behavior).
+
+Underneath stays locked unless the call assigns RB/empty.
+
+RB motion out (empty)
+RB taken by nearest by call/personnel (typically B or W in your structure).
+
+2) Bunch/Stack: BANJO (0 family)
+C (BC): first OUT
+
+D: first IN
+
+FS: deeper middle fixer
+
+takes 2nd IN / 2nd OUT / middle
+
+FS makes C and D right
+
+3) Switch releases / Rails
+EXCHANGE vs switch verticals/rails.
+
+Safeties make corners right (final authority).
+
+Everyone finishes with a man (0 integrity).
+
+4) Rub/Pick
+Switch on contact
+
+If picked: communicate and plaster nearest immediate threat.
+
+Mesh / Crossers rule for Z-family (your choice)
+Base answer (Option C): Pressure
+If you anticipate mesh/shallow/crossers-heavy:
+
+Call ZEUS (or another Z pressure) and make the ball come out before mesh develops.
+
+Coaching point: pressure must be married with screen/flat triggers (handled by film-plan tags, not base rules).
+
+Complement (already in your system): TAMPA = RAT
+When you want a crossers eraser without changing the whole call:
+
+Tag TAMPA so your RAT player hunts crossers/windows.
+
+This is your “call-off the mesh” without adding a new base coverage.
+
+Sideline tag set for the 0 family (keep it small)
+BANJO = bunch/stack rules
+
+EXCHANGE = switch/rails rules
+
+TAMPA = RAT/inside help rules (your existing call)
+
+SPY = QB spy (your existing tag)
+
+(Optional later) EMPTY=B or EMPTY=W if you want RB-out rules deterministic
+
+Confirm one thing so I can write the final teach script accurately
+When you say “safeties slide/bump with receiver motion,” who are the safeties involved?
+
+FS and D only, or FS + D + B when in Ohio/post-B?
+
+If you don’t answer, default assumption: FS and D are the traveling fixers.
+
+
+You said:
+With the motion the safety will not cross the other safety if the receiver continues he will become the next safeties guy if he crosses the number one receiver he will become the corner’s guy. Does that make sense?
+
+ChatGPT said:
+Yes. You are describing a handoff (“zone-the-motion”) rule for man/0 so the safeties do not run through each other and you avoid busts.
+
+Here is the clean way to write it in the playbook using your terms.
+
+Cover 0 Motion Rule: Safety Travel With Hand-offs
+Principle
+Safeties travel with motion in their half.
+
+Safeties do not cross.
+
+If motion carries a receiver across a leverage boundary, the responsibility hands off.
+
+Handoff boundaries (you named two)
+Boundary 1 — Crossing the other safety
+If the motion receiver continues across the middle such that he would require a safety to cross the other safety, then:
+
+He becomes the next safety’s man (handoff to the opposite safety).
+
+Boundary 2 — Crossing the #1 receiver
+If the motion receiver crosses the #1 receiver on that side (i.e., becomes the new outside-most / “new #1”):
+
+He becomes the corner’s man on that side (handoff to FC or BC).
+
+Communication
+The traveling safety makes a loud “YOU / ME” (or your preferred words) call to confirm the handoff:
+
+“ME” = I’m staying with him
+
+“YOU” = you’ve got him (handoff)
+
+Two clarifying details to make it unambiguous (answer with your preference)
+When you say “cross the #1 receiver,” do you mean:
+
+cross his path (literally passes behind/in front of #1), or
+
+cross his alignment (becomes outside of #1 / becomes the new widest)?
+
+On that corner handoff, does the corner play it as:
+
+lock man immediately, or
+
+banjo-like in/out only if it’s a stack/bunch?
+
+If you answer those two, I’ll finalize this into a single “Motion Handoff” box that plugs into the 0 Family Rules page and the NINJA motion page (so motion rules are consistent across the whole defense).
+
+
+You said:
+I have them yell bump, as in they traveling safety is bumping the other safety to the motion guy then the other safety bumping the motion guy to the corner of he continues 
+
+ChatGPT said:
+Yes, that makes sense. Here is the clean “BUMP” rule written as a playbook-ready standard.
+Cover 0 Family Motion Rule: BUMP–BUMP (Safety-to-Safety-to-Corner)
+Trigger
+Any receiver motion that threatens to take a safety across the formation.
+
+Core principle
+Safeties travel, but safeties do not cross.
+
+The motion receiver is handed off in two possible bumps:
+
+Safety → Safety
+
+Safety → Corner (if motion continues to become outside)
+
+Procedure / Calls (what players yell)
+1) First “BUMP” = Safety → Safety
+The traveling safety (usually FS or D) yells “BUMP!”
+
+Meaning: “I am bumping this motion receiver to the other safety because I will not cross.”
+
+The other safety now owns the motion receiver if he continues across.
+
+2) Second “BUMP” = Safety → Corner
+If the motion receiver continues and becomes the new outside receiver (or crosses to where he’s treated as #1 outside),
+the safety yells “BUMP!” again to the corner on that side.
+
+Meaning: “Corner, you’ve got him now.”
+
+Resulting assignment rules
+If motion stays within your half: original safety keeps him.
+
+If motion would cause safeties to cross: bump to the other safety.
+
+If motion continues to the outside: bump to the corner.
+
+Notes (to prevent busts)
+Corners must anticipate the second bump: when they hear BUMP from the safety, they tighten eyes to the motion receiver.
+
+Safeties remain the fixers and make the corner right.
+
+One detail to lock wording
+When you say “to the corner,” does the corner take him as:
+
+pure man (lock) always, or
+
+only if he becomes new #1 / widest, otherwise keep original?
+
+If you don’t want to add another verbal, the simplest rule is:
+
+Corner takes him only when he becomes the new widest (#1) to that side.
+
+If that matches your intent, I will treat it as locked and integrate it into:
+
+the 0 Family Rules page,
+
+the BANJO section (so it doesn’t conflict),
+
+and the NINJA motion page (as the man-family version).
+
+
+You said:
+Corner takes him only when he becomes the new widest (#1) to that side
+easy camp DB rules for 0 family corners have #1 to their side, safeties have #2 to their side or #3 away if there is no #2 to their side
+
+ChatGPT said:
+Locked
+BUMP–BUMP: Corner takes motion only when he becomes new widest (#1) to that side.
+
+0-family CAMP DB rules (base distribution):
+
+Corners (FC/BC): #1 to their side
+
+Safeties (FS/D): #2 to their side, or #3 away if there is no #2 to their side
+
+Playbook Page: Cover 0 Family — CAMP DB Rules + Motion (Final)
+Applies to: ZEUS / ZORRO / ZUNNEL / ZILL / ZIKE unless a tag (BANJO/EXCHANGE/TAMPA/SPY) overrides.
+
+1) Base match distribution (CAMP DB rules)
+Corners
+FC: man on #1 to the field
+
+BC: man on #1 to the boundary
+
+Safeties
+FS: man on #2 to the field
+
+If there is no #2 to the field, FS takes #3 away
+
+D: man on #2 to the boundary
+
+If there is no #2 to the boundary, D takes #3 away
+
+This creates a simple, teachable distribution while keeping safeties as fixers.
+
+2) Motion rule: BUMP–BUMP (safeties travel; no crossing)
+Principles
+Safeties travel with motion. Underneath defenders do not.
+
+Safeties do not cross.
+
+Motion can be handed off Safety → Safety → Corner.
+
+Calls and handoffs
+Safety → Safety (“BUMP!”)
+
+Traveling safety yells BUMP
+
+Meaning: “I’m handing motion to the other safety because I will not cross.”
+
+Safety → Corner (“BUMP!”)
+
+If the motion receiver continues and becomes new #1 / widest to that side:
+
+Safety yells BUMP to the corner
+
+Corner takes him only when he becomes the new widest (#1).
+
+3) Bunch/Stack tag: BANJO
+BC (“C”): first OUT
+
+D: first IN
+
+FS: deeper middle fixer (2nd in/2nd out/middle) and makes C/D right
+
+4) Switch/rails tag: EXCHANGE
+Exchange responsibilities vs switch verticals/rails
+
+Safeties make corners right; everyone ends with a man
+
+5) Rub/Pick
+Switch on contact
+
+6) Mesh / Crossers (your philosophy)
+Base solution: pressure answer (ZEUS or other Z pressure)
+
+Complement: TAMPA = RAT (when you want inside help)
+
+One follow-up to prevent an edge-case bust (answer with one line)
+When you say “safeties have #2 to their side,” what if the formation is 2x2 and #2 goes in fast motion to become #3 away—do you want the safety to:
+
+travel until bump boundary happens, then hand off via BUMP–BUMP (recommended), or
+
+snap to new #2 immediately?
+
+If you don’t answer, I’ll default to: travel then BUMP (consistent with your rule).
+
+Next build step (no more theory): write the actual pages for
+Oregon / Oklahoma / Ohio (Cover 1 variants) using CAMP distribution + your RB funnel/rat rules
+
+NINJA (MOD/CLAMP/POACH + motion procedure)
+
+VIKING / VIKING RIP-LIZ (base + match gear)
+
+Say which you want first: C1, NINJA, or VIKING.
+
+
+You said:
+banjo is a call by the safety (generally when receivers are stack or have close split, it's more of an alert), this will not be called in. Exchange is a auto for route concepts that have a rub/pick. the DBs need to be in sync
+
+ChatGPT said:
+Locked refinements
+BANJO is an on-field safety alert/check (typically vs stack/close splits). It is not signaled in.
+
+EXCHANGE is an automatic response vs rub/pick route concepts (not a called tag).
+
+DB sync is mandatory: safeties are the fixers and make corners right.
+
+Updated Playbook Page: 0-Family DB Rules (CAMP + Autos)
+1) CAMP distribution (base)
+FC / BC: #1 to your side
+
+FS / D: #2 to your side; if no #2 to your side → #3 away
+
+2) Motion: BUMP–BUMP (auto)
+Safeties travel with motion; underneath defenders do not
+
+Safeties do not cross
+
+BUMP 1: traveling safety bumps motion to the other safety if he would cross
+
+BUMP 2: safety bumps motion to the corner only if motion becomes new widest (#1) to that side
+
+3) BANJO (safety alert/check — NOT called in)
+Trigger: stack, tight/close splits, bunch-ish spacing (anything likely to create rubs).
+Authority: FS or D (their side).
+Execution (your roles):
+
+BC (“C”): first OUT
+
+D: first IN
+
+FS: deeper middle fixer (2nd in/2nd out/middle) — makes C/D right
+(If the bunch is to the field and you want FC involved instead of BC, we can mirror these roles by side.)
+
+4) EXCHANGE (automatic vs rub/pick concepts)
+Trigger: any route concept that creates a rub/pick (mesh, whip/pivot traffic, stack releases).
+Rule: DBs exchange responsibilities to avoid chasing through the wash; safeties make corners right.
+Rub contact rule: switch on contact (still applies).
+
+To ensure DBs are “in sync,” we should standardize the pre-snap safety talk
+This is the simplest, consistent script for FS/D:
+
+Safety pre-snap communication (0 family)
+“CAMP!” = base distribution active (default)
+
+“BANJO!” = stack/close-split alert (on-field check)
+
+“BUMP!” = motion handoff happening (BUMP–BUMP rule)
+
+“FIX!” (optional word) = safety is correcting corner leverage/responsibility
+
+If you already use different words, list them and I’ll match your language.
+
+One item to lock: BANJO on the field side
+You described BC as “C” in your Banjo example. Do you want Banjo to be:
+
+boundary-only (BC/D/FS as you described), or
+
+mirrored by side (FC/FS/D on field bunch; BC/D/FS on boundary bunch)?
+
+If you don’t answer, I’ll assume mirrored by side, with the near corner = first OUT, near safety = fixer, and opposite safety = deeper middle fixer as needed.
+
+Next page to draft (pick one)
+0-family DB section (final polished with diagrams later)
+
+Cover 1 Oregon/Oklahoma/Ohio (ties directly to these 0-family autos)
+
+NINJA (MOD/CLAMP/POACH procedure)
+
+Reply with 1, 2, or 3.
+
+
+You said:
+remove this DB sync is mandatory: safeties are the fixers and make corners right.
+just not safeties are the fixers make the corner right
+
+ChatGPT said:
+Updated wording (removed the extra sentence):
+
+Safeties are the fixers; make the corner right.
+
+Here is the corrected section in full so you can copy/paste into the playbook.
+
+0-Family DB Rules (CAMP + Autos)
+1) CAMP distribution (base)
+FC / BC: #1 to your side
+
+FS / D: #2 to your side; if no #2 to your side → #3 away
+
+2) Motion: BUMP–BUMP (auto)
+Safeties travel with motion; underneath defenders do not
+
+Safeties do not cross
+
+BUMP 1: traveling safety bumps motion to the other safety if he would cross
+
+BUMP 2: safety bumps motion to the corner only if motion becomes new widest (#1) to that side
+
+3) BANJO (safety alert/check — NOT called in)
+Trigger: stack, tight/close splits, bunch-ish spacing (rub likelihood).
+Authority: FS or D (their side).
+Execution (roles):
+
+Corner: first OUT
+
+Near safety: first IN
+
+Opposite safety: deeper middle fixer (2nd in/2nd out/middle) — makes it right
+
+4) EXCHANGE (automatic vs rub/pick concepts)
+Trigger: any rub/pick route concept (mesh, stack releases, traffic).
+Rule: exchange responsibilities to avoid chasing through wash; switch on contact still applies.
+
+Fixer principle
+Safeties are the fixers; make the corner right.
+
+
+You said:
+last thing we need to discuss with this, and please help me on this. We need a call for when a receiver is under now and RB is out fast. effectively working to pick the lb responsible for the RB. We don't want this to be over used because we don't want the lb on a receiver, but we need to have a way to handle this is applicable in our cover 1 family too. the bump and banjo rules are applicable in our cover one family too
+
+ChatGPT said:
+Goal
+You need a single, rare alert that solves: “#1 NOW + RB FAST OUT” (a manufactured rub/pick on the RB-responsible LB), and it must work in Cover 0 and Cover 1 without living with LBs on WRs.
+
+This is a common stressor: offenses run NOW/under by #1 to create traffic, while the RB fast-swings to the flat to pick the LB.
+
+Recommended solution: one universal call — “SWAP” (or “BOSS” if you prefer)
+Meaning: “Swap RB responsibility from the LB to the apex/DB so the offense can’t pick the LB.”
+
+Trigger (when to use it)
+#1 goes NOW/under toward the RB-responsible LB AND
+
+RB is FAST OUT (swing/arrow) to that same side
+
+Why it works
+The LB stops chasing through the rub window.
+
+A DB who is already outside/leverage-ready takes the RB quickly.
+
+It stays rare: only called when you see the pick setup.
+
+Exact rule (works in Cover 0 + Cover 1)
+SWAP (alert called by the fixer safety)
+Caller: the safety to that side (FS for field, D for boundary) as the fixer.
+
+Assignments (simple, consistent)
+Apex DB takes RB:
+
+Field side: B takes RB
+
+Boundary side: D takes RB (or if you prefer, D hands it to BC—see option below)
+
+LB becomes RAT / add-on:
+
+The LB who would have had RB (M or W) becomes RAT (inside help) or rush depending on the call (0 vs 1)
+
+This keeps LBs off receivers while still covering the RB.
+
+Two implementation options (pick one)
+Option 1 (simplest): B/D take RB
+Field SWAP: B has RB, M becomes RAT/add
+
+Boundary SWAP: D has RB, W becomes RAT/add
+
+Pros: minimal teaching, no corner involvement.
+Cons: boundary safety on RB can stress deep integrity if you were relying on him as post in some C1 versions.
+
+Option 2 (keeps safety deep): B/Corner take RB
+Field SWAP: B has RB, M RAT/add (same)
+
+Boundary SWAP: BC has RB, W RAT/add, D stays deep/fixer
+
+Pros: preserves safety structure in C1 and helps vs shots.
+Cons: requires boundary corner comfort taking RB fast.
+
+Given you have Oregon (FS post) and Oklahoma (D post), Option 2 is often cleaner because it prevents a conflict when D is the post.
+
+How it ties to your existing autos
+BUMP still handles motion.
+
+BANJO still handles tight splits/stack.
+
+EXCHANGE still auto-triggers on rub routes.
+
+SWAP is specifically the NOW + RB FAST OUT pick setup alert.
+
+Quick install wording (what players memorize)
+“If #1 goes NOW and the back is FAST OUT to us: SWAP — DB takes the back, LB becomes RAT/add.”
+
+Minimal questions to lock it (answer in one line)
+For field side SWAP, do you want it always: B takes RB? (recommended: yes)
+
+For boundary side SWAP, pick: D takes RB or BC takes RB (to keep D deep when he’s post in Oklahoma).
+
+Reply:
+
+Field SWAP = B
+
+Boundary SWAP = D or Boundary SWAP = BC
+
+Once you choose, I’ll write the final “NOW + RB FAST OUT” section and explicitly state it applies to Cover 0 and Cover 1 families, alongside BUMP/BANJO/EXCHANGE.
+
+
+You said:
+no the receiver run under inside to pick the lb that is responsible for the RB. the db needs to pick up the RB and LB will have to take the receiver. 
+
+ChatGPT said:
+Understood. You want a rub switch: when #1 runs UNDER inside to pick the RB-LB, the DB takes the RB and the LB takes the UNDER (so the LB does not fight through the pick). This must apply to Cover 0 and Cover 1, and it should be used sparingly.
+
+Below is a playbook-ready solution.
+
+Universal call: UNDER (or “SCAT” / “RUB” if you prefer)
+Meaning: “If #1 goes UNDER and RB is FAST OUT, we SWITCH it: DB has RB, LB takes UNDER.”
+
+Trigger (when you call UNDER)
+#1 (WR) runs UNDER/now inside toward the RB-responsible LB AND
+
+RB releases FAST OUT to the flat/swing on that side.
+
+Who calls it
+The fixer safety to that side (FS field / D boundary): yells “UNDER! UNDER!”
+
+Corners echo if needed.
+
+Responsibilities (works in Cover 0 + Cover 1)
+On the side of the rub
+DB (apex/flat defender) — takes RB
+Field side: B takes RB (fast out/swing/arrow).
+
+Boundary side: D takes RB (or BC if you want; see note below)
+
+LB who originally had RB — takes UNDER
+The LB who would have had the RB (M or W) now takes the UNDER from #1 (man).
+
+Coaching point: take it tight and inside, expect traffic, stay on hip.
+
+Everyone else
+Man rules stay intact. No other swaps unless BANJO/EXCHANGE also triggers by structure.
+
+Why this solves your problem
+The offense is trying to pick the RB-LB so RB is uncovered.
+
+This call refuses the pick:
+
+LB doesn’t fight through trash to chase RB.
+
+DB takes the RB clean with outside leverage.
+
+LB replaces onto the receiver who created the rub.
+
+Keep it from being overused (your constraint)
+Make it an alert, not a base rule:
+
+Use conditions (recommended)
+Call UNDER only if:
+
+you see repeated fast-out + under on film, or
+
+you see stack/close splits + RB fast-out, or
+
+it’s 3rd and medium and they’re hunting picks.
+
+Otherwise, play your normal funnel/RB rules.
+
+One detail to lock (so it’s consistent across Oregon/Oklahoma/Ohio)
+On the boundary side, do you want the RB picked up by:
+
+D (safety), or
+
+BC (corner), keeping D free to stay deep/fixer?
+
+Reply with one line:
+
+UNDER boundary = D or UNDER boundary = BC
+
+If you pick D, it’s simplest.
+If you pick BC, it preserves structure when D is the post in Oklahoma.
+
+
+You said:
+in zeus the lb taking the RB will be the B or the W in zorro it will be the B in zunnel it will be the M or the W in zill it will be the W in zike it will be the M. 
+
+ChatGPT said:
+Locked. You are defining who the “RB LB” is per Z-call, so the UNDER rub-switch can be automatic and consistent.
+
+Below is the playbook-ready integration.
+
+Z-Family RB Responsibility (for UNDER / rub-switch logic)
+This list defines who is the primary RB player (“RB LB”) for purposes of:
+
+UNDER (WR under pick + RB fast out)
+
+any “back fast” alerts you add later
+
+ZEUS
+RB player = B or W (per Zeus funnel rule: back to your side = you take him)
+
+ZORRO
+RB player = B
+
+ZUNNEL
+RB player = M or W (funnel: back to your side = you take him)
+
+ZILL
+RB player = W
+
+ZIKE
+RB player = M
+
+Universal rub-switch call: UNDER (applies to Z-family + Cover 1 family)
+Trigger
+#1 runs UNDER inside to pick the RB player AND
+
+RB is FAST OUT to that side.
+
+Rule (the switch)
+DB takes RB
+
+RB player takes UNDER
+
+“RB player” is call-dependent (from list above)
+Zeus: B/W
+
+Zorro: B
+
+Zunnel: M/W
+
+Zill: W
+
+Zike: M
+
+“DB takes RB” (standardize this)
+Recommended default (consistent, easy):
+
+Field side: B takes RB (already your field apex)
+
+Boundary side: D takes RB (unless you prefer BC; if D is post in Oklahoma you may prefer BC)
+
+Coaching point
+RB player doesn’t fight through traffic to chase RB. He replaces onto the under route immediately.
+
+One lock needed (so the rule is executable on Friday)
+For boundary side UNDER, which DB takes the RB?
+
+UNDER boundary = D or UNDER boundary = BC
+
+If you answer nothing, I will default to: UNDER boundary = D (simplest and matches “safety fixer” concept).
+
+
+You said:
+it depends on the which receiver is under to pick the lb
+
+ChatGPT said:
+Understood. The rule can’t be “boundary DB always takes RB” because the under route can come from different receivers (X/#1, slot/#2, or even #3), and the correct switch depends on who is creating the rub lane and which defender is being picked.
+
+The clean way to solve this is to make UNDER a role-based switch, not a position-based switch:
+
+Universal call: UNDER (Rub-Switch, role-based)
+Trigger
+Any receiver runs UNDER into the path of the defender who is responsible for the RB on that call (RB player) and
+
+RB releases FAST OUT (swing/arrow) to that same side.
+
+Rule (always true)
+RB player takes the UNDER (replace the pick).
+
+The defender who was responsible for that UNDER takes the RB (swap).
+
+That’s it. No guessing whether it’s D/BC/B—whoever would have covered the under route now becomes the RB player.
+
+How to teach “who is the UNDER defender” quickly (CAMP-based)
+You already have CAMP distribution for 0-family:
+
+Corners = #1
+
+Safeties = #2 (or #3 away if no #2)
+
+So define the UNDER creator and the corresponding UNDER defender:
+
+If the UNDER is by #1
+UNDER defender = the corner to that side (FC or BC)
+
+Swap outcome: Corner takes RB, RB player takes UNDER.
+
+If the UNDER is by #2
+UNDER defender = the safety to that side (FS or D)
+
+Swap outcome: Safety takes RB, RB player takes UNDER.
+
+If the UNDER is by #3
+UNDER defender = the safety who owns #3 away (per your CAMP rule)
+
+Swap outcome: That safety takes RB, RB player takes UNDER.
+
+This works across Zeus/Zorro/Zunnel/Zill/Zike because the only changing variable is who the RB player is (which you already defined).
+
+Make it fast on-field (the verbal)
+Have the fixer safety call it as:
+
+“UNDER! UNDER! (ONE/TWO/THREE)!” (optional)
+Or if you want no numbers:
+
+“UNDER X!” (meaning under by #1)
+
+“UNDER 2!”
+
+“UNDER 3!”
+
+If you want even simpler: just “UNDER” and DBs identify who went under.
+
+Applies to Cover 1 family too
+Because your Cover 1 still has a defined man distribution, the same role-based swap works:
+
+The RB player (M/W/B depending on call/tag) takes the UNDER.
+
+The defender who had that UNDER in man takes the RB.
+
+Two locks to finalize this into a playbook page
+Do you want the safety to include the identifier in the call?
+
+UNDER only, or UNDER 1/2/3
+
+When the swap happens, does the new RB defender play it as:
+
+man to completion, or
+
+collision then rally (only if RB is in the flat)?
+
+Reply:
+
+…
+
+…
+
+
+You said:
+in cover one family it will be the M or W that has the RB the B will be middle of the field safety of have a receiver
+
+ChatGPT said:
+Locked: Cover 1 family structure (RB + post)
+In Cover 1 (Oregon/Oklahoma/Ohio) the RB player is M or W (per funnel rules / call).
+
+B (Bandit) is either:
+
+MOF safety (Ohio), or
+
+has a receiver (when not MOF).
+
+That means the UNDER rub-switch in Cover 1 should be written so it does not assume B is available.
+
+Playbook Add: UNDER (Rub-Switch) — Cover 1 + Z-Family
+Purpose
+Answer WR UNDER pick on the RB-LB paired with RB fast out, without forcing the LB to fight through traffic.
+
+Trigger
+Any receiver runs UNDER into the path of the RB player (M or W in Cover 1; call-dependent in Z-family)
+
+RB releases FAST OUT to the same side.
+
+Rule (role-based, universal)
+RB player takes the UNDER (replace the pick).
+
+The defender who had that UNDER takes the RB (swap).
+
+This works regardless of whether B is MOF safety or manned up.
+
+Cover 1 application (explicit)
+RB player
+M or W (your Cover 1 rule)
+
+Who becomes “the UNDER defender” (and therefore takes the RB)?
+If UNDER is by #1 → corner (FC/BC) takes RB
+
+If UNDER is by #2 → safety to that side (FS or D, depending on Oregon/Oklahoma structure) takes RB
+
+If UNDER is by TE/#3 and he is the crosser → whoever is man on him takes RB
+
+In Ohio (B as MOF), B is not assumed to help with this swap unless the under route is actually B’s man.
+
+Z-family application (ties to your RB assignments)
+Use the same two-step rule, with your RB-player list:
+
+Zeus: B or W (funnel rule)
+
+Zorro: B
+
+Zunnel: M or W
+
+Zill: W
+
+Zike: M
+
+One lock to finalize this page cleanly
+When you call it, do you want the verbal to include the under source?
+
+UNDER (everyone identifies who went under), or
+
+UNDER 1 / UNDER 2 / UNDER 3 (faster, fewer busts)
+
+Reply with one: UNDER or UNDER 1/2/3.
+
+
+You said:
+just under is fine
+
+ChatGPT said:
+Locked: the call is UNDER only (no numbers).
+
+Final Playbook Insert: UNDER (Rub-Switch Alert)
+Applies to: Cover 0 Z-family and Cover 1 family (Oregon/Oklahoma/Ohio).
+Call type: on-field alert (fixer-driven), not signaled in.
+
+Trigger
+A receiver runs UNDER inside to pick the defender responsible for the RB and
+
+The RB releases FAST OUT to that same side.
+
+Rule (universal, role-based)
+RB player takes the UNDER (replace the pick).
+
+The defender who had the UNDER takes the RB (swap).
+
+RB player by family
+Cover 1 family
+RB player = M or W (per your Cover 1 RB rule).
+
+B may be MOF safety (Ohio) or have a receiver; do not assume B is free.
+
+Z-family
+ZEUS: B or W (funnel rule)
+
+ZORRO: B
+
+ZUNNEL: M or W
+
+ZILL: W
+
+ZIKE: M
+
+Communication
+Fixer (safety on that side) calls: “UNDER! UNDER!”
+
+RB player echoes if needed.
+
+Coaching point
+RB player does not fight through traffic to chase RB. He replaces onto the under route immediately; the under defender takes the back clean outside.
+
+If you want, next I can write the Cover 1 family page (Oregon/Oklahoma/Ohio) incorporating: BUMP, BANJO, EXCHANGE, and UNDER as shared autos/alerts.
+
+
+You said:
+ok
+
+ChatGPT said:
+Next: Cover 1 family pages (playbook-ready)
+Cover 1 family call list
+OREGON = C1, FS is post (MOF)
+
+OKLAHOMA = C1, D is post (MOF)
+
+OHIO = C1, B is post (MOF)
+
+Shared autos/alerts (apply to all 3)
+BUMP–BUMP (motion; safeties travel, don’t cross; corner takes only if new widest)
+
+BANJO (safety alert vs stack/close splits; not signaled in)
+
+EXCHANGE (automatic vs rub/pick concepts)
+
+UNDER (rub-switch vs under + RB fast out)
+
+Playbook Page: COVER 1 — OREGON (Post = FS)
+Assignments
+FS: post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1 (technique by tag)
+
+D: man on #2 boundary (or next eligible by formation)
+
+B: man on #2 field (or next eligible by formation)
+
+M / W: RB funnel rules (below) + add-on rush rules if tagged
+
+RB funnel / RAT rules (locked)
+M and W funnel RB
+
+RB releases to your side → you take RB
+
+RB releases away → you rush
+
+If TAMPA tagged: LB away from RB becomes RAT
+
+Autos/alerts
+BUMP–BUMP vs motion (safeties travel; no cross; corner takes only if new widest)
+
+BANJO alert vs stack/close splits
+
+EXCHANGE auto vs rub/pick routes
+
+UNDER alert: RB LB takes UNDER; UNDER defender takes RB
+
+Playbook Page: COVER 1 — OKLAHOMA (Post = D)
+Assignments
+D: post (MOF) — fixer; make the corner right
+
+BC / FC: man on #1
+
+FS: man on #2 field (or next eligible)
+
+B: man on #2 field/slot structure as aligned (confirm below*)
+
+M / W: RB funnel rules (same as Oregon)
+
+RB funnel / RAT rules
+(same as Oregon; copy/paste)
+
+Autos/alerts
+(same as Oregon; copy/paste)
+
+* One lock needed: in Oklahoma, with D as post, do you want FS to be the primary field overhang on #2 while B is nickel/fit-first and takes #2 only if released? Or is B always #2 field in C1 regardless?
+Reply: Oklahoma #2 field = B or Oklahoma #2 field = FS.
+
+Playbook Page: COVER 1 — OHIO (Post = B)
+Assignments
+B: post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1
+
+FS: man on #2 field
+
+D: man on #2 boundary
+
+M / W: RB funnel rules (same as above)
+
+RB funnel / RAT rules
+(same)
+
+Autos/alerts
+(same)
+
+Quick confirmation to finalize all three pages
+Answer these two:
+
+Oklahoma #2 field = B or FS
+
+In Cover 1, do you want corners default leverage:
+
+inside or outside (if “depends,” tell me default and your changeup tag)
+
+Once you answer, I’ll output the final polished Cover 1 section with no placeholders.
+
+
+You said:
+man on #2 boundary (or next eligible by formation) ... should be .. man on #2 boundary or #3 away if there is no #2 boundary. fix all similar to reflect this
+
+ChatGPT said:
+Updated. Anywhere I wrote “#2 (or next eligible by formation)” is replaced with your CAMP distribution language:
+
+Corners: #1 to their side
+
+Safeties: #2 to their side, or #3 away if there is no #2 to their side
+
+Below are the corrected Cover 1 pages with that wording applied consistently.
+
+Playbook Page: COVER 1 — OREGON (Post = FS)
+Assignments (CAMP distribution)
+FS: post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1 to your side
+
+D: man on #2 boundary, or #3 away if there is no #2 boundary
+
+B: man on #2 field, or #3 away if there is no #2 field
+
+M / W: RB funnel rules (below)
+
+RB funnel / RAT rules (locked)
+M and W funnel RB
+
+RB releases to your side → you take RB
+
+RB releases away → you rush
+
+If TAMPA tagged: LB away from RB becomes RAT
+
+Autos/alerts (shared)
+BUMP–BUMP (motion; safeties travel; don’t cross; corner takes only if new widest)
+
+BANJO (safety alert vs stack/close splits; not signaled in)
+
+EXCHANGE (automatic vs rub/pick concepts)
+
+UNDER (rub-switch: RB player takes UNDER; UNDER defender takes RB)
+
+Playbook Page: COVER 1 — OKLAHOMA (Post = D)
+Assignments (CAMP distribution)
+D: post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1 to your side
+
+FS: man on #2 field, or #3 away if there is no #2 field
+
+B: man on #2 field, or #3 away if there is no #2 field (see note below to avoid double-assign)
+
+M / W: RB funnel rules (same as Oregon)
+
+Note (must be true to avoid conflicts): In Oklahoma, only one of (FS, B) can be the primary “#2 field” player. If you want, tell me which one owns it by default and the other becomes the adjuster/fit-first.
+
+RB funnel / RAT rules
+(same)
+
+Autos/alerts
+(same)
+
+Playbook Page: COVER 1 — OHIO (Post = B)
+Assignments (CAMP distribution)
+B: post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1 to your side
+
+FS: man on #2 field, or #3 away if there is no #2 field
+
+D: man on #2 boundary, or #3 away if there is no #2 boundary
+
+M / W: RB funnel rules (same)
+
+RB funnel / RAT rules
+(same)
+
+Autos/alerts
+(same)
+
+Small follow-up (only because Oklahoma has a built-in conflict)
+In OKLAHOMA (D post), who is your field #2 man by default?
+
+Oklahoma #2 field = B or FS
+
+Once you answer that one line, the Oklahoma page becomes fully consistent with your CAMP distribution and has no ambiguity.
+
+
+You said:
+FS will take #2 to the boundary in oklahoma
+
+ChatGPT said:
+Locked: OKLAHOMA (D post) uses FS as the non-post safety, and FS takes #2 to the boundary (or #3 away if no #2 boundary).
+
+Below are the corrected Cover 1 pages with CAMP distribution applied consistently and no ambiguity.
+
+COVER 1 — OREGON (Post = FS)
+Assignments (CAMP distribution)
+FS: Post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1 to your side
+
+D: man on #2 boundary, or #3 away if there is no #2 boundary
+
+B: man on #2 field, or #3 away if there is no #2 field
+
+M / W: RB funnel rules (below)
+
+RB funnel / RAT rules
+M and W funnel RB
+
+RB releases to your side → you take RB
+
+RB releases away → you rush
+
+TAMPA tag: LB away from RB becomes RAT
+
+Autos/alerts (shared)
+BUMP–BUMP (motion; safeties travel; don’t cross; corner takes only if new widest)
+
+BANJO (safety alert vs stack/close splits; not signaled in)
+
+EXCHANGE (automatic vs rub/pick concepts)
+
+UNDER (rub-switch: RB player takes UNDER; UNDER defender takes RB)
+
+COVER 1 — OKLAHOMA (Post = D)
+Assignments (CAMP distribution, Oklahoma-specific)
+D: Post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1 to your side
+
+FS: man on #2 boundary, or #3 away if there is no #2 boundary
+
+B: man on #2 field, or #3 away if there is no #2 field
+
+M / W: RB funnel rules (same as Oregon)
+
+RB funnel / RAT rules
+(same as Oregon)
+
+Autos/alerts
+(same as Oregon)
+
+COVER 1 — OHIO (Post = B)
+Assignments (CAMP distribution)
+B: Post (MOF) — fixer; make the corner right
+
+FC / BC: man on #1 to your side
+
+FS: man on #2 field, or #3 away if there is no #2 field
+
+D: man on #2 boundary, or #3 away if there is no #2 boundary
+
+M / W: RB funnel rules (same)
+
+RB funnel / RAT rules
+(same as Oregon)
+
+Autos/alerts
+(same as Oregon)
+
+If you want the next section drafted, choose one:
+
+NINJA pages (MOD/CLAMP/POACH procedure + motion checks), or
+
+VIKING / VIKING RIP-LIZ pages, or
+
+Front + stunt catalog (Shade + your other 4-down/3-4 packages).
+
+
+You said:
+let's take a break from coverages and goto Front + stunt catalog (Shade + your other 4-down/3-4 packages)
+
+ChatGPT said:
+Front + Stunt Catalog — intake (so I can write the pages correctly)
+I already have your base 4-down front:
+
+SHADE (4-2-5, set to field, 2-high)
+A = 5-tech (field)
+
+T = 3-tech (field)
+
+N = 2i (boundary)
+
+E = 5-tech / hybrid (boundary)
+
+M open A (field), W open B (boundary)
+
+B field force, D boundary force
+
+Box it / set edge
+
+Now I need your menu of other fronts and stunts exactly as you think of them. Answer in this format.
+
+Intake 9 — 4-down fronts (besides Shade)
+List each front as:
+Name — A tech / T tech / N tech / E tech — set to (field/boundary/strength) — notes
+
+Examples of tech words you might use: 4i, 5, 6, 7, 9, 3, 2i, 1, 0.
+
+Provide as many as you want (ideal: 3–6):
+
+Front 2:
+
+Front 3:
+
+Front 4:
+
+…
+
+Intake 10 — 3-4 packages (your personnel-driven set)
+Answer:
+
+What is the base 3-4 front name and techniques?
+
+Name — (DE techs) / (Nose tech) / (OLB techs)
+
+In 3-4, who are the edge players by tag?
+
+Is E still boundary edge and who is field edge? (B as OLB? A as OLB? another letter?)
+
+Do you want the 3-4 to be:
+
+Tite/Mint-ish (4i–0–4i), or
+
+Even 3-4 (5–0–5), or
+
+multiple
+
+Intake 11 — stunt catalog (callable from any front)
+List your stunts by name and one-line intent:
+
+Stunt 1:
+
+Stunt 2:
+
+…
+
+Common types (if you already have names, use yours): slant, angle, pinch, long-stick, T/E, E/T, pirate, spike, cross-dog, etc.
+
+Target: 6–10 stunts.
+
+Intake 12 — blitz tags (separate from stunts)
+Do you treat “blitz” as:
+
+(a) a separate tag (e.g., “Mike A,” “Will B,” “B edge”), or
+
+(b) embedded in stunt names?
+
+Reply: Blitz tags = separate or embedded.
+
+Once you send those lists, I’ll output:
+
+Front Catalog pages (one per front: alignment, fits, force rules, common adjustments)
+
+3-4 package pages
+
+Stunt Catalog (diagram-ready descriptions using A/T/N/E/M/W/B).
+
+
+You said:
+techs: 0 head up on center, 1 shade on center, 2i inside shade on guard, 2 head up on guard, 3 outside shade on guard, 4i inside shade on tackle, 4 head up on tackle, 5 outside shade on tackle, 6i inside shade on TE, 6 head up on TE, 7 outside shade on TE, 8i inside shade on player attached outside of TE (wing), 8 head up on player attached outside of TE (wing), 9 outside shade on player attached outside of TE (wing). 
+
+A: is to the field
+T: is to the field (unless explicitly called out)
+N: is to the boundary (unless explicitly called out)
+E: is to the boundary
+
+9: 
+Under (same a shade just to the boundary) A 5, T 2i, N 3, E 5
+Eyes A 5, T 2i, N 2i, E 5
+Wide A 5, T 3, N 3, E 5
+Deuces A5, T 2, N 2, E 5
+Grizzly A 4i, T 2i, N 2i, E 4i
+BOSS A 5, T 3 (to the field), N 2i 1 (to the field), E 5 (BOSS stands for bigs on same side)
+BOSS Under A 5 T 1 (to the boundary), N 3 (to the boundary), E 5 (BOSS stands for bigs on same side)
+
+10:
+mint A 4i, T 0, N 4i, E becomes OLB (depending on personnel N and T could switch)
+(need a name) A 4, T 0, N 4 E becomes OLB (depending on personnel N and T could switch)
+Jet A 5, T 0, N 5 E becomes OLB (depending on personnel N and T could switch)
+
+11:
+Slant: 4 front T and N slant to the field, 3 front A T and N slant to the field
+Angle: same as slant but to the boundary
+Pinch: 4 front T and N pinch into A gap if they are aligned in the A they play normal, 3 front A and N pinch into B gap
+Jacks: 4  front  T and N shoot to the B gap if they are aligned in the B they play normal, 3 front A and N pinch into C gap
+Split: used with BOSS lineman in a 1 will cross the center's face to the other side A gap and in grizzly the field side A and T will shoot outside one gap (A to C and T to B)
+( I need a name for this, use to call is anchor eagle) 4 front A shoots B gap from a 5
+( I need a name for this, use to call is edge eagle) 4 front E shoots B gap from a 5
+Anchor Attack: 4 front A attacks O lineman effectively closing one gap inside, normally used with an outside blitz
+Edge Attack: 4 front E attacks O lineman effectively closing one gap inside, normally used with an outside blitz
+Crash: 4 front A and E shoot B gap T and N shoot A gaps
+
+12:
+all blitzes are to the defenders gap responsibility unless noted
+Mike
+Will
+Bandit
+Dawg
+staB - Bandit one gap inside EOL (normally B or C) 
+Freebird - MOF safety per coverage
+Cobra - boundary corner (in zero family D will take #1 to the boundary FS assume D rules and B will assume FS rules, RB will be funneled by M and W)
+sWarM M and W
+BooM B and M
+BoW B and W
+MaD M and D
+Eat M W and B
+Hammer: B blitzes off the edge and A attacks o lineman (anchor attack)
+Shave: W blitzes off the edge and E attacks o lineman (Edge attack)
+
+ChatGPT said:
+Technique definitions (locked reference)
+0 head up C
+
+1 shade C
+
+2i inside shade G
+
+2 head up G
+
+3 outside shade G
+
+4i inside shade T
+
+4 head up T
+
+5 outside shade T
+
+6i inside shade TE
+
+6 head up TE
+
+7 outside shade TE
+
+8i/8/9 inside/head up/outside shade of attached wing (outside TE)
+
+Default sides (unless called out):
+
+A, T = field
+
+N, E = boundary
+
+Front Catalog (4-down)
+All fronts assume your 4-2-5 structure with A/T/N/E as the down four, unless explicitly a 3-4 package.
+
+1) SHADE (base) — set to field
+A 5 (field)
+
+T 3 (field)
+
+N 2i (boundary)
+
+E 5 (boundary)
+Notes: two-high, B to field; fits/force rules already locked.
+
+2) UNDER — set to boundary
+(“same as Shade just to the boundary”)
+
+A 5
+
+T 2i
+
+N 3
+
+E 5
+
+3) EYES — balanced interior, set rules unchanged
+A 5
+
+T 2i
+
+N 2i
+
+E 5
+Notes: good “square” look vs zone/duo; keeps edges stable.
+
+4) WIDE — widen both DTs
+A 5
+
+T 3
+
+N 3
+
+E 5
+Notes: helps vs heavy B-gap run / quick game spacing; can lighten interior A-gap presence.
+
+5) DEUCES — head-up guards
+A 5
+
+T 2
+
+N 2
+
+E 5
+Notes: reduces easy down blocks; useful vs Wing-T / gap schemes.
+
+6) GRIZZLY — tite-ish four-down (4i / 2i / 2i / 4i)
+A 4i
+
+T 2i
+
+N 2i
+
+E 4i
+Notes: strong interior control; good vs power/counter teams; can pair well with pinch/crash.
+
+7) BOSS — “Bigs On Same Side” (big surface to field)
+A 5
+
+T 3 (field)
+
+N 2i or 1 (to field)
+
+E 5
+Notes: creates a “loaded” side. Use for formation tendency, back/TE strength, or to set up pressures.
+
+8) BOSS UNDER — “Bigs On Same Side” (big surface to boundary)
+A 5
+
+T 1 (boundary)
+
+N 3 (boundary)
+
+E 5
+
+3-4 Package Catalog (personnel-driven)
+1) MINT (3-4) — 4i / 0 / 4i
+A 4i
+
+T 0 (nose)
+
+N 4i
+
+E = OLB (edge)
+Notes:
+
+Personnel-dependent: T/N may switch.
+
+Your E becomes the stand-up edge (boundary by default).
+
+2) (NAME NEEDED) — 4 / 0 / 4 (head-up tackles)
+A 4
+
+T 0
+
+N 4
+
+E = OLB
+Suggested name options (pick one):
+
+STONE (simple, strong, “head-up” feel)
+
+TITAN (pairs well with Viking theme)
+
+ANVIL (fits “head up / heavy”)
+
+IRON (short, easy signal)
+
+3) JET (3-4) — 5 / 0 / 5
+A 5
+
+T 0
+
+N 5
+
+E = OLB
+Notes: more edge control; good vs outside run / perimeter RPO looks.
+
+Stunt Catalog (callable across fronts)
+I’m writing these in “what changes” language so they’re install-ready.
+
+1) SLANT (to field)
+4-down: T + N slant to field
+
+3-down: A + T + N slant to field
+
+2) ANGLE (to boundary)
+Same as SLANT, but to boundary
+
+3) PINCH
+4-down: T + N pinch to A gaps (if already in A-gap alignment, play base)
+
+3-down: A + N pinch to B gaps
+
+4) JACKS
+4-down: T + N shoot B gaps (if already aligned in B, play base)
+
+3-down: A + N pinch to C gaps
+
+5) SPLIT
+With BOSS: any lineman in a 1-tech crosses the center’s face to the opposite A
+
+With GRIZZLY: field-side A and T “gap out” one gap
+
+A: C
+
+T: B
+Notes: this is your best “change the picture” stunt; keep it in your pressure package.
+
+6) (NAME NEEDED) — “Anchor Eagle” (A from 5 → B)
+4-down: A shoots B gap from a 5
+Suggested name options:
+
+EAGLE (short; matches your old call)
+
+ANCHOR EAGLE (explicit, but longer)
+
+TALON (fits the “shooting” action)
+
+SPEAR (fits Vikings; aggressive)
+
+7) (NAME NEEDED) — “Edge Eagle” (E from 5 → B)
+4-down: E shoots B gap from a 5
+Suggested name options:
+
+RAVEN (pairs with E; short)
+
+EDGE EAGLE (explicit)
+
+FANG (short, aggressive)
+
+HOOK (describes the path)
+
+8) ANCHOR ATTACK
+4-down: A attacks the OL to close one inside gap (most often paired with an outside blitz)
+
+9) EDGE ATTACK
+4-down: E attacks the OL to close one inside gap (most often paired with an outside blitz)
+
+10) CRASH
+4-down: A + E shoot B gaps, T + N shoot A gaps
+Notes: high-disruption call; pair with safe coverage or timed pressure.
+
+Blitz / Pressure Tags (with your constraint)
+Rule: all blitzes hit your gap responsibility unless noted.
+
+Single add-ons
+Mike
+
+Will
+
+Bandit
+
+Dawg
+
+Special tags
+staB = Bandit one gap inside EOL (normally B or C)
+
+Freebird = MOF safety per coverage
+
+Cobra = boundary corner blitz
+
+In 0-family when Cobra is called:
+
+D takes #1 boundary
+
+FS assumes D rules
+
+B assumes FS rules
+
+RB funneled by M/W
+
+sWarM = M + W
+
+BooM = B + M
+
+BoW = B + W
+
+MaD = M + D
+
+Eat = M + W + B
+
+Packaged pressures (married to stunts)
+Hammer = B edge blitz + Anchor Attack
+
+Shave = W edge blitz + Edge Attack
+
+Two name locks needed (so the catalog is “done”)
+Pick one name each (or give your own):
+
+3-4 4/0/4 front name: STONE / TITAN / ANVIL / IRON
+
+A-from-5-to-B stunt name: EAGLE / TALON / SPEAR / (your choice)
+
+E-from-5-to-B stunt name: RAVEN / FANG / HOOK / (your choice)
+
+If you reply with:
+
+Front 4/0/4 = ____
+
+A 5→B = ____
+
+E 5→B = ____
+
+…I’ll rewrite the catalog with those names fully integrated and then produce a one-page “Front + Stunt Call Menu” showing what you actually carry on Friday night.
+
+
+You said:
+suggest name for the one I don't have names
+
+ChatGPT said:
+Names to use (recommended)
+3-4 front: 4 / 0 / 4 (head-up tackles)
+Pick TITAN.
+
+Short, easy to signal, fits Viking theme, and “heavy/head-up” matches the structure.
+
+Stunt: A from 5 → B (your “Anchor Eagle”)
+Pick SPEAR.
+
+Viking-relevant; describes a fast, straight penetration path.
+
+Stunt: E from 5 → B (your “Edge Eagle”)
+Pick HOOK.
+
+Describes the edge wrapping into B; easy to remember and pair with SPEAR.
+
+Final name set
+TITAN = 3-4 (4/0/4)
+
+SPEAR = A 5→B
+
+HOOK = E 5→B
+
+If you want alternates (same concept, different flavor):
+
+TITAN → STONE (more generic), ANVIL (heavy), IRON (short)
+
+SPEAR → TALON (if you want “bird” continuity), EAGLE (legacy)
+
+HOOK → FANG (Viking vibe), RAVEN (pairs with “E” edge)
+
+
+You said:
+let's use anchor raven and edge raven
+need something easy to signal in place of titan
+
+ChatGPT said:
+Locked stunt names
+ANCHOR RAVEN = A shoots B gap from a 5-tech
+
+EDGE RAVEN = E shoots B gap from a 5-tech
+
+Easy-to-signal name to replace “TITAN” (4/0/4 front)
+You want something that’s:
+
+1 syllable (or very short),
+
+distinct from your other front names,
+
+quick to hand-signal.
+
+Best options:
+
+ACE (recommended)
+
+Shortest, cleanest signal, doesn’t conflict with “Under/Wide/Deuces/Grizzly/Boss.”
+
+BULL
+
+Matches “head-up/heavy” feel; easy signal.
+
+DUKE
+
+Short, distinct, rarely overlaps with football terms.
+
+IRON
+
+Two-finger-ish signal and matches the “head-up” toughness.
+
+Recommendation
+Use ACE.
+
+So:
+
+MINT = 4i/0/4i
+
+ACE = 4/0/4
+
+JET = 5/0/5
+
+If you confirm ACE, I’ll rewrite the 3-4 package section and the stunt catalog headers with ANCHOR RAVEN / EDGE RAVEN integrated.
+
+
+You said:
+what are signal options for these?
+
+ChatGPT said:
+Signaling options (fast, distinct, low-confusion)
+You can signal each call with either hand signs, board/placard, or wristband number. Below are practical hand-signal sets for the items you just named.
+
+3-4 fronts
+MINT (4i/0/4i)
+Signal options
+
+“M”: draw an “M” on your thigh/chest with two fingers
+
+Both hands make an “A” shape (peaked roof) to imply “tight/tite”
+
+Tap both shoulders (represents 4i/4i inside)
+
+ACE (4/0/4) (easy replacement for Titan)
+Signal options
+
+Aces playing card: hold up one finger (ace = 1) + tap chest
+
+“A”: make a simple A by touching fingertips into a triangle (or forefinger thumb triangle)
+
+Point to an imaginary card in your hand (quick “card” mime)
+
+JET (5/0/5)
+Signal options
+
+Jet takeoff: hand flat, “whoosh” forward
+
+Two hands spread outward (wider 5s) then forward point
+
+Thumbs-out “wide” then point down (front)
+
+Stunts
+ANCHOR RAVEN (A 5→B)
+You need to communicate two things: ANCHOR (A) and RAVEN (5→B).
+
+Signal options
+
+Anchor = fist to chest (anchor) + Raven = flap (2 quick flaps)
+
+Anchor = point to field side (A is field) + Raven = “beak” (pinch fingers like a beak)
+
+Anchor = tap left shoulder (or your field-side indicator) + Raven = claw scratch (2 scratches)
+
+EDGE RAVEN (E 5→B)
+Same Raven sign, different starter for EDGE.
+
+Signal options
+
+Edge = hand slicing the edge (karate-chop outward) + Raven flap
+
+Edge = point to boundary (E is boundary) + Raven beak
+
+Edge = “outside” circle with finger + Raven claw
+
+Make it bulletproof (recommendation)
+Use a two-part signal grammar:
+
+Front (Mint / Ace / Jet)
+
+Stunt (Raven variants, Slant/Angle/Pinch/Jacks/Split/Crash)
+
+So the DL/LBs only have to recognize:
+
+Front sign, then
+
+Stunt sign.
+
+Minimal set I’d use (cleanest)
+MINT: “M” on thigh
+
+ACE: one finger up
+
+JET: whoosh forward
+
+RAVEN (both): two quick “flaps”
+
+ANCHOR vs EDGE: point field vs point boundary immediately before Raven
+
+That makes:
+
+Anchor Raven: point field → flap flap
+
+Edge Raven: point boundary → flap flap
+
+One decision to lock your system
+Do you prefer “field/boundary” points as left/right (from your sideline perspective) or as field/boundary regardless of ball hash?
+
+If you don’t want ambiguity, use field/boundary (requires players know strength = field, which you already do).
+
+
+You said:
+confrm ace works
+
+ChatGPT said:
+Confirmed: ACE works well as the name and signal for your 3-4 (4/0/4) front.
+
+Why it works
+Short, distinct from your other front names (Mint/Jet/Grizzly/Boss/etc.).
+
+Fast to signal and easy to see.
+
+Minimal risk of confusion with common football terminology on your sideline.
+
+Recommended signal
+Hold up 1 finger (Ace = 1).
+Optional reinforcement: tap the chest once after the finger.
+
+So your 3-4 fronts are now:
+
+MINT = 4i/0/4i
+
+ACE = 4/0/4
+
+JET = 5/0/5
+
+
+You said:
+yes
+
+ChatGPT said:
+Locked
+ACE = 3-4 front 4 / 0 / 4
+
+Signal: 1 finger up (optional chest tap)
+
+Updated 3-4 Package Catalog (final naming)
+MINT
+A 4i
+
+T 0
+
+N 4i
+
+E = OLB (personnel-dependent; T/N may swap)
+
+ACE
+A 4
+
+T 0
+
+N 4
+
+E = OLB (personnel-dependent; T/N may swap)
+
+JET
+A 5
+
+T 0
+
+N 5
+
+E = OLB (personnel-dependent; T/N may swap)
+
+Raven stunts (final naming + signal grammar)
+ANCHOR RAVEN = A 5→B
+Signal: point field → flap flap
+
+EDGE RAVEN = E 5→B
+Signal: point boundary → flap flap
+
+If you want, next I can generate a one-page Friday Call Menu (Fronts + Stunts + Pressure tags) with only what you actually plan to carry.
+
+
+You said:
+let's finish what we are doing
+
+ChatGPT said:
+Front + Stunt Catalog (finalized with your names)
+Technique reference (as you defined)
+0 head up C • 1 shade C • 2i in G • 2 head up G • 3 out G • 4i in T • 4 head up T • 5 out T • 6i in TE • 6 head up TE • 7 out TE • 8i/8/9 in/head up/out on wing.
+
+Defaults: A/T = field, N/E = boundary unless called out.
+
+4-Down Front Catalog (4-2-5)
+SHADE (base) — set field
+A 5
+
+T 3
+
+N 2i
+
+E 5
+
+UNDER — set boundary (Shade flipped)
+A 5
+
+T 2i
+
+N 3
+
+E 5
+
+EYES — balanced interior
+A 5
+
+T 2i
+
+N 2i
+
+E 5
+
+WIDE — widen both DTs
+A 5
+
+T 3
+
+N 3
+
+E 5
+
+DEUCES — head-up guards
+A 5
+
+T 2
+
+N 2
+
+E 5
+
+GRIZZLY — tight interior control
+A 4i
+
+T 2i
+
+N 2i
+
+E 4i
+
+BOSS — “Bigs On Same Side” (to field)
+A 5
+
+T 3 (field)
+
+N 2i or 1 (to field)
+
+E 5
+
+BOSS UNDER — “Bigs On Same Side” (to boundary)
+A 5
+
+T 1 (boundary)
+
+N 3 (boundary)
+
+E 5
+
+3-4 Package Catalog
+MINT (4i/0/4i)
+A 4i
+
+T 0
+
+N 4i
+
+E = OLB (personnel-dependent; T/N may swap)
+
+ACE (4/0/4)
+A 4
+
+T 0
+
+N 4
+
+E = OLB (personnel-dependent; T/N may swap)
+
+Signal: 1 finger up (optional chest tap)
+
+JET (5/0/5)
+A 5
+
+T 0
+
+N 5
+
+E = OLB (personnel-dependent; T/N may swap)
+
+Stunt Catalog (callable across fronts)
+SLANT (to field)
+4-down: T + N slant field
+
+3-down: A + T + N slant field
+
+ANGLE (to boundary)
+Same as SLANT, but boundary
+
+PINCH
+4-down: T + N pinch to A gaps (if already in A, play base)
+
+3-down: A + N pinch to B gaps
+
+JACKS
+4-down: T + N shoot B gaps (if already in B, play base)
+
+3-down: A + N pinch to C gaps
+
+SPLIT
+With BOSS: any lineman in a 1-tech crosses C face to opposite A
+
+With GRIZZLY: field side “gap out” one gap
+
+A: C
+
+T: B
+
+ANCHOR ATTACK
+A attacks OL to close one inside gap (pair with outside blitz)
+
+EDGE ATTACK
+E attacks OL to close one inside gap (pair with outside blitz)
+
+CRASH
+A + E shoot B gaps
+
+T + N shoot A gaps
+
+ANCHOR RAVEN
+A shoots B gap from a 5
+
+Signal: point field → flap flap
+
+EDGE RAVEN
+E shoots B gap from a 5
+
+Signal: point boundary → flap flap
+
+Blitz / Pressure Tags (final list as provided)
+Rule: blitzes hit your gap responsibility unless noted.
+
+Mike
+
+Will
+
+Bandit
+
+Dawg
+
+staB — Bandit one gap inside EOL (normally B/C)
+
+Freebird — MOF safety per coverage
+
+Cobra — boundary corner blitz
+
+In 0-family: D takes #1 boundary, FS assumes D rules, B assumes FS rules, RB funneled by M/W
+
+sWarM — M + W
+
+BooM — B + M
+
+BoW — B + W
+
+MaD — M + D
+
+Eat — M + W + B
+
+Hammer — B edge blitz + Anchor Attack
+
+Shave — W edge blitz + Edge Attack
+
+One-page “Call Grammar” (so coaches and players stay aligned)
+Call order: Front + Stunt + Blitz tag(s) + Coverage/Tags
+
+Example formats:
+
+SHADE + SLANT + BoW + NINJA
+
+GRIZZLY + PINCH + Mike + OREGON
+
+BOSS + SPLIT + Cobra + ZEUS
+
+ACE + ANGLE + Freebird + VIKING RIP
+
+That completes the Front + Stunt Catalog section with finalized names and signals.
+
+
+You said:
+what else do we need ?
+
+ChatGPT said:
+Remaining items to complete the playbook + season package
+1) Front pages = fits/adjustments
+You have the alignments for each front; what’s still missing is a 1-page “how it plays” for each:
+
+Base run fits per front (open/closed gaps for M/W, any changes from Shade)
+
+Strength / TE / 2-back adjustments
+
+When to call it (use cases vs Wing-T / RPO / Air Raid)
+
+2) Stunt pages = rules + coaching points
+For each stunt:
+
+who is penetrator vs looper
+
+contain/cage rules
+
+best pairings with fronts and blitz tags
+
+3) 3-4 package personnel + gap system
+For Mint/Ace/Jet you still need:
+
+who is the field OLB (letter/role) when E is OLB
+
+M/W fits in 3-4 (do they stay open A/open B or change?)
+
+4) Pressure menu trimming
+You have many tags; you still need a “Friday list”:
+
+6–10 pressures you will actually carry weekly
+
+which are base, changeup, special situations
+
+5) Install plan
+A week-by-week install (offseason → camp → first 3 games):
+
+what gets taught first, repped most
+
+what is “package only”
+
+6) Game-day documents
+Defensive call sheet (down/distance × field zone × personnel)
+
+Wristband / signal sheet
+
+Opponent scouting report template
+
+Practice scripts for team periods
+
+7) Coverage pages you paused
+You have the concepts locked; you still need the formatted pages:
+
+NINJA (MOD/CLAMP/POACH procedure + motion)
+
+VIKING / VIKING RIP-LIZ
+
+Z-family (complete section with UNDER/BUMP/BANJO/EXCHANGE)
+
+Best next step (highest leverage)
+Build the “Friday Menu”:
+
+Which fronts are on the call sheet every week? (pick 4–6)
+
+Which stunts are on the call sheet every week? (pick 5–7)
+
+Which pressures are on the call sheet every week? (pick 8–12 tags/combos)
+
+If you list those three, I’ll produce:
+
+a finalized call sheet skeleton
+
+the trimmed menu pages
+
+and the install order to get it taught cleanly.
+
+
+You said:
+let's go through each of these individually
+1) Front pages = fits/adjustments
+
+You have the alignments for each front; what’s still missing is a 1-page “how it plays” for each:
+
+Base run fits per front (open/closed gaps for M/W, any changes from Shade)
+
+Strength / TE / 2-back adjustments
+
+When to call it (use cases vs Wing-T / RPO / Air Raid)
+
+2) Stunt pages = rules + coaching points
+
+For each stunt:
+
+who is penetrator vs looper
+
+contain/cage rules
+
+best pairings with fronts and blitz tags
+
+3) 3-4 package personnel + gap system
+
+For Mint/Ace/Jet you still need:
+
+who is the field OLB (letter/role) when E is OLB
+
+M/W fits in 3-4 (do they stay open A/open B or change?)
+
+4) Pressure menu trimming
+
+You have many tags; you still need a “Friday list”:
+
+6–10 pressures you will actually carry weekly
+
+which are base, changeup, special situations
+
+5) Install plan
+
+A week-by-week install (offseason → camp → first 3 games):
+
+what gets taught first, repped most
+
+what is “package only”
+
+6) Game-day documents
+
+Defensive call sheet (down/distance × field zone × personnel)
+
+Wristband / signal sheet
+
+Opponent scouting report template
+
+Practice scripts for team periods
+
+7) Coverage pages you paused
+
+You have the concepts locked; you still need the formatted pages:
+
+NINJA (MOD/CLAMP/POACH procedure + motion)
+
+VIKING / VIKING RIP-LIZ
+
+Z-family (complete section with UNDER/BUMP/BANJO/EXCHANGE)
+
+ChatGPT said:
+1) Front pages = fits/adjustments (start here)
+We’ll build a 1-page card per front in a consistent format:
+
+Alignment (already done)
+
+Box fits (what changes from Shade)
+
+Adjustments (TE surface, 2-back, motion)
+
+When to call (Wing-T / RPO / Air Raid use cases)
+
+What I already have (Shade baseline fits)
+M = open A (field)
+
+W = open B (boundary)
+
+B = field force
+
+D = boundary force
+
+Edges box
+
+For the other fronts, I need to know whether M/W open gaps stay the same or shift with the interior technique changes.
+
+Intake for Front Fit Cards (minimal, no theory)
+A) Do M/W “open gap” rules stay constant across all 4-down fronts?
+Choose one:
+
+Constant: M always open A(field), W always open B(boundary) regardless of front
+
+Front-dependent: open gaps change with the front (you’ll define per front)
+
+Reply: Open gaps = constant or Open gaps = front-dependent
+
+B) TE / surface adjustment rule (applies to every front)
+When there is a TE/wing surface to the boundary or field, do you set the front:
+
+still by Field no matter what, or
+
+to the surface (TE), or
+
+call-dependent (you’ll tag it)
+
+Reply: Surface = field or Surface = TE or Surface = tag
+
+C) 2-back adjustment rule
+Versus 20/21 personnel (true 2-back), do you want to:
+
+stay 6-man box and rely on force players, or
+
+auto insert a safety (7-man), or
+
+tag it situationally
+
+Reply: 2-back = 6 or 2-back = 7 or 2-back = tag
+
+While you answer, here are first-pass “when to call it” notes (based on your structures)
+These are placeholders until fits are confirmed:
+
+SHADE: base vs spread/RPO; best all-around.
+
+UNDER: change strength, good vs boundary run tendency / TE boundary.
+
+EYES: steadier vs zone/duo teams; reduces easy doubles.
+
+WIDE: vs heavy B-gap / quick game spacing; also vs Air Raid splits.
+
+DEUCES: vs Wing-T / down blocks / pulling teams.
+
+GRIZZLY: vs power/counter; tightens interior; good in red zone.
+
+BOSS / BOSS UNDER: tendency breaker + pressure setup; overload side.
+
+After you reply A–C, I will output:
+SHADE fit card (final, with adjustments + when-to-call)
+
+UNDER fit card
+
+EYES fit card
+
+WIDE fit card
+
+DEUCES fit card
+
+GRIZZLY fit card
+
+BOSS / BOSS UNDER fit cards
+
+Then we move to item 2) Stunts.
+
+
+You said:
+A: with no stunts the M and W will take the open gap to their side
+B: camp rules the B will come into the box the end will be in a 7 and still have contain rules. with a single TE/Y-off we will set our front to the TE 3 tech to the TE 2i away
+C: what are your thoughts here?
+
+ChatGPT said:
+Locked (A, B)
+A) ILB fits (no stunts)
+M fits the open gap to the field side
+
+W fits the open gap to the boundary side
+
+“Open gap” = the gap not occupied by the DT technique on that side (defined per front below)
+
+B) TE / Surface adjustment (CAMP)
+When there is a TE/Y-off surface:
+
+Set the front to the TE
+
+3-tech to the TE, 2i away
+
+B comes into the box
+
+The end to the TE becomes a 7-tech and keeps contain rules
+
+C) 2-back (20/21) — my recommendation
+Keep your identity (2-high, 6-man box) but have a simple escalation rule so you aren’t soft vs true downhill.
+
+Default
+Stay 6-man box unless it’s a “heavy run situation” or they prove they can out-gap you.
+
+Escalation (tag, not auto)
+Add one tag you can signal fast:
+
+“INSERT” = add D (boundary force safety) into the fit as the 7th hat (or “Freebird” if MOF by call).
+
+Use INSERT when:
+
+21/22/12 and they’re downhill (iso/power/counter), or
+
+short yardage / goal line, or
+
+they’ve successfully run 2-back lead twice in the same series.
+
+This keeps you from living with LBs on WRs, and you only pay the coverage price when necessary.
+
+If you want an automatic rule instead: “true I / offset I = INSERT; everything else tag.” But I’d start tag-based.
+
+Front Fit Cards (1-page format, first pass)
+Below, “Open gap” is computed from the DT technique on that side:
+
+If DT is 3-tech → B gap closed, open = A
+
+If DT is 2i or 2 → A closed-ish, open = B
+
+1) SHADE (A5 / T3 / N2i / E5) — base
+Open gaps
+
+Field (M): T=3 ⇒ open A
+
+Boundary (W): N=2i ⇒ open B
+
+TE set (CAMP)
+
+Set to TE: 3-tech to TE, 2i away
+
+B in the box, end to TE = 7-tech contain
+
+When to call
+
+Your everyday answer vs spread/RPO and balanced sets.
+
+Good vs Air Raid when you want stable edges + 2-high.
+
+2) UNDER (A5 / T2i / N3 / E5) — Shade flipped
+Open gaps
+
+Field (M): T=2i ⇒ open B
+
+Boundary (W): N=3 ⇒ open A
+
+TE set
+
+Same CAMP TE rule.
+
+When to call
+
+When boundary run tendency is hurting you or you want to flip interior strength without changing personnel.
+
+Good tendency breaker vs teams that set runs away from your Shade picture.
+
+3) EYES (A5 / T2i / N2i / E5)
+Open gaps
+
+Field (M): open B
+
+Boundary (W): open B
+
+TE set
+
+Same CAMP TE rule.
+
+When to call
+
+Vs zone/duo teams that are creating vertical movement—this steadies the interior.
+
+Good “safe” front when you want fewer creases.
+
+4) WIDE (A5 / T3 / N3 / E5)
+Open gaps
+
+Field (M): open A
+
+Boundary (W): open A
+
+TE set
+
+Same CAMP TE rule.
+
+When to call
+
+Vs gap-scheme / power-read / heavy B-gap looks when you want penetration/outside shade.
+
+Can help vs Air Raid spacing when you want the ball forced to bounce.
+
+5) DEUCES (A5 / T2 / N2 / E5)
+Open gaps
+
+Field (M): T=2 ⇒ open B
+
+Boundary (W): N=2 ⇒ open B
+
+TE set
+
+Same CAMP TE rule.
+
+When to call
+
+Vs Wing-T / down blocks / pullers (harder to down-block a head-up guard).
+
+Good vs teams trying to dent you with inside run + pullers.
+
+6) GRIZZLY (A4i / T2i / N2i / E4i)
+Open gaps
+
+Field (M): open B
+
+Boundary (W): open B
+
+TE set
+
+Still set to TE, but keep the spirit: heavy interior control; end to TE can still play 7 if you tag it.
+
+When to call
+
+Vs power/counter, red zone, short yardage (especially with INSERT available).
+
+Great “no vertical movement” front.
+
+7) BOSS (A5 / T3 / N2i-or-1 to field / E5) — “bigs same side”
+Open gaps
+
+On the loaded side:
+
+If the inside big is 1/2i ⇒ ILB open becomes B
+
+If the inside big is 3 ⇒ ILB open becomes A
+
+Opposite side follows its DT tech.
+
+When to call
+
+Tendency breaker, pressure setup, or when you want to overload a run tendency.
+
+8) BOSS UNDER (A5 / T1(boundary) / N3(boundary) / E5)
+Same logic as BOSS, flipped to boundary.
+
+One small lock to make these “final”
+For BOSS, when you say “N 2i 1 (to the field)”, is that:
+
+either/or based on call (you choose 2i vs 1), or
+
+a stem (show 2i then shade to 1), or
+
+personnel-based?
+
+Reply with: BOSS inside tech = choose / stem / personnel
+
+After that, we can move to 2) Stunt pages (penetrator/looper + cage rules + best pairings).
+
+
+You said:
+C lets go with 6 man, the first to move into the box should be the B as he will be more of a LB type than the D
+
+The TE rule is not call CAMP I was just saying that is the default "camp" rule
+
+ChatGPT said:
+Locked (C)
+2-back (20/21): stay 6-man box by default
+
+If you add a 7th hat, B is the first insert (before D), because B is more LB-type.
+
+Clarified (TE rule naming)
+TE/surface adjustment is your default rule, not called “CAMP.”
+
+I will refer to it as “TE SET (default)” going forward.
+
+Front Fit Cards (updated and consistent)
+Global (no stunts):
+
+M fits the open gap to the field side
+
+W fits the open gap to the boundary side
+
+TE SET (default): with single TE/Y-off surface
+
+Set front to TE
+
+3-tech to TE, 2i away
+
+B inserts into box
+
+End to TE aligns 7-tech and keeps contain/cage rules
+
+2-back (default): stay 6-man box
+
+Optional escalation (tag later): B insert is first add-on hat
+
+SHADE (A5 / T3 / N2i / E5)
+Open gaps
+
+Field: T=3 → open A (M = A)
+
+Boundary: N=2i → open B (W = B)
+
+When to call
+
+Base vs spread/RPO; stable vs Air Raid
+
+Good “default” picture for your whole system
+
+UNDER (A5 / T2i / N3 / E5)
+Open gaps
+
+Field: T=2i → open B (M = B)
+
+Boundary: N=3 → open A (W = A)
+
+When to call
+
+Tendency breaker when offenses are keying your Shade set-to-field
+
+Useful vs boundary run bias or TE boundary weeks
+
+EYES (A5 / T2i / N2i / E5)
+Open gaps
+
+Field: open B (M = B)
+
+Boundary: open B (W = B)
+
+When to call
+
+Vs zone/duo teams creating vertical push
+
+“Square” interior without changing edges
+
+WIDE (A5 / T3 / N3 / E5)
+Open gaps
+
+Field: open A (M = A)
+
+Boundary: open A (W = A)
+
+When to call
+
+Vs heavy B-gap run / power-read spacing
+
+Can help force bounce and speed the ball up
+
+DEUCES (A5 / T2 / N2 / E5)
+Open gaps
+
+Field: T=2 → open B (M = B)
+
+Boundary: N=2 → open B (W = B)
+
+When to call
+
+Vs Wing-T / down blocks / pulling teams
+
+Helps prevent easy guard down blocks
+
+GRIZZLY (A4i / T2i / N2i / E4i)
+Open gaps
+
+Field: open B (M = B)
+
+Boundary: open B (W = B)
+
+When to call
+
+Vs power/counter; red zone; short yardage
+
+“Close the inside, make them earn edges”
+
+BOSS (A5 / T3 / N(2i or 1) to field / E5)
+Open gaps
+
+Compute by DT technique on each side:
+
+3-tech closes B → open A
+
+2i/1 closes A-ish → open B
+
+M/W fit the open gap on their side accordingly.
+
+When to call
+
+Overload/tendency breaker; pressure setup
+
+Use when you want “bigs same side” to force runs back or set up Raven/Crash
+
+BOSS UNDER (A5 / T1(boundary) / N3(boundary) / E5)
+Same “open gap by tech” logic; loaded side is boundary.
+
+One lock to finish the BOSS fit card
+When you list N 2i 1 (to the field), is that:
+
+choose (you call 2i or 1), or
+
+stem (show 2i then shade to 1), or
+
+personnel (depends on who is at N)
+
+Reply: BOSS inside tech = choose / stem / personnel
+
+Then we move to 2) Stunt pages next.
+
+
+You said:
+next
+
+ChatGPT said:
+2) Stunt pages = rules + coaching points
+I’ll build each stunt as a “card” with:
+
+Who is penetrator vs looper
+
+Contain/cage
+
+Best pairings (fronts + blitz tags)
+
+You already defined most stunts as movement calls (slant/angle/pinch/jacks/crash/split/ravens) and gap-closing calls (anchor/edge attack). For the movement calls, “penetrator vs looper” is usually penetrators only unless you have a wrap/loop built in. I’ll write them that way and you can correct if any stunt includes a looper.
+
+Stunt Card 1: SLANT (to field)
+Movement
+4-down: T + N slant to field
+
+3-down: A + T + N slant to field
+
+Penetrators / loopers
+Penetrators: the slanting DL (no looper by default)
+
+Contain / cage
+A and E keep contain/cage (do not lose edge)
+
+Slanting DL keep their lane; don’t overrun QB depth.
+
+Best pairings
+Fronts: Shade, Eyes, Deuces (stabilizes box and changes run picture)
+
+Pressures: pairs well with Bandit/Dawg add-ons, BoW/BooM, and Freebird (if you want MOF add)
+
+Coverage: safe with NINJA or Viking; also good with Oregon.
+
+Stunt Card 2: ANGLE (to boundary)
+Same as SLANT but to boundary.
+
+Best pairings
+Fronts: Under, Boss Under
+
+Pressures: Will, Shave (W edge + Edge Attack), MaD
+
+Stunt Card 3: PINCH
+Movement
+4-down: T + N pinch into A gaps (if already in A, play base)
+
+3-down: A + N pinch into B gaps
+
+Penetrators / loopers
+Penetrators: pinching DL (no looper by default)
+
+Contain / cage
+A/E must not collapse too far if they are the edge players in 4-down; keep box edges.
+
+If paired with an edge blitz, set the edge with the blitzer and tighten DL accordingly.
+
+Best pairings
+Fronts: Grizzly, Deuces (vs down blocks/pullers)
+
+Pressures: Mike/Will, sWarM, short yardage
+
+Coverage: Viking (safe) or man if you want quick pressure.
+
+Stunt Card 4: JACKS
+Movement
+4-down: T + N shoot B gaps (if already aligned B, play base)
+
+3-down: A + N pinch into C gaps
+
+Penetrators / loopers
+Penetrators: shooters (no looper by default)
+
+Contain / cage
+Maintain edge: A/E cannot both chase inside unless a blitz is replacing edge.
+
+Best pairings
+Fronts: Shade, Wide
+
+Pressures: pairs with staB and Bandit add-ons; also good with Cobra setups
+
+Good changeup vs zone teams to dent B-gaps.
+
+Stunt Card 5: SPLIT
+Movement
+BOSS: any DL in a 1-tech crosses C face to opposite A
+
+GRIZZLY: field-side “gap out” one gap (A→C, T→B)
+
+Penetrators / loopers
+This is a picture-changing movement; treat crossers as penetrators unless you coach a wrap.
+
+Contain / cage
+Keep contain with the non-moving edge or with a paired edge pressure.
+
+Best pairings
+Fronts: Boss, Grizzly
+
+Pressures: great with Cobra, Hammer, Eat
+
+Use: tendency breaker; creates free runners if OL blocks rules-based.
+
+Stunt Card 6: ANCHOR ATTACK
+Movement
+A attacks OL closing one inside gap (commonly with outside blitz)
+
+Penetrators / loopers
+A = penetrator (gap closer)
+
+Contain / cage
+Because A is closing down, the paired outside blitzer must own contain.
+
+If no blitz paired, A must re-establish edge after closing.
+
+Best pairings
+Hammer (defined: B edge + Anchor Attack)
+
+Also pairs with Cobra and field-side pressure tags.
+
+Stunt Card 7: EDGE ATTACK
+Same as Anchor Attack but with E.
+
+Best pairings
+Shave (defined: W edge + Edge Attack)
+
+Boundary pressure packages
+
+Stunt Card 8: CRASH
+Movement
+A + E shoot B gaps
+
+T + N shoot A gaps
+
+Penetrators / loopers
+All penetrators; high disruption
+
+Contain / cage
+Must be paired with a contain plan:
+
+either safeties/DB leverage in man,
+
+or a called contain coaching point for the widest rusher.
+
+Recommendation: keep A and E “B-gap but cage” (don’t run past QB depth).
+
+Best pairings
+Fronts: Shade, Wide, Grizzly
+
+Pressures: works with Freebird, MaD, or any inside add-ons.
+
+Situations: long yardage or “change the line” vs quick game.
+
+Stunt Card 9: ANCHOR RAVEN (A 5→B)
+Movement
+A shoots B from a 5
+
+Contain / cage
+Edge is being vacated by A; contain must be replaced by:
+
+B edge, M/W edge, or coverage leverage expecting quick throw.
+
+Best pairings
+Pair with Hammer-type calls or any field-side edge pressure.
+
+Also pairs with staB (B inside) to overload the surface.
+
+Stunt Card 10: EDGE RAVEN (E 5→B)
+Same as Anchor Raven, boundary side.
+
+Best pairings
+Pair with Shave or boundary corner pressures when you want overload.
+
+Two locks so these are truly “final”
+Do any of these stunts include a wrap/loop by default (i.e., a true penetrator+looper game), or are they all movement/penetration only?
+Reply: Loops = none or list which stunt has a looper.
+
+For RAVEN, is it always paired with a pressure (recommended), or can it be called without a blitz?
+Reply: Raven = paired or Raven = can be solo.
+
+After that, we move to 3) 3-4 package personnel + gap system.
+
+
+You said:
+only put penetrators / loopers when applicable, just put contain not contain/cage
+
+slant DL should read run pass and get heal depth on run read, slant will not be ran with shade because DL is already set to the field it could be ran out of under or BOSS Under. could be ran with Mike, Will, Bandit, sWarM, BooM, BoW, etc
+
+angle will not be ran with Under or BOSS Under it could be ran with Shade or BOSS, same pressures as slant
+
+with pinch the A and E will play normal. This could be paired with Shade, Under, Wide, deuces.
+
+with jacks it's 3-down: A + N expand into C gaps ... not pinch, A and E are contain (base mint M and E are contain. This will not be ran with wide, it could be ran with eyes, shade, under. good pressure for this is sWarM
+
+Split 4 down contain is A and E, good pressures Mike and sWarM. when ran with BOSS it give a weird look but plays like shade
+
+anchor attack won't be paired with cobra, cobra comes from the boundary so it could be paired with edge attack. 
+
+with Crash B/M and W are contain. Won't be ran with grizzly could be ran with wide, shade,under etc. won't be ran with freebird could be with BoW 
+
+with anchor raven Hammer is it's own call won't be made with this. staB can not be called with this . if a bandit blitz is called with this it's name is bandit raven
+
+
+
+ChatGPT said:
+Updates locked for stunt pages
+Only include Penetrator/Looper when applicable.
+
+Use Contain (not “contain/cage”).
+
+Apply your front/pressure constraints per stunt exactly as stated.
+
+Stunt Catalog (final cards)
+SLANT (to field)
+Movement
+
+4-down: T + N slant to field
+
+3-down: A + T + N slant to field
+
+DL coaching point
+
+Read run/pass: on run read, get heel depth (don’t cross-face and create seams).
+
+Contain
+
+Edges play their normal contain rules (no special contain change).
+
+Do NOT call with
+
+Shade (already set to field)
+
+Best fronts
+
+Under, BOSS Under
+
+Best pressures
+
+Mike, Will, Bandit, sWarM, BooM, BoW (and similar add-ons)
+
+ANGLE (to boundary)
+Movement
+
+Same as Slant, but to boundary
+
+DL coaching point
+
+Same: read run/pass, on run read get heel depth
+
+Contain
+
+Edges normal contain.
+
+Do NOT call with
+
+Under, BOSS Under
+
+Best fronts
+
+Shade, BOSS
+
+Best pressures
+
+Same as Slant (Mike, Will, Bandit, sWarM, BooM, BoW, etc.)
+
+PINCH
+Movement
+
+4-down: T + N pinch into A gaps (if already in A, play base)
+
+3-down: A + N pinch into B gaps
+
+Contain
+
+A and E play normal (no contain change)
+
+Best fronts
+
+Shade, Under, Wide, Deuces
+
+Best pressures
+
+Works with most; (you didn’t constrain—default: Mike/Will/sWarM in short yardage)
+
+JACKS
+Movement
+
+4-down: T + N shoot B gaps (if already in B, play base)
+
+3-down: A + N expand into C gaps (not pinch)
+
+Contain
+
+A and E are contain
+
+In Mint (3-down), M and E are contain (base Mint rule)
+
+Do NOT call with
+
+Wide
+
+Best fronts
+
+Eyes, Shade, Under
+
+Best pressures
+
+sWarM (primary)
+
+SPLIT
+Movement
+
+With BOSS: any DL in a 1-tech crosses the center’s face to the opposite A
+
+With Grizzly: field-side “gap out” one gap (A→C, T→B)
+
+Contain
+
+A and E are contain (4-down)
+
+Notes
+
+When run with BOSS, it gives a weird look but plays like Shade.
+
+Best pressures
+
+Mike, sWarM
+
+ANCHOR ATTACK
+Movement
+
+A attacks OL to close one inside gap (usually paired with an outside blitz)
+
+Contain
+
+Normal edge rules unless a paired blitz is replacing edge (handled by the blitz).
+
+Pairing constraints
+
+Not paired with Cobra (Cobra is boundary); Cobra can pair with Edge Attack instead.
+
+EDGE ATTACK
+Movement
+
+E attacks OL to close one inside gap (usually paired with an outside blitz)
+
+Contain
+
+Normal edge rules unless a paired blitz is replacing edge.
+
+Pairing constraints
+
+Can be paired with Cobra.
+
+CRASH
+Movement
+
+A + E shoot B gaps
+
+T + N shoot A gaps
+
+Contain
+
+B / M / W are contain
+
+Do NOT call with
+
+Grizzly
+
+Freebird
+
+Best fronts
+
+Wide, Shade, Under (etc.)
+
+Best pressures
+
+BoW (primary)
+
+ANCHOR RAVEN (A 5→B)
+Movement
+
+A shoots B from a 5
+
+Contain
+
+Base contain rules apply; A is inserting, so contain is handled by call structure/pressure.
+
+Pairing constraints
+
+Hammer is its own call (don’t pair Hammer with Anchor Raven)
+
+staB cannot be called with Anchor Raven
+
+If paired with Bandit blitz, the call name is BANDIT RAVEN
+
+EDGE RAVEN (E 5→B)
+Movement
+
+E shoots B from a 5
+
+Contain
+
+Base contain rules apply; E is inserting, so contain is handled by call structure/pressure.
+
+Pairing note
+
+Not constrained by your last note beyond normal pairing logic.
+
+Blitz pairing correction (locked)
+Cobra (boundary corner) pairs with Edge Attack, not Anchor Attack.
+
+Next item: 3) 3-4 package personnel + gap system
+Two locks needed to write those pages cleanly:
+
+In 3-4 (Mint/Ace/Jet), who is the field OLB?
+Options: B becomes field OLB, or you have a separate role/tag.
+
+In 3-4, do M/W keep “open gap to their side,” or do they become stack/backer fits (e.g., “Mike = strong A/B, Will = weak A/B”)?
+
+Reply with:
+
+3-4 field OLB = ____
+
+3-4 ILB fits = ____
+
+
+You said:
+let's do the 4 down first
+
+ChatGPT said:
+4-down first: Front Fit Cards (final draft set)
+Global rules (4-down, no stunts)
+
+M fits the open gap to the field side
+
+W fits the open gap to the boundary side
+
+Open gap is determined by the interior technique on that side:
+
+3-tech closes B → open = A
+
+2/2i/1 closes A-ish → open = B
+
+TE SET (default rule; not a called word)
+
+Versus single TE / Y-off surface:
+
+Set the front to the TE
+
+3-tech to the TE, 2i away
+
+B inserts into the box
+
+End to TE = 7-tech, keep contain
+
+2-back (20/21)
+
+Default: stay 6-man box
+
+If you ever add a 7th hat: B is the first insert (before D)
+
+1) SHADE
+Alignment: A5 / T3 / N2i / E5 (set field)
+
+Base fits
+
+M (field): open A
+
+W (boundary): open B
+
+Edges: box/contain (A & E)
+
+Adjustments
+
+TE SET applies (3-tech to TE, 2i away, B in box, TE end in 7)
+
+Motion doesn’t move T/N unless explicitly called (boundary tackle rule already noted)
+
+When to call
+
+Base vs RPO/spread, balanced sets, most Air Raid looks when you want stability.
+
+2) UNDER
+Alignment: A5 / T2i / N3 / E5 (set boundary)
+
+Base fits
+
+M (field): open B
+
+W (boundary): open A
+
+Edges: contain (A & E)
+
+Adjustments
+
+TE SET applies (if TE is boundary, this often matches naturally)
+
+Good front to pair with SLANT (to field)
+
+When to call
+
+Tendency breaker vs teams keying Shade; boundary-run weeks; complements your SLANT call family.
+
+3) EYES
+Alignment: A5 / T2i / N2i / E5
+
+Base fits
+
+M: open B
+
+W: open B
+
+Edges: contain
+
+Adjustments
+
+TE SET applies
+
+Good “square interior” when you want fewer creases
+
+When to call
+
+Vs zone/duo teams creating vertical push; when you want to slow interior movement without changing edges.
+
+4) WIDE
+Alignment: A5 / T3 / N3 / E5
+
+Base fits
+
+M: open A
+
+W: open A
+
+Edges: contain
+
+Adjustments
+
+TE SET applies
+
+Pairs well with CRASH (since you like it from Wide/Shade/Under)
+
+When to call
+
+Vs B-gap heavy run / gap schemes when you want to force bounce; also a changeup picture vs Air Raid spacing.
+
+5) DEUCES
+Alignment: A5 / T2 / N2 / E5
+
+Base fits
+
+M: open B
+
+W: open B
+
+Edges: contain
+
+Adjustments
+
+TE SET applies
+
+Head-up guards helps vs down blocks/pullers
+
+When to call
+
+Vs Wing-T / pullers / down-block teams; reduces easy dent from guard movement.
+
+6) GRIZZLY
+Alignment: A4i / T2i / N2i / E4i
+
+Base fits
+
+M: open B
+
+W: open B
+
+Edges: contain (tighter surface)
+
+Adjustments
+
+TE SET applies (end to TE can still get to 7-tech by rule)
+
+Don’t pair with CRASH (your rule)
+
+When to call
+
+Vs power/counter, red zone, tight games—close the inside and make them win on the perimeter.
+
+7) BOSS (Bigs On Same Side — to field)
+Alignment: A5 / T3(field) / N(2i or 1 to field) / E5
+
+Base fits
+
+Field side: depends on N’s inside tech to field
+
+If N is 1/2i to field → open = B on that side
+
+Opposite side: open gap determined by that side’s interior tech
+
+Edges: contain
+
+Adjustments
+
+TE SET still overrides alignment when there’s a TE surface (3-tech to TE, 2i away, B in box, TE end in 7)
+
+When to call
+
+Overload/tendency breaker; set up pressures; force runs back; create odd pictures while keeping your core rules.
+
+Need one lock later (but not required to use it):
+
+Whether N is choose 2i vs 1 by call, stem, or personnel.
+
+8) BOSS UNDER (Bigs On Same Side — to boundary)
+Alignment: A5 / T1(boundary) / N3(boundary) / E5
+
+Base fits
+
+Boundary: T=1 closes A-ish, N=3 closes B → open varies by side; ILBs fit open gap by tech.
+
+Edges: contain
+
+Notes
+
+Great platform for SLANT (since you like Slant from Under/BOSS Under)
+
+When to call
+
+Overload boundary, especially vs TE boundary weeks or boundary run tendency.
+
+Next (still 4-down): “Front + TE SET” example sheet
+If you want, I’ll produce a single page that shows each front vs TE (before/after picture) and explicitly states:
+
+what changes for A/E technique (7-tech on TE side),
+
+when B inserts,
+
+and how M/W open gap changes (if at all).
+
+Say: “do TE examples” or “move to pressures/menu trimming next.”
+
+
+You said:
+Deuces M and W make the T and N right, they have a gap if there's a stunt on
+
+Grizzly B and W are OLB M is in a 10 and does not have a gap unless there is a TE in that case he has C gap to the TE. We don't need to call out not to pair with crash
+
+BOSS will be a 3 to the field and a 1 to field M will have A gap to the boundary W will have B gap to the boundary
+
+invert this for BOSS under
+
+
+
+
+ChatGPT said:
+Updates locked and applied to 4-down fit cards
+DEUCES
+M and W “make T and N right” (fit off the down linemen; not fixed open-gap rules).
+
+They only become true gap players when a stunt creates one (“they have a gap if there’s a stunt on”).
+
+GRIZZLY (special personnel)
+B and W are OLBs
+
+M aligns in a 10 and does not have a gap by default
+
+If there is a TE surface, then M has C gap to the TE
+
+BOSS / BOSS UNDER (fit is explicit, not “open gap by tech”)
+BOSS: 3-tech to field + 1-tech to field
+
+M has A gap to the boundary
+
+W has B gap to the boundary
+
+BOSS UNDER: invert BOSS
+
+3-tech to boundary + 1-tech to boundary
+
+M has A gap to the field
+
+W has B gap to the field
+
+Revised 4-Down Front Fit Cards (final draft set)
+SHADE (A5 / T3 / N2i / E5) — set field
+Fits
+
+M: open A (field)
+
+W: open B (boundary)
+
+B: field force
+
+D: boundary force
+
+A/E: contain
+
+When to call
+
+Base vs spread/RPO; stable vs Air Raid
+
+UNDER (A5 / T2i / N3 / E5) — set boundary
+Fits
+
+M: open B (field)
+
+W: open A (boundary)
+
+A/E: contain
+
+When to call
+
+Tendency breaker; boundary-run/TE boundary weeks; pairs well with SLANT
+
+EYES (A5 / T2i / N2i / E5)
+Fits
+
+M: open B
+
+W: open B
+
+A/E: contain
+
+When to call
+
+Vs zone/duo; stabilize interior
+
+WIDE (A5 / T3 / N3 / E5)
+Fits
+
+M: open A
+
+W: open A
+
+A/E: contain
+
+When to call
+
+Force bounce; change picture vs gap runs / spacing
+
+DEUCES (A5 / T2 / N2 / E5)
+Fits
+
+M and W “make T and N right.”
+
+They fit off interior movement and clean up spills.
+
+They become true gap players only when a stunt creates a gap for them.
+
+A/E: contain
+
+When to call
+
+Vs Wing-T / down blocks / pullers; reduces easy guard down blocks
+
+GRIZZLY (A4i / T2i / N2i / E4i) — special OLB structure
+Fits / structure
+
+B and W are OLBs
+
+M aligns in a 10
+
+No gap by default
+
+If TE surface: M has C gap to the TE
+
+Edges: contain principles still apply (tight surface)
+
+When to call
+
+Vs power/counter; red zone / tight ball; heavy interior control
+
+BOSS (Bigs on Same Side — to field)
+Alignment intent
+
+3-tech to field
+
+1-tech to field (loaded side is field)
+
+Fits
+
+M: A gap to the boundary
+
+W: B gap to the boundary
+
+A/E: contain
+
+When to call
+
+Overload field bigs; force runs back; pressure setup / tendency breaker
+
+BOSS UNDER (Bigs on Same Side — to boundary)
+Alignment intent
+
+3-tech to boundary
+
+1-tech to boundary (loaded side is boundary)
+
+Fits
+
+M: A gap to the field
+
+W: B gap to the field
+
+A/E: contain
+
+When to call
+
+Overload boundary bigs; force runs back; boundary tendency breaker
+
+TE SET (default rule) — pending integration point
+You previously stated the TE rule (3-tech to TE, 2i away, B in box, TE end in 7).
+Given your new explicit BOSS/Grizzly notes, we should lock which fronts TE SET overrides.
+
+Quick lock (one line)
+Does TE SET override all fronts, or only your base families (e.g., Shade/Under/Eyes/Wide/Deuces) but not BOSS/Grizzly?
+
+Reply:
+
+TE SET = all or TE SET = base only or list exceptions.
+
+After that, we can move to 3) 3-4 package personnel + gap system or 4) pressure menu trimming.
+
+
+You said:
+TE over ride all but grizzly in our 4 down, 3 down is different
+
+ChatGPT said:
+Locked.
+
+TE SET overrides all 4-down fronts except GRIZZLY.
+
+3-down (Mint/Ace/Jet) TE rules are separate (we’ll handle later).
+
+4-Down Front Fit Cards (final with TE SET override)
+TE SET (default 4-down adjustment)
+Applies to: all 4-down fronts except GRIZZLY when there is a single TE/Y-off surface.
+
+Set front to TE
+
+3-tech to TE
+
+2i away
+
+B inserts into the box
+
+End to TE aligns 7-tech and plays contain
+
+This override replaces the front’s normal interior tech picture for that call.
+
+SHADE
+A5 / T3 / N2i / E5 (set field)
+
+Fits (no TE surface)
+
+M: open A (field)
+
+W: open B (boundary)
+
+A/E: contain
+
+TE surface
+
+Apply TE SET.
+
+When to call
+
+Base vs spread/RPO; stable vs Air Raid.
+
+UNDER
+A5 / T2i / N3 / E5 (set boundary)
+
+Fits (no TE surface)
+
+M: open B (field)
+
+W: open A (boundary)
+
+A/E: contain
+
+TE surface
+
+Apply TE SET.
+
+When to call
+
+Tendency breaker; boundary run weeks; pairs well with SLANT.
+
+EYES
+A5 / T2i / N2i / E5
+
+Fits (no TE surface)
+
+M: open B
+
+W: open B
+
+A/E: contain
+
+TE surface
+
+Apply TE SET.
+
+When to call
+
+Vs zone/duo; square interior.
+
+WIDE
+A5 / T3 / N3 / E5
+
+Fits (no TE surface)
+
+M: open A
+
+W: open A
+
+A/E: contain
+
+TE surface
+
+Apply TE SET.
+
+When to call
+
+Force bounce; change picture vs gap runs / spacing.
+
+DEUCES
+A5 / T2 / N2 / E5
+
+Fits (no TE surface)
+
+M/W: “make T and N right”
+
+clean-up players unless a stunt gives them a defined gap
+
+A/E: contain
+
+TE surface
+
+Apply TE SET.
+
+When to call
+
+Vs Wing-T/down blocks/pullers.
+
+GRIZZLY (TE SET does NOT override)
+A4i / T2i / N2i / E4i
+
+Fits / structure
+
+B and W are OLBs
+
+M in a 10
+
+no gap by default
+
+if TE surface: M has C gap to the TE
+
+Edges: contain principles
+
+When to call
+
+Power/counter, red zone, heavy interior control.
+
+BOSS (TE SET overrides if TE present)
+No TE surface intent
+
+3-tech to field
+
+1-tech to field
+
+M: A gap to boundary
+
+W: B gap to boundary
+
+TE surface
+
+Apply TE SET.
+
+BOSS UNDER (TE SET overrides if TE present)
+No TE surface intent
+
+3-tech to boundary
+
+1-tech to boundary
+
+M: A gap to field
+
+W: B gap to field
+
+TE surface
+
+Apply TE SET.
+
+Next item choice:
+
+3) 3-4 package personnel + gap system, or
+
+4) pressure menu trimming.
+
+
+You said:
+next
+
+ChatGPT said:
+3) 3-4 package personnel + gap system (Mint / Ace / Jet)
+You already defined the DL techniques and that E becomes OLB in 3-down. To write these pages correctly, I need three locks:
+
+Intake 13 — 3-4 personnel mapping
+A) Who is the field OLB in 3-4?
+In 3-4 you have two OLBs. You said E becomes OLB (boundary by default). Who is the other edge to the field?
+Pick one:
+
+B becomes field OLB (most consistent with your personnel)
+
+A becomes field OLB (and you replace A with another down lineman)
+
+Other (state it)
+
+Reply: Field OLB = B / A / other
+
+Intake 14 — 3-4 ILB fits (M/W) and gap system
+B) In Mint/Ace/Jet, do M and W:
+keep “open gap to their side” logic, or
+
+become stack backers with defined fits (e.g., Mike = strong A/B, Will = weak A/B), or
+
+match the front (Mint/Ace/Jet each has its own fit rules)
+
+Reply: 3-4 ILB fits = open-side / stack / front-specific
+
+Intake 15 — 3-4 TE / surface rule (you said it’s different)
+C) With a TE/Y-off surface in 3-4, do you:
+set to TE like 4-down (3-tech equivalent concept), or
+
+keep Mint/Ace/Jet intact and adjust OLB alignments only, or
+
+call a separate “TE” tag?
+
+Reply: 3-4 TE rule = set / OLB-only / tag
+
+While you answer, here’s the skeleton I will generate immediately
+For each of MINT / ACE / JET:
+
+Alignment diagram (A/T/N techniques + which is the 0/nose)
+
+Edge players (field OLB + E as boundary OLB)
+
+M/W alignment (stack/10/etc.)
+
+Base fits and spill/box language
+
+When to call (vs Wing-T, RPO, Air Raid)
+
+Send A–C in one message and I’ll write the 3-4 package pages in the same style as the 4-down cards.
+
+
+You said:
+let's talk through this knowing the coverages and fronts give me input on these we can decide them one at a time
+
+ChatGPT said:
+Decision 13A: Who is the field OLB in 3-4? (recommendation)
+Given your system:
+
+Base is 4-2-5 with B = nickel/field force, and in Grizzly you already treat B as an OLB-type.
+
+Your pressure menu heavily uses B (staB, BoW, BooM, Eat, Hammer).
+
+Your coverage families (NINJA/C1/Z-family) already depend on B being a primary adjuster/flat/pressure piece.
+
+Best choice: B becomes the field OLB in 3-4
+Why
+
+Minimal language change for players: “B is still an apex/edge overhang,” just more true edge in 3-4.
+
+Keeps your pressure package intact (B still blitzes, sets edge, and can be MOF in Ohio when needed).
+
+Lets you keep E as boundary OLB (as you already stated) without inventing a new position letter.
+
+Tradeoffs
+
+If B is your best cover nickel, he’ll be asked to play more like an OLB at times; that’s usually acceptable in HS if you’re personnel-driven.
+
+Alternatives (and why they’re worse here)
+A becomes field OLB: forces you to redefine A’s identity and creates churn with your 4-down world.
+
+“Other” new letter: creates install overhead and complicates signals/wristbands.
+
+Recommendation: lock Field OLB = B.
+
+Reply with: Field OLB = B if you agree, and we move to the next decision (13B: M/W fits in 3-4).
+
+
+You said:
+ok, let's go with that, the Mike can be a force too. I think the B makes sense in man but when we are in ninja or viking he will not be able to handle coverage and quarterback containment. What are your thoughts?
+
+ChatGPT said:
+Locked: Field OLB = B in your 3-4 packages.
+
+Your concern is valid: in NINJA/VIKING, B often needs to be an apex coverage player, and asking him to also be primary QB contain (edge rusher) is a conflict.
+
+Practical way to resolve it (without changing your personnel mapping)
+Treat “3-4” as front structure, and make contain responsibility depend on the call family:
+
+Option 1 (recommended): 3-4 is primarily a pressure/man package
+Use MINT/ACE/JET + ZEUS/Z-family or Cover 1 when you want B as a true edge/contain player.
+
+When you’re in NINJA or VIKING, don’t ask B to be the contain rusher.
+
+Why it works: matches your identity (aggressive), minimizes mental load, and keeps B doing one job per snap.
+
+Option 2: Add one simple tag for “3-4 but B is a cover player”
+Create a tag like “DROP” (or “COVER”) that means:
+
+B drops (apex coverage) as normal for NINJA/VIKING
+
+Contain is replaced by M (or by A) via an add-on rush rule
+
+Two clean variants:
+
+DROP-M: M becomes the field contain rusher (green-dog style if back stays in; otherwise rush now)
+
+DROP-A: A is coached as field contain from his 4i/5 alignment (wider rush lane), while interior still pushes
+
+Why it works: you keep the same front names and only add one tag that changes who contains.
+
+Option 3: Mike as force (your note)
+If Mike can be force, you can also do:
+
+B drops, M widens to force/contain to field
+
+This is basically a built-in “replace B with Mike” rule in coverage calls.
+
+Caution: only use it when M is coached to widen without losing interior fits (so you don’t open the QB draw lane).
+
+My recommendation
+Default rule: 3-4 + NINJA/VIKING ⇒ B is coverage first, contain comes from A/E plus a tagged add-on (DROP-M).
+
+Pressure rule: 3-4 + C1/Z-family ⇒ B is edge/contain (no conflict).
+
+This keeps your calls clean:
+
+“We’re in 3-4 for structure.”
+
+“Coverage family decides whether B is edge or cover.”
+
+Next decision (13B): 3-4 ILB fits
+Do you want M/W in 3-4 to be:
+
+open gap to their side (same philosophy as 4-down), or
+
+stack backers with defined fits (strong/weak rules), or
+
+front-specific (Mint/Ace/Jet each slightly different)?
+
+Pick 1/2/3 and I’ll give you a recommendation aligned with the contain plan above.
+
+
+You said:
+let's use B is contain in man and M needs to understand he is quarterback contain in ninja and viking
+ let's go to 14b
+
+ChatGPT said:
+Locked:
+
+In 3-4 + man (Cover 0 / Cover 1): B is contain (field OLB edge).
+
+In 3-4 + NINJA/VIKING: M is QB contain (M must know he is the contain/edge rusher responsibility).
+
+Decision 14B: 3-4 ILB fits (M/W) — recommendation
+Given your fronts (Mint/Ace/Jet) and that you want M to be QB contain in Ninja/Viking, you need simple, repeatable fits that don’t change snap-to-snap.
+
+Recommended: Stack backers with defined fits (Option 2)
+M = strong/field inside backer
+
+W = weak/boundary inside backer
+
+They fit A→B inside-out based on the flow and the down-lineman picture.
+
+Why this is best for you
+
+In 3-4, the down three are often controlling interior; the ILBs become the primary cleaners.
+
+It makes it easier to teach “M can become contain when tagged by coverage family” without also changing his run-fit rules.
+
+It keeps W consistent while M learns the special “contain in Ninja/Viking” rule.
+
+How to write it (playbook-ready)
+3-4 Base Fit Rule (Mint/Ace/Jet):
+
+M (field/strong): fit strong A then B (inside-out)
+
+W (boundary/weak): fit weak A then B (inside-out)
+
+If you set the front to a TE in 3-4 later, “strong/weak” can be surface-based; for now field/boundary is fine.
+
+Special add-on (only when in Ninja/Viking as you locked)
+M becomes QB contain: he widens to contain lane on pass read, but remains run-fit first vs run.
+
+Confirm / lock
+Reply with one line:
+
+3-4 ILB fits = stack (strong/weak A→B)
+
+If you want a tweak, the only common alternative is:
+
+“M = strong B first vs Jet” (but I recommend keeping it uniform unless you have a strong reason).
+
+After we lock 14B, we go to 15C: 3-4 TE/surface rule (since you said 3-down is different).
+
+
+You said:
+M only has to contain QB in ninja and viking when we are in mint
+
+ChatGPT said:
+Locked refinement:
+
+M is QB contain only in: MINT + (NINJA or VIKING).
+
+In ACE/JET + (NINJA/VIKING), M is not the contain by default (we’ll define contain responsibility there when we write those pages).
+
+Decision 14B (3-4 ILB fits) — finalize recommendation
+Still recommend: stack backers with defined fits because it stays consistent across Mint/Ace/Jet and doesn’t conflict with your special Mint contain rule.
+
+Lock this unless you want a different rule
+3-4 ILB fits (base):
+
+M (field/strong): inside-out fit A → B
+
+W (boundary/weak): inside-out fit A → B
+
+Special overlay (already locked)
+MINT + NINJA/VIKING: M becomes QB contain on pass read, but remains run-fit first on run.
+
+Reply to lock:
+
+3-4 ILB fits = stack A→B
+
+Next decision (15C): 3-4 TE / surface rule
+You said “3 down is different.” Pick the behavior you want:
+
+OLB-only adjust (recommended): keep Mint/Ace/Jet intact; just bump OLB alignments to the TE/surface
+
+Set the whole front to TE: change the 4i/0/4i picture based on TE side
+
+Tag it: separate call like MINT TE
+
+Reply: 3-4 TE rule = OLB-only / set / tag.
+
+
+You said:
+I guess when we are in ace or jet and the A has B gap
+
+ChatGPT said:
+
+Thought for 15s
+Locked context: M is QB contain only in MINT when you’re in NINJA/VIKING.
+
+Your last note (“in ACE or JET and the A has B gap”) implies this: in ACE/JET, you want A to be an interior B-gap player, so A cannot be your contain player in those packages.
+
+Contain solution matrix (3-4)
+MINT
+Man (C0/C1): B is contain (locked)
+
+NINJA/VIKING: M is contain (locked)
+
+ACE / JET (where A has B gap)
+Man (C0/C1): B is contain (same as Mint)
+
+NINJA/VIKING: B is contain (recommended)
+
+Reason: if A is B-gap, you need a consistent edge setter on the field side. The cleanest answer is: B owns contain in ACE/JET regardless of coverage, and you accept that his coverage responsibility in Ninja/Viking becomes contain-first, then match (slow-play).
+
+Coaching the “contain-first, then match” rule (for B in ACE/JET + Ninja/Viking)
+Pass read: B widens/holds the edge and keeps QB inside.
+
+If QB sets and ball comes out: B transitions to his match rule (curl/flat/seam-curl-flat depending on the coverage call).
+
+Run read: normal force/box rules.
+
+This is a common HS compromise: you trade some apex coverage purity for QB integrity when the front is asking A to live in B-gap.
+
+Decision 14B (ILB fits) — lock it now (recommended)
+3-4 ILB fits = stack A→B
+
+M (field/strong): A→B inside-out
+
+W (boundary/weak): A→B inside-out
+
+This stays stable across Mint/Ace/Jet and doesn’t conflict with the Mint-only M contain rule.
+
+Decision 15C (3-4 TE rule) — recommendation
+Use OLB-only adjust:
+
+Keep Mint/Ace/Jet intact.
+
+Bump B/E alignments to the surface (TE/Y-off) without rebuilding the front.
+
+If you agree, we can finalize the 3-4 pages as:
+
+Mint/Ace/Jet alignments
+
+B = field OLB, E = boundary OLB
+
+M/W stack fits A→B
+
+Contain matrix above
+
+TE adjustment = OLB-only
+
+If anything in that matrix is wrong, the single item to change is: ACE/JET + Ninja/Viking contain player (B vs someone else).
+
+
+You said:
+14b M and W could we use the play to me stack B to D play away slow play my A (look for the cut back)
+
+ChatGPT said:
+Yes. That’s a good 3-4 ILB fit system and it matches your terminology.
+
+14B (3-4 ILB fits) — lockable rule set
+Pre-snap
+Declare strength = Field (unless you later add a TE/surface rule for 3-down).
+
+Play-to = toward strength.
+
+Play-away = away from strength.
+
+Base run fits (Mint/Ace/Jet)
+M (field/strong ILB)
+
+Play-to: STACK B → D
+(fit inside-out: B gap first, then spill/replace to D if it bounces/wraps)
+
+Play-away: SLOW PLAY A
+(patient shuffle, close backside A, look for cutback)
+
+W (boundary/weak ILB)
+
+Mirror the same concept to his side:
+
+Play-to (to boundary): stack B → D
+
+Play-away (away from boundary): slow play A (cutback)
+
+If you want it simpler: “Both ILBs: play-to stack B→D; play-away slow play A.” That installs fast.
+
+Why this works for you
+Handles your “A has B-gap in ACE/JET” note cleanly (ILBs are spill/clean players, not fixed-gap robots).
+
+Fits your contain matrix:
+
+MINT + NINJA/VIKING: M can still become QB contain on pass-read without ruining run fits (because on run he’s stacking/slow-playing first).
+
+One lock to avoid a common bust
+On split zone / H-back slice (backside insert kicking the contain), who owns the slicer by rule in 3-down?
+
+Option A: Backside OLB (B or E)
+
+Option B: Backside ILB (slow-play A player)
+
+Reply with Slice = OLB or Slice = ILB.
+
+Once locked, I’ll write the full Mint/Ace/Jet pages (alignment + fits + contain responsibilities + TE adjustment for 3-down).
+
+
+You said:
+in ACE without a stunt A is two gap based on tackles block and in jet A is C gap contain
+
+ChatGPT said:
+Locked updates for 3-down packages:
+
+ACE (no stunt): A is 2-gap based on the tackle’s block.
+
+JET: A is C-gap contain.
+
+This changes the 3-4 pages materially, so here is the updated package write-up (still consistent with your 14B ILB rule: play-to stack B→D; play-away slow-play A/cutback).
+
+3-4 Package Pages (updated)
+Common (all 3-down)
+Field OLB = B (locked)
+
+Boundary OLB = E (locked)
+
+ILBs (M/W) fits (locked concept):
+
+Play-to: STACK B → D
+
+Play-away: SLOW PLAY A (hunt cutback)
+
+MINT (4i / 0 / 4i)
+A = 4i
+
+T = 0
+
+N = 4i
+
+B/E = OLBs
+
+Contain
+
+Man (C0/C1): B contain (locked)
+
+NINJA/VIKING (MINT only): M is QB contain (locked)
+
+ACE (4 / 0 / 4)
+A = 4
+
+T = 0
+
+N = 4
+
+B/E = OLBs
+
+Key rule (locked)
+
+A is 2-gap (no stunt) based on the tackle’s block.
+
+Contain (implication)
+
+Because A is 2-gapping, you can keep OLBs as primary edge/contain players by call.
+
+JET (5 / 0 / 5)
+A = 5
+
+T = 0
+
+N = 5
+
+B/E = OLBs
+
+Key rule (locked)
+
+A is C-gap contain.
+
+Two remaining locks to finish 3-down cleanly
+ACE contain: with A 2-gapping, who is your default field contain in ACE on pass?
+
+ACE contain = B (most consistent), or ACE contain = A (if you want A to set edge sometimes)
+
+Slice rule (split zone/H-back kick):
+
+Slice = OLB (backside OLB takes slicer), or Slice = ILB (slow-play A player takes slicer)
+
+Reply with:
+
+ACE contain = __
+
+Slice = __
+
+After those, the 3-4 package personnel + gap system section is complete and we move to 4) pressure menu trimming.
+
+
+You said:
+ace A T and N are two gapping
+jet T is two gapping A and N are contain
+
+ChatGPT said:
+Locked. Updating 3-down package rules:
+
+ACE: A, T, N are all 2-gapping (no stunt).
+
+JET: T is 2-gapping; A and N are contain (edges).
+
+This fully defines the 3-down interior/edge structure.
+
+Final 3-4 Package Pages (Mint / Ace / Jet)
+Common (all 3-down)
+Field OLB = B
+
+Boundary OLB = E
+
+ILBs (M/W) fits (your rule):
+
+Play-to: STACK B → D
+
+Play-away: SLOW PLAY A (hunt cutback)
+
+MINT (4i / 0 / 4i)
+A = 4i
+
+T = 0
+
+N = 4i
+
+B/E = OLBs
+
+Contain
+
+Man (C0/C1): B is contain
+
+NINJA/VIKING (MINT only): M is QB contain
+
+Use
+
+Interior control vs spread run/RPO while keeping 3-down picture.
+
+ACE (4 / 0 / 4)
+A = 4
+
+T = 0
+
+N = 4
+
+B/E = OLBs
+
+Core rule
+
+A, T, N are 2-gapping (read OL, control both adjacent gaps).
+
+Contain
+
+Primary contains are the OLBs (B and E) (clean, since the down three are 2-gapping).
+
+Use
+
+Versus downhill/run-heavy looks when you want the front to “absorb” blocks and let ILBs run.
+
+JET (5 / 0 / 5)
+A = 5 (contain)
+
+T = 0 (2-gap)
+
+N = 5 (contain)
+
+B/E = OLBs
+
+Core rule
+
+T is 2-gapping
+
+A and N are contain (C-gap edge)
+
+Use
+
+Versus perimeter run / option / teams trying to bounce; keeps edges firm.
+
+One remaining lock for 3-down (needed for the written page)
+On split zone / H-back slice (backside kick of the contain), who owns the slicer by default?
+
+Slice = OLB (backside OLB takes slicer)
+
+Slice = ILB (slow-play A player takes slicer)
+
+Once you answer, 3) is complete and we move to 4) pressure menu trimming.
+
+
+You said:
+ok to ideas but I think OLB makes sense
+
+ChatGPT said:
+Locked: Slice = OLB (backside OLB takes the slicer on split zone/H-back kick).
+
+That completes 3) 3-4 package personnel + gap system.
+
+4) Pressure menu trimming (next)
+You have a large menu. To make a Friday-night call sheet usable, I recommend carrying 8–10 pressures weekly in three buckets:
+
+Base (call anytime): 4–5
+
+Changeups (tendency breakers): 2–3
+
+Special situations (3rd/long, red zone, goal line): 2
+
+Your current pressure/tag inventory
+Mike, Will, Bandit, Dawg, staB, Freebird, Cobra, sWarM, BooM, BoW, MaD, Eat, Hammer, Shave, plus Z-family (Zeus/Zorro/Zunnel/Zill/Zike).
+
+Proposed “weekly 10” pressure list (draft)
+Base (call anytime)
+Mike
+
+Will
+
+Bandit
+
+sWarM (M+W)
+
+BoW (B+W)
+
+Changeups
+BooM (B+M)
+
+MaD (M+D)
+
+Special situations
+Zeus (0 delayed/pass-read pressure)
+
+Cobra (boundary corner blitz; with your 0-family swap rules)
+
+Hammer or Shave (pick one as your signature edge package)
+
+Two decisions to lock your trimmed menu
+A) Edge package choice
+Do you want your weekly carry to be:
+
+Hammer (field edge via B + Anchor Attack), or
+
+Shave (boundary edge via W + Edge Attack), or
+
+Both (but then something else must drop)
+
+B) Do you want Freebird as a weekly carry?
+It’s powerful, but only if your MOF safety is coached to blitz cleanly.
+Reply: Freebird = weekly or Freebird = package only.
+
+Answer A and B, and I’ll output:
+
+Final 8–10 pressure menu (base/changeup/special)
+
+Best front + stunt pairings for each
+
+A compact call sheet block you can print.
+
+
+You said:
+4: Mike, Will, Bandit, sWarM, BooM, BoW, Hammer, Eat
+We will run zeus more and called pressures.
+
+let's revisit viking, we need a fire zone 3 deep 3 underneath coverage
+
+ChatGPT said:
+
+Thought for 20s
+Pressure menu (trimmed, locked weekly carry)
+Weekly “called pressures” you listed:
+
+Mike
+
+Will
+
+Bandit
+
+sWarM
+
+BooM
+
+BoW
+
+Hammer
+
+Eat
+
+And:
+
+ZEUS (and your Z-family) will be featured more (separate from the “called pressure” tags above).
+
+I’ll treat that as your Friday menu unless you later add/remove.
+
+Revisit VIKING: Fire Zone (3 deep / 3 under)
+You need a fire zone coverage tag that can be paired with called pressures (5-man) and can also serve as a “call-off” from Zeus looks. Here is a playbook-ready VIKING FIRE ZONE.
+
+VIKING (Fire Zone) — definition
+Coverage: 3 Deep / 3 Under
+
+Rush: 5-man pressure (called separately)
+
+Post-snap structure: spot-drop with match principles (so it can survive RPO/quick game)
+
+Deep 3 (always)
+FC: Deep 1/3 (field)
+
+FS: Deep middle 1/3
+
+BC: Deep 1/3 (boundary)
+
+Under 3 (always)
+B: Curl/Flat (field)
+
+D: Curl/Flat (boundary)
+
+M: Hook (middle)
+
+This keeps your underneath structure consistent regardless of which 5 rush.
+
+Underneath rules (the part that makes it “work”)
+Curl/Flat (B and D)
+Wall #2 (or first inside threat) on any immediate vertical.
+
+Carry vertical to ~10–12 yards (or “until threatened”), then settle curl/flat.
+
+Trigger to flat now on any fast out/arrow/swing.
+
+Versus screens: trigger immediately (“see screen, scream screen”).
+
+Hook (M)
+Wall/collision #3 (or first crosser).
+
+Sit inside hashes at ~8–10 yards, eyes QB.
+
+Match first inside threat crossing your face.
+
+“Who drops?” (must be defined for fire zone)
+VIKING is the coverage. Fire zone also requires you to explicitly define the 3 droppers (B, D, M) plus ensure only 5 rush.
+
+Easiest, cleanest rule:
+
+Default VIKING pairing
+Pair VIKING with a 5-man pressure call that does not include B, D, or M as rushers (unless you are replacing their drop with a DL dropper).
+
+If you do want to rush one of the underneath players, you need a built-in replacement. Two common variants:
+
+VIKING “DOG” (LB rush, DL drop)
+If Will is rushing: the boundary end (E) drops to the hook/curl replacement (short zone), and M stays Hook.
+
+If Mike is rushing: the field end (A) drops, and M stays Hook.
+
+That keeps the 3-under intact without putting a corner in the hook.
+
+Quick formation rules (so DBs aren’t guessing)
+2x2
+Base rules above. Curl/flat players wall #2; M walls #3 (RB/TE if they become #3).
+
+3x1
+Still 3-under:
+
+Trips side curl/flat walls #2/#3 threats.
+
+M walls #3/crosser.
+
+Backside curl/flat plays normal.
+
+If you want it even cleaner: in 3x1, tell M “lean to trips” (align + step).
+
+How it fits your system identity
+Aggressive pressure with a consistent underneath picture.
+
+No explosives: corners are deep 1/3, FS is post 1/3.
+
+Works as your “call-off the horses” coverage behind pressure looks.
+
+One lock needed to finalize Viking as a callable package
+Do you want VIKING to mean:
+
+Coverage-only tag (you always pair it with a specific 5-man pressure concept you like), or
+
+A full pressure package (Viking includes who rushes and who drops, same every time)
+
+If you don’t want extra verbosity on Friday, I recommend (2): one default Viking pressure + the Viking coverage rules above.
+
+
+You said:
+what else do I need to create for a full defensive playbook/power point?
+
+ChatGPT said:
+Core sections for a complete defensive playbook (and PowerPoint)
+1) Defense identity
+Defensive goals/standards (no explosives, rally, discipline)
+
+Base structure overview (4-2-5 / 3-4 personnel-based)
+
+Position glossary (FC/FS/B/A/T/N/E/M/W/D/BC) and technique chart
+
+2) Alignment system
+Base spacing rules (field/boundary, strength declarations)
+
+Stance/align landmarks (apex depth, corner leverage, safety depth)
+
+Motion communication (BUMP–BUMP, safety fixer language)
+
+3) Front catalog (you have most)
+4-down fronts: Shade/Under/Eyes/Wide/Deuces/Grizzly/Boss/Boss Under + TE SET rule
+
+3-down packages: Mint/Ace/Jet + contain rules + slice rule
+
+“When to call” table by opponent style (Wing-T/RPO/Air Raid)
+
+4) Stunt catalog (you have)
+Slant/Angle/Pinch/Jacks/Split/Crash/Anchor Attack/Edge Attack/Anchor Raven/Edge Raven
+
+Pairings with fronts + your weekly pressure menu
+
+5) Pressure catalog
+Your weekly called pressures (Mike/Will/Bandit/sWarM/BooM/BoW/Hammer/Eat)
+
+Z-family (Zeus + variants) and “call-off” options (drop to Ninja/Viking)
+
+A “Friday menu” page (what you actually carry)
+
+6) Coverage catalog
+NINJA (Cover 7 family): MOD/CLAMP/POACH + DB autonomy procedure
+
+Cover 1 family: Oregon/Oklahoma/Ohio + shared autos (BUMP/BANJO/EXCHANGE/UNDER)
+
+Cover 0 family: Zeus/Zorro/Zunnel/Zill/Zike + shared autos
+
+VIKING fire zone (3 deep/3 under) + who drops/rushes
+
+7) Formation adjustment sheets
+Offensive sets: 2x2, 3x1, bunch/stack, empty, nub TE, wing/slot, compressed
+
+RPO alerts (glance/bubble/now) and screen rules
+
+Wing-T rules (down, kick, pullers, backfield action)
+
+8) Run-fit philosophy pages
+Box/force/spill rules per front family
+
+Gap naming (A/B/C/D) and “who is force” rules
+
+Option/QB run rules (scrape exchange, contain, cutback)
+
+9) Install + teaching plan
+Install order (camp + first 3 games)
+
+Indy drills and coaching points by position group
+
+Call progression (base → changeups → packages)
+
+10) Game-day operational docs (must-have)
+Call sheet (situations × field zones × personnel)
+
+Signal sheet (front/stunt/pressure/coverage grammar)
+
+Wristband menu (players + coaches)
+
+Weekly scouting report template + tendency tracker
+
+Practice scripts (team periods, pressure periods, red zone, 3rd down)
+
+PowerPoint structure (recommended deck outline)
+Identity + terminology
+
+Base alignment by position group
+
+Fronts (one slide per front; TE SET example slide)
+
+3-down packages (Mint/Ace/Jet)
+
+Stunts (one slide per stunt + pairing note)
+
+Pressures (weekly menu + Zeus family)
+
+Coverages (Ninja / C1 / C0 / Viking fire zone)
+
+Formation checks (2x2/3x1/bunch/empty/nub)
+
+Situational calls (3rd down, red zone, backed up)
+
+Install plan + practice scripts
+
+What you likely still need to author (content gaps)
+NINJA pages (procedure + responsibilities by formation)
+
+VIKING fire zone finalized as either coverage-only or full package
+
+Run-fit philosophy written in one consistent rule set
+
+Formation adjustment sheets (bunch/stack/empty/nub/wing)
+
+Call sheet + signal sheet + wristbands templates
+
+If you want the fastest path to a finished PPT: start by finalizing (1) Viking package definition, (2) Ninja pages, (3) run-fit philosophy page, then generate the call/signal/wristband pages.
+
+
+You said:
+let's do these
+
+ChatGPT said:
+1) VIKING Fire Zone (3 deep / 3 under) — finalized as a full package
+VIKING = 5-man pressure + 3 Deep / 3 Under
+Use it as:
+
+your “call off the horses” behind pressure looks
+
+a safe pressure answer vs RPO/quick game teams
+
+Deep 3 (always)
+FC: Deep 1/3 (field)
+
+FS: Deep middle 1/3
+
+BC: Deep 1/3 (boundary)
+
+Under 3 (always)
+B: Curl/Flat (field)
+
+D: Curl/Flat (boundary)
+
+M: Hook (middle)
+
+Underneath rules (install language)
+Curl/Flat (B/D): wall #2 vertical (carry to ~10–12), then curl/flat; trigger flat on fast out/swing.
+
+Hook (M): wall first crosser/#3; sit 8–10; match inside threats.
+
+Pressure pairing rule (clean)
+VIKING pairs with your called pressures that rush 5 without removing B/D/M from the drops.
+
+If you ever want a LB to be a rusher in VIKING, add a separate tag later (e.g., “VIKING DOG”) that defines the replacement dropper. For now: keep it clean.
+
+2) NINJA (Cover 7 family) — procedure + responsibilities
+NINJA = DB-driven split-field match call
+Called by coaches as NINJA
+
+DBs choose the correct check based on formation:
+
+2x2: MOD / CLAMP
+
+3x1: SPECIAL / CLIP / POACH
+
+Safeties are fixers; make the corners right.
+
+2x2 (NINJA)
+Rule you gave (locked):
+
+Field: MOD
+
+Boundary: CLAMP
+
+Teach points (minimal)
+
+MOD side plays match-quarters rules to #2.
+
+CLAMP side plays squat/inside leverage on #1 with match help on #2 (Saban-style).
+
+3x1 (NINJA)
+Rule you gave (locked):
+
+POACH
+
+“Check to trips rules poach” (DBs own the adjustment)
+
+Teach points (minimal)
+
+Trips safety handles #3 vertical rules per Poach.
+
+Backside safety/corner remain locked on backside threats; don’t get dragged by #3.
+
+Shared NINJA motion/stack autos (from your man-family, applied here when relevant)
+BANJO (safety alert vs stack/close splits; not signaled)
+
+BUMP–BUMP (safeties travel, don’t cross; corner takes only if motion becomes new #1/widest)
+
+EXCHANGE (automatic vs rub/pick concepts)
+
+If you want, we can write a separate “NINJA vs bunch/stack/empty” page; for now, this is the core.
+
+3) Run-fit philosophy (one-page, system-wide)
+Defensive run goals
+No explosives
+
+Box it (set hard edges)
+
+Relentless pursuit (11 hats to the ball)
+
+Force the ball to the help
+
+Base run structure (4-down, non-Grizzly)
+Edges: A/E contain (box it)
+
+Force: B = field force, D = boundary force
+
+ILBs: no-stunt base = M fits open gap field, W fits open gap boundary
+
+Open gap determined by interior technique:
+
+3-tech closes B → open A
+
+2/2i/1 closes A-ish → open B
+
+TE SET (default 4-down, overrides all except Grizzly)
+Set to TE: 3-tech to TE, 2i away
+
+B inserts into box
+
+TE end = 7-tech contain
+
+Special front run structures
+DEUCES
+
+M/W make T and N right
+
+Only become true gap players when a stunt creates the gap
+
+GRIZZLY
+
+B and W are OLBs
+
+M in a 10; no gap by default
+
+If TE surface: M has C gap to TE
+
+BOSS / BOSS UNDER
+
+BOSS: 3-tech to field + 1-tech to field
+
+M = A to boundary, W = B to boundary
+
+BOSS UNDER: inverted
+
+M = A to field, W = B to field
+
+2-back (20/21)
+Default 6-man box
+
+If inserting a 7th hat: B is first insert
+
+4) Formation adjustment sheets (the “must have” ones)
+A) Bunch / Stack / tight splits
+BANJO = safety alert/check (not signaled)
+
+Roles (generic, since you treat it as alert):
+
+Corner = first OUT
+
+Near safety = first IN
+
+Opposite safety = deeper fixer
+
+B) Rub/pick route concepts (any formation)
+EXCHANGE is automatic
+
+Switch on contact still applies
+
+C) “UNDER” (rub switch vs under + RB fast out)
+Universal (Cover 0 + Cover 1)
+
+RB player takes UNDER
+
+Defender who had the UNDER takes RB
+
+Call is UNDER (no numbering)
+
+(Your RB player definitions already exist for Z-family and Cover 1.)
+
+D) Empty
+In man families: RB-out rules apply (nearest/call-dependent)
+
+In Ninja/Viking: treat #3 as immediate threat; safeties communicate who owns #3 away (Poach rules in trips)
+
+E) Nub TE (single TE with no split receiver)
+Apply TE SET in 4-down fronts (except Grizzly)
+
+In coverage: treat nub as #1 to that side; safety/corner communicate if nub releases vertical immediately
+
+5) Game-day documents (templates you can paste into PPT)
+A) Defensive call sheet skeleton (one page)
+Sections
+
+Base calls (early downs)
+
+Front: Shade / Under / Eyes / Wide / Deuces / Grizzly / Boss
+
+Coverage: Ninja / Cover 1 (Oregon/Oklahoma/Ohio) / Viking
+
+3rd Down
+
+Zeus family + call-off (drop to Ninja or Viking)
+
+Hammer/Shave packages
+
+Red Zone
+
+Grizzly + man/zeus
+
+Viking (safe pressure)
+
+Backed up / Sudden change
+
+Safe calls (Viking / Cover 1)
+
+Versus Wing-T
+
+Deuces + Pinch / Jacks / Split
+
+Versus RPO/Air Raid
+
+Shade/Eyes + Ninja; Viking as changeup
+
+B) Signal sheet “grammar”
+Call order: Front + Stunt + Pressure + Coverage (+ Tags)
+
+Example: UNDER + SLANT + sWarM + NINJA
+
+Example: SHADE + PINCH + Mike + OREGON
+
+Example: BOSS + SPLIT + Eat + VIKING
+
+Example: ZEUS (show) → call-off NINJA/VIKING
+
+C) Wristband menu structure
+Assign each family a small block of codes:
+
+Front codes (01–20)
+
+Stunts (21–35)
+
+Pressures (36–50)
+
+Coverages (51–65)
+
+Tags/autos (66–75)
+
+Example layout:
+
+01 Shade, 02 Under, 03 Eyes, 04 Wide, 05 Deuces, 06 Grizzly, 07 Boss, 08 Boss Under
+
+21 Slant, 22 Angle, 23 Pinch, 24 Jacks, 25 Split, 26 Crash, 27 Anchor Raven, 28 Edge Raven
+
+36 Mike, 37 Will, 38 Bandit, 39 sWarM, 40 BooM, 41 BoW, 42 Hammer, 43 Eat, 44 Zeus
+
+51 Ninja, 52 Oregon, 53 Oklahoma, 54 Ohio, 55 Viking
+
+66 Tampa, 67 Spy (others as needed)
+
+D) Opponent scouting report template (1 page)
+Personnel (10/11/12/20/21)
+
+Base formations (2x2, 3x1, bunch, empty, wing)
+
+Top runs (concept + direction tendency)
+
+Top passes (concept + 3rd down favorites)
+
+RPO alerts (glance/bubble/now)
+
+Shot plays (when/how)
+
+Protection (slide/man) and screen menu
+
+“Call plan” box (what you will call on: 1st down, 2nd medium, 3rd 4–6, 3rd 7+, red zone)
+
+E) Practice script blocks (defense periods)
+Indy (10–12 min): block destruction + leverage + tackling circuits
+
+Group (10 min): front fits vs 4 core runs
+
+Skelly (10 min): Ninja/Viking spacing + rub rules (Exchange/Under)
+
+Team (15–20 min): scripted: early downs → 3rd down → red zone
+
+Pressure period (8 min): 4 called pressures + Zeus show/call-off
+
+Next choice (to keep momentum)
+Pick one to build out into PPT-ready “slide text” next:
+
+NINJA full slides (2x2 + 3x1 + bunch/stack/empty)
+
+VIKING package slides (rules + pairings with your 8 weekly pressures)
+
+Run-fit philosophy slides (front-by-front with TE SET examples)
+
+
+You said:
+forget the fire zone viking for now. let's finalize what we have
+
+ChatGPT said:
+Finalized (current state) — Defensive Playbook Content
+A) Core identity
+Base personnel: 4-2-5, with 3-4 packages based on personnel.
+
+Philosophy: aggressive; “call off the horses” when needed; no explosives, relentless pursuit, disciplined football.
+
+Opponents: mix of RPO, Wing-T, Air Raid.
+
+1) Terminology and techniques
+Position letters (locked)
+FC field corner
+
+FS field safety
+
+B bandit (nickel)
+
+A anchor (field DE)
+
+T tackle (field DT)
+
+N nose (boundary DT)
+
+E edge (boundary DE/LB hybrid)
+
+M Mike (field ILB)
+
+W Will (boundary ILB)
+
+D dawg (boundary safety)
+
+BC boundary corner
+
+Technique definitions (locked)
+0 head up C • 1 shade C • 2i in G • 2 head up G • 3 out G • 4i in T • 4 head up T • 5 out T • 6i in TE • 6 head up TE • 7 out TE • 8i/8/9 in/head up/out on wing.
+
+Default sides (locked)
+A, T = field (unless called out)
+
+N, E = boundary (unless called out)
+
+2) Front catalog (4-down) + fits/adjustments
+Global (4-down, no stunts)
+M fits the open gap to the field side
+
+W fits the open gap to the boundary side
+
+Open gap by DT tech:
+
+3-tech closes B → open A
+
+2/2i/1 closes A-ish → open B
+
+2-back (20/21): default 6-man box; if inserting later, B is first insert.
+
+TE SET (default 4-down adjustment)
+Overrides all 4-down fronts except GRIZZLY
+
+Set front to TE: 3-tech to TE, 2i away
+
+B inserts into box
+
+End to TE aligns 7-tech and plays contain
+
+Fronts (alignments + fits)
+SHADE (base) — set field
+A5 / T3 / N2i / E5
+
+Fits: M=A, W=B, edges contain
+
+UNDER — set boundary
+A5 / T2i / N3 / E5
+
+Fits: M=B, W=A, edges contain
+
+EYES
+A5 / T2i / N2i / E5
+
+Fits: M=B, W=B
+
+WIDE
+A5 / T3 / N3 / E5
+
+Fits: M=A, W=A
+
+DEUCES
+A5 / T2 / N2 / E5
+
+Fits: M/W make T and N right
+
+M/W become true gap players only when a stunt creates it
+
+GRIZZLY (special structure; TE SET does not override)
+A4i / T2i / N2i / E4i
+
+B and W are OLBs
+
+M in a 10, no gap by default
+
+If TE surface: M has C gap to TE
+
+BOSS (explicit fit; TE SET overrides if TE present)
+Bigs to field: 3-tech to field + 1-tech to field
+
+Fits: M = A to boundary, W = B to boundary
+
+BOSS UNDER (invert BOSS; TE SET overrides if TE present)
+Bigs to boundary: 3-tech to boundary + 1-tech to boundary
+
+Fits: M = A to field, W = B to field
+
+3) 3-down packages (Mint / Ace / Jet)
+Common (locked)
+Field OLB = B
+
+Boundary OLB = E
+
+Slice (split zone/H-back kick): backside OLB has slicer
+
+ILB fits (locked)
+Play to: stack B → D
+
+Play away: slow play A (hunt cutback)
+
+MINT (4i/0/4i)
+A 4i / T 0 / N 4i, B/E are OLBs
+
+Contain rules:
+
+In man: B is contain
+
+In NINJA/VIKING, only when in MINT: M is QB contain
+
+ACE (4/0/4)
+A 4 / T 0 / N 4
+
+A, T, N are 2-gapping (no stunt)
+
+JET (5/0/5)
+A 5 (contain) / T 0 (2-gap) / N 5 (contain)
+
+A and N are contain, T is 2-gapping
+
+4) Stunt catalog (with your constraints)
+SLANT (to field): T+N (4-down), A+T+N (3-down) slant to field
+
+DL read run/pass; on run read get heel depth
+
+Not with Shade; use with Under/BOSS Under
+
+Pairs with Mike/Will/Bandit/sWarM/BooM/BoW
+
+ANGLE (to boundary): same as slant, to boundary
+
+Not with Under/BOSS Under; use with Shade/BOSS
+
+Same pressures as slant
+
+PINCH: T+N pinch A (4-down); A+N pinch B (3-down)
+
+A and E play normal
+
+Use with Shade/Under/Wide/Deuces
+
+JACKS: T+N shoot B (4-down); A+N expand to C (3-down)
+
+A and E are contain
+
+Not with Wide; use with Eyes/Shade/Under
+
+Best pressure: sWarM
+
+SPLIT:
+
+With BOSS: 1-tech crosses C face to opposite A
+
+With GRIZZLY: field A→C, field T→B
+
+4-down contain: A and E
+
+Best pressures: Mike, sWarM
+
+With BOSS it looks weird but plays like Shade
+
+ANCHOR ATTACK: A attacks OL closing one inside gap
+
+Not paired with Cobra (Cobra is boundary)
+
+EDGE ATTACK: E attacks OL closing one inside gap
+
+Can pair with Cobra
+
+CRASH: A+E shoot B; T+N shoot A
+
+Contain: B/M/W
+
+Not with Grizzly, not with Freebird
+
+Can pair with BoW
+
+ANCHOR RAVEN: A 5→B
+
+Not with Hammer (Hammer is its own call)
+
+Not with staB
+
+If paired with Bandit blitz: BANDIT RAVEN
+
+EDGE RAVEN: E 5→B
+
+5) Pressure menu (weekly carry) + Zeus family
+Weekly called pressures (locked)
+Mike
+
+Will
+
+Bandit
+
+sWarM
+
+BooM
+
+BoW
+
+Hammer (B edge + Anchor Attack)
+
+Eat (M+W+B)
+
+Zeus / Z-family (0-family) (locked concepts)
+Zeus = delayed pressure on pass read; M in primary rush; B+W funnel RB; if RB away you rush; RB middle = W
+
+Z variants:
+
+Zorro: B has RB; M/W no pass unless tagged (Tampa/Spy)
+
+Zunnel: M/W funnel RB; away rush unless Tampa then rat
+
+Zill: W has RB
+
+Zike: M has RB
+
+Zeus show → call-off to NINJA or match 3 (your “Viking” family later)
+
+6) Coverage families (finalized so far)
+NINJA (Cover 7 family) (locked)
+2x2: MOD field / CLAMP boundary
+
+3x1: POACH (check to trips rules poach)
+
+DBs choose the check per formation under the NINJA umbrella
+
+Cover 1 family (locked)
+OREGON: FS is post (MOF)
+
+OKLAHOMA: D is post (MOF); FS takes #2 boundary or #3 away if no #2 boundary; B takes #2 field or #3 away if no #2 field
+
+OHIO: B is post (MOF)
+
+CAMP distribution language applies for non-post safety:
+
+Corners #1; safeties #2 to their side or #3 away if no #2
+
+7) Shared autos/alerts (apply to 0-family and Cover 1; BUMP/BANJO also used broadly)
+BUMP–BUMP (motion)
+Safeties travel; safeties do not cross
+
+Corner takes motion only if motion becomes new widest #1 to that side
+
+Verbal: BUMP
+
+BANJO (safety alert; not signaled in)
+Used vs stack/close splits
+
+Corner = first OUT; near safety = first IN; opposite safety = deeper fixer
+
+EXCHANGE (automatic)
+Auto vs rub/pick route concepts; switch on contact
+
+UNDER (alert)
+Used when a receiver under picks the RB-responsible defender and RB is fast out
+
+RB player takes UNDER
+
+Defender who had UNDER takes RB
+
+Call is UNDER only (no numbers)
+
+If you want this “finalized set” converted into a PowerPoint structure next, the next step is to decide slide granularity:
+
+Option A: 1 slide per front + 1 per stunt + 1 per pressure + 1 per coverage (largest deck, most usable)
+
+Option B: group fronts on 2–3 slides, stunts on 2 slides, pressures on 2 slides, coverages on 3–4 slides (smaller deck)
+
+Say A or B.
+
+
+You said:
+A: we don't need the opponents section. Help me make a better philosophy.
+
+ChatGPT said:
+Defensive Philosophy (playbook-ready, improved)
+1) The Standard
+No explosives. Make them snap it again. Eliminate cheap yards (busts, leverage errors, missed tackles).
+
+Violence with discipline. Play fast, strike, and finish—without penalties or losing gap/leverage.
+
+Relentless effort. 11 to the ball, pursuit angles, and swarming tackles every snap.
+
+Win the situational downs. 1st down = earn the right to rush. 3rd down/red zone = get off the field.
+
+2) How We Win
+Take away what they want first
+Identify the opponent’s #1 run and #1 pass concept and eliminate them early.
+
+Force them into the calls they run the least (their “C” menu).
+
+Control the box
+Box the run: set hard edges, compress gaps, and keep the ball in the help.
+
+Fit with clarity: everyone knows their gap/role; when we stunt or pressure, fits adjust but remain sound.
+
+Own leverage
+Outside leverage vs perimeter threats and QB run.
+
+Inside leverage vs quick game and crossers (don’t give free access).
+
+Safeties are fixers: get corners right, eliminate busts, end explosive passes.
+
+3) Our Identity (the “Viking” way)
+Aggressive by default
+We will pressure. We will change pictures. We will force rushed decisions.
+
+We attack protections and create negative plays.
+
+Smart aggression
+We don’t blitz to blitz—we blitz to take away something (a player, a concept, a protection rule).
+
+When the offense starts chasing explosives, we call off the horses and make them be patient.
+
+4) Non-Negotiables (grading standards)
+No free releases: collision/deny access when called; communicate stack/bunch.
+
+No lost edges: contain player keeps the QB and the ball inside.
+
+No uncovered gaps: if your gap changes with a stunt/pressure, you adjust instantly.
+
+No missed tackles: leverage + near foot + wrap; eliminate yards after contact.
+
+No post-snap loafs: pursuit is mandatory; effort is a coaching point on film.
+
+5) Communication Rules (reduces busts)
+Simple, loud, early.
+
+Safeties are the fixers: “make the corner right.”
+
+Built-in alerts are expected:
+
+BUMP (motion)
+
+BANJO (stack/close split)
+
+EXCHANGE (rub/pick)
+
+UNDER (under + RB fast out pick)
+
+6) What We Want the Offense to Feel
+Every throw is contested.
+
+Every run is boxed and hit twice.
+
+Every series feels harder than the last.
+
+They earn everything. Nothing is free.
+
+If you want, I can turn this into a one-slide version (bullet-tight) and a longer “page 1” version for the playbook intro.
+
+
+You said:
+yes
+
+ChatGPT said:
+One-slide version (bullet-tight)
+VIKING DEFENSE — PHILOSOPHY
+
+No explosives. Make them snap it again. Eliminate busts and cheap yards.
+
+Aggressive with discipline. Attack protections and tendencies without losing leverage or committing penalties.
+
+Box the run. Set hard edges, compress gaps, keep the ball in the help.
+
+Relentless pursuit. 11 to the ball, correct angles, swarming tackles—finish every snap.
+
+Win leverage. Outside vs perimeter/QB run; inside vs quick game/crossers.
+
+Win situations. 1st down sets the series; 3rd down/red zone = get off the field.
+
+Smart aggression. Pressure to take away something—when needed, call off the horses and force patience.
+
+Communication standard. Simple, loud, early. Safeties are fixers; alerts: BUMP / BANJO / EXCHANGE / UNDER.
+
+“Page 1” version (playbook intro)
+VIKING DEFENSE — OUR STANDARD
+We play fast, physical, and disciplined football. Our job is to remove explosive plays, control the box, and force the offense to execute perfectly for an entire drive. We will pressure and change the picture, but never at the cost of leverage, gap integrity, or effort.
+
+WHAT WE BELIEVE
+No explosives.
+Busts and leverage errors lose games. We eliminate free access throws, blown coverages, and missed tackles that turn into chunk plays. Make them earn every yard.
+
+Aggressive with discipline.
+We attack protections, formations, and tendencies to create negative plays. Aggression is a tool, not a habit. When the moment calls for it, we call off the horses and force the offense to be patient.
+
+Box the run.
+We set hard edges, compress inside gaps, and keep the ball in our help. Everyone fits with clarity. If the front stunts or pressures, fits change—but they never become confused.
+
+Relentless pursuit and tackling.
+Effort is non-negotiable. We rally with correct angles and finish tackles with leverage, wrap, and drive. We eliminate yards after contact.
+
+Leverage wins.
+We protect outside leverage against perimeter threats and QB run. We protect inside leverage against quick game, crossers, and RPO access routes. Safeties are fixers—get everyone aligned, eliminate busts, and finish explosives.
+
+OUR GRADING NON-NEGOTIABLES
+No lost edges / contain player keeps QB and ball inside.
+
+No uncovered gaps / stunts and pressures still fit sound.
+
+No free releases when called / deny access and communicate bunch/stack.
+
+No missed tackles / leverage + wrap + finish.
+
+No penalties that extend drives.
+
+No loafs / pursuit is mandatory on film.
+
+COMMUNICATION STANDARD
+Simple, loud, early. Safeties are the fixers: make the corners right. Built-in alerts are expected:
+
+BUMP (motion)
+
+BANJO (stack/close splits)
+
+EXCHANGE (rub/pick)
+
+UNDER (under pick + RB fast out)
+
+WHAT WE WANT THE OFFENSE TO FEEL
+Every throw is contested. Every run is boxed and hit twice. Every series is harder than the last. Nothing is free.
+
+
+You said:
+ok, what else do we need?
+
+ChatGPT said:
+Remaining work to finish a full defensive playbook + PowerPoint
+1) Coverage sections not yet fully authored (must-have)
+NINJA detail pages: exact responsibilities by position for:
+
+2x2 (MOD/CLAMP) and key routes (verticals, out, post, under, wheel)
+
+3x1 (POACH) with backside rules and RB release rules
+
+Bunch/stack/empty/nub handling in Ninja (what stays the same vs what changes)
+
+Cover 0 family pages: Zeus/Zorro/Zunnel/Zill/Zike written as clean “cards”
+
+RB rules, motion rules, Under/Exchange integration, contain notes
+
+Cover 1 family pages: Oregon/Oklahoma/Ohio cards (now mostly done) formatted and diagrammed
+
+2) “Called pressure” pages (your weekly menu)
+For each: Mike, Will, Bandit, sWarM, BooM, BoW, Hammer, Eat
+
+Who rushes / who drops (if any)
+
+Best fronts + best stunts
+
+Best coverage pairings (Ninja / C1 / 0-family call-off)
+
+Coaching points (contain, screen alert, hot throws)
+
+3) Diagrams (required for PowerPoint usability)
+One diagram per:
+
+front
+
+stunt
+
+pressure
+
+coverage family vs 2x2 and 3x1 (and bunch/empty if carried)
+
+A consistent legend (colors, letters, arrows)
+
+4) Situational package pages
+3rd down menu (short/med/long)
+
+Red zone menu (inside +20, +10, goal line)
+
+Backed up / sudden change calls
+
+2-minute calls
+
+4-minute (protect lead) calls
+
+5) Formation adjustment sheets (quick-reference)
+Bunch/stack (Banjo + Exchange rules)
+
+Empty (who becomes RB player / who has #3 away)
+
+Nub TE / Y-off (TE SET + coverage handling)
+
+Motion (BUMP rules in man families; what Ninja does)
+
+6) Game-day operational documents
+Call sheet (situations × zone × personnel)
+
+Signal sheet (front/stunt/pressure/coverage grammar + hand signals)
+
+Wristbands (players + coaches)
+
+Opponent scouting report template
+
+Practice scripts (team periods + pressure periods + red zone)
+
+7) Install plan (practice-ready)
+Week-by-week install order
+
+Position group drills tied to concepts (DB match, LB fits, DL reads)
+
+Best next step (highest leverage)
+Pick one to build next:
+
+Write the 8 called pressure cards (Mike/Will/Bandit/sWarM/BooM/BoW/Hammer/Eat)
+
+Finish Ninja detail pages (2x2 + 3x1 + bunch/empty/nub)
+
+Build the call sheet + wristband templates
+
+If you choose #1, I can draft all 8 pressure cards in one pass using your fronts/stunts and keep them PowerPoint-ready.
+
+
+You said:
+let's start with ninja
+
+ChatGPT said:
+NINJA (Cover 7 family) — finalized draft section
+This is written as playbook pages (can be pasted into slides). It uses your position letters and your locked checks:
+
+2x2: MOD field / CLAMP boundary
+
+3x1: POACH
+
+Safeties are fixers and make corners right.
+
+NINJA — Universal rules (applies every time)
+1) Call structure
+Coach calls: NINJA
+
+DBs communicate and execute the correct check:
+
+2x2 → “MOD / CLAMP”
+
+3x1 → “POACH”
+
+Safeties are the fixers: eliminate busts, make corners right.
+
+2) Leverage and depth (defaults)
+Corners (FC/BC): outside leverage unless gameplan says otherwise; no free outside access.
+
+Safeties (FS/D): start at 10–12 (or your normal), pedal on pass read, don’t get nosy.
+
+B (Bandit): apex to field; be ready to match out or play curl/flat depending on check.
+
+3) Motion / shifts (NINJA procedure)
+Use your existing communication language:
+
+“BUMP” = travel/adjust to motion
+
+Safeties communicate early and do not cross unless the formation truly flips.
+
+Rule of thumb: NINJA is formation-driven. If motion changes 2x2 ↔ 3x1, DBs re-check accordingly.
+
+NINJA vs 2x2 — MOD field / CLAMP boundary
+Field side: MOD (FS + FC + B)
+FC (field corner)
+
+#1: man-match rules (stay on top; deny explosives)
+
+If #1 goes shallow under quickly, pass it if rules allow and look for the next threat (don’t chase garbage across the field if it busts structure).
+
+FS (field safety)
+
+MOD safety rules: top-down on #2, don’t give verticals.
+
+If #2 is vertical: match and stay on top.
+
+If #2 is out/flat quickly: communicate and drive with control (don’t open seams behind you).
+
+B (bandit)
+
+Apex rules to #2/#3 threats (routes dictate whether you match or play underneath).
+
+Primary job: eliminate quick RPO access, carry seams long enough for safety help.
+
+Install coaching point: MOD side must not give up seam/slot fade access.
+
+Boundary side: CLAMP (D + BC)
+BC (boundary corner)
+
+Clamp corner technique: be physical, deny easy release, protect outside leverage.
+
+If #1 is vertical: stay on top (no explosives).
+
+If #1 is short/under: don’t chase so far you lose your help responsibilities; communicate.
+
+D (dawg safety)
+
+Clamp safety: control #2 threats and help the corner.
+
+If #2 is vertical: match and stay on top.
+
+If #2 is out fast: drive with leverage and force throw to be perfect.
+
+Install coaching point: CLAMP side is designed to stop cheap throws and win 1-on-1 leverage without giving up the deep ball.
+
+2x2 quick “problem solvers” (built in)
+Use these as teaching points, not extra calls:
+
+Slot fade / seam: safety stays on top; B carries enough to shrink window.
+
+Smash (hitch + corner): corner stays high; underneath player drives hitch with leverage (don’t bite the corner).
+
+Out-and-up / double moves: corners and safeties stay disciplined—no free explosives.
+
+NINJA vs 3x1 — POACH (trips)
+You locked: POACH and “check to trips rules poach.”
+
+What POACH must accomplish
+Don’t let #3 go vertical uncovered.
+
+Don’t let backside get isolated with no help.
+
+Safeties communicate who has #3 vertical, who is post help, and who is fixing.
+
+Trips-side rules (conceptual)
+If #3 is vertical: poach player takes it (no free seam).
+
+If #3 is shallow/under: poach player communicates and looks to overlap crossers.
+
+Backside stays sound (no free go balls or glance RPO).
+
+If you want, we can codify “who is poach player” as either FS or D based on field/boundary trips. For now, this is the clean POACH page.
+
+NINJA special formations (mandatory pages)
+A) BUNCH / STACK / tight splits (NINJA)
+BANJO is the built-in alert (called by the safety).
+
+Assignments follow your safety-fixer structure:
+
+Corner: first OUT
+
+Near safety/inside DB: first IN
+
+Opposite safety: deeper fixer (keeps it from busting)
+
+Rules
+
+Play with depth and leverage; do not get picked.
+
+If routes rub: EXCHANGE happens automatically.
+
+B) RUB/PICK concepts (any NINJA look)
+EXCHANGE is automatic.
+
+Switch on contact; communicate early.
+
+C) EMPTY
+NINJA stays split-field and formation-based.
+
+DBs identify where the #3 threats are and execute MOD/CLAMP/POACH accordingly.
+
+Safeties are responsible for making sure #3 is accounted for (no free seams).
+
+D) NUB TE / Y-off
+In 4-down, your TE SET is a front rule; coverage still needs a clean handle.
+
+Treat nub as the #1 to that side; safety communicates if nub becomes vertical immediately.
+
+Do not let nub release vertical uncovered—safety is the fixer here.
+
+NINJA communication checklist (what gets yelled)
+“NINJA!” (coach)
+
+DBs: “MOD!” / “CLAMP!” (2x2) or “POACH!” (3x1)
+
+Vs stack/bunch: “BANJO!”
+
+Vs rub: “EXCHANGE!”
+
+Motion that changes formation: “BUMP!” then re-check (MOD/CLAMP/POACH)
+
+Two locks needed to make NINJA fully assignment-complete
+Right now POACH is defined conceptually (correct), but to diagram it and avoid Friday confusion I need two decisions:
+
+When the offense is 3x1 to the field, who is your primary POACH player on #3 vertical?
+
+FS or D
+
+In NINJA, do you want B to be a pure coverage apex (no contain responsibility), always?
+
+B = coverage or B = can be contain in 3-down Ace/Jet (only if you want that conflict)
+
+If you don’t answer, I will default to:
+
+POACH player = FS when trips are to field; D when trips are to boundary
+
+B = coverage in NINJA
+
+Say your preference and I’ll convert this into diagram-ready assignments (one slide per: 2x2, 3x1 field trips, 3x1 boundary trips, bunch, empty).
+
+
+You said:
+corners are inside leverage 6 yards
+safeties need alignment rule
+
+motion bump call is for man coverages, in ninja when motion creates or removes trips coverage check needs to be called
+
+
+ChatGPT said:
+NINJA updates (locked) + missing alignment rules added
+Locked updates
+Corners (FC/BC): inside leverage, 6 yards (default).
+
+“BUMP” motion call is for man coverages (0/1 families), not for NINJA.
+
+In NINJA, when motion creates/removes trips, the defense must re-check coverage (MOD/CLAMP ↔ POACH).
+
+NINJA alignment rules (so everyone lines up the same)
+Corners (FC/BC)
+6 yards, inside leverage on #1.
+
+Coaching intent: take away inside access/crossers; funnel to sideline + help.
+
+Safeties (FS/D) — base alignment rule (use every snap)
+Use this simple “2 rules + 1 adjustment” system:
+
+Rule 1: Align off #2
+If there is a clear #2 to your side:
+
+Align 10–12 yards deep (HS: 10–11; varsity pass teams: 11–12)
+
+Inside foot on #2 (or “1 yard inside #2”)
+
+Width: enough to stay on top of seam/slot fade without overhanging the hash.
+
+Rule 2: If there is no #2 to your side
+You are in “poach/post posture”:
+
+Align hash-to-middle based on formation (don’t hug the sideline)
+
+Depth 10–12
+
+Eyes on #3 threats and QB.
+
+Adjustment: Compressed splits / stack
+If splits are tight or stacked: safety tightens 1–2 steps and be ready to BANJO.
+
+This gives you consistent spacing for MOD/CLAMP and a clean starting point for POACH.
+
+NINJA motion rule (re-check procedure)
+NINJA motion communication (mandatory)
+If motion changes the structure:
+
+2x2 → 3x1 (trips created): call “POACH! POACH!”
+
+3x1 → 2x2 (trips removed): call “MOD/CLAMP!”
+
+If motion does not change trips (e.g., orbit that stays 2x2), keep the original NINJA check.
+
+Who calls the re-check: nearest safety (fixer) calls it; other safety echoes.
+
+NINJA vs 2x2 (unchanged check, updated leverage)
+Field: MOD
+Boundary: CLAMP
+Corner leverage: inside @ 6 (both sides).
+Safeties align off #2 using the rules above.
+
+(Your MOD/CLAMP match details can stay “Saban Cover 7” standard; this section is about making alignments and communication precise.)
+
+NINJA vs 3x1 (POACH) — assignment framework (diagram-ready)
+To diagram POACH cleanly, use this consistent starting point:
+
+Trips-side safety: primary poach player on #3 vertical
+
+Backside safety: stays available to overlap/glance/crosser threats and keep the backside sound
+
+Corners stay inside @ 6 and do not give free go balls.
+
+If you want it deterministic by field/boundary:
+
+Trips to field: FS is the poach safety
+
+Trips to boundary: D is the poach safety
+
+That matches your “safeties to each side” structure and keeps it simple.
+
+Slide-ready “NINJA Communication” box (final wording)
+Coach: NINJA
+
+DBs:
+
+2x2: MOD (field) / CLAMP (boundary)
+
+3x1: POACH
+
+Alerts:
+
+BANJO vs stack/close splits
+
+EXCHANGE vs rub/pick
+
+Motion in NINJA:
+
+If trips is created/removed → re-check: “POACH” or “MOD/CLAMP”
+
+Next to finish NINJA completely (no questions, just the next deliverable)
+I can now produce the diagram-set spec (exact responsibilities per position) for:
+
+2x2 MOD/CLAMP
+
+3x1 trips to field POACH
+
+3x1 trips to boundary POACH
+
+Bunch/stack (BANJO + EXCHANGE)
+
+Empty (how you identify #3 and keep poach sound)
+
+Say: “write the position-by-position rules” and I’ll output those pages in the same locked style.
+
+
+You said:
+create a google doc with everything you have, create diagrams and any visualizations that will help
+
+ChatGPT said:
+
+Thought for 3m 57s
+Created a DOCX you can upload to Google Drive and open as a Google Doc (it includes the diagrams/visuals embedded).
+
+Download: River_Valley_Vikings_Defensive_Playbook_Draft.docx
+
+
+You said:
+recreate no diagrams
+
+ChatGPT said:
+
+Thought for 10s
+
+Thought for 15s
+Download: River_Valley_Vikings_Defensive_Playbook_TextOnly.docx
+
+
+You said:
+include everything
+
+ChatGPT said:
+Download: River_Valley_Vikings_Defensive_Playbook_TextOnly_FULL.docx
+
+
+
+
+You said:
+include all the details we discussed
+
+ChatGPT said:
+
+Thought for 7s
+Download: River_Valley_Vikings_Defensive_Playbook_TextOnly_ALL_DETAILS.docx
+
+
+
+
+You said:
+create power point
+
+ChatGPT said:
+
+Thought for 6m 15s
+River_Valley_Vikings_Defensive_Playbook_Draft.pptx
+
+
+
+
+
+
+
+
+You said:
+can create export of all that we have in this chat?
+
+ChatGPT said:
+Download: River_Valley_Vikings_Defense_Playbook_Chat_Export.zip
+
+
+
+
+You said:
+give me a export of this whole chat from beginning to end
+
+ChatGPT said:
+
+Analyzing
+
+
+
+
