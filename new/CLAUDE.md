@@ -28,24 +28,27 @@ Defensive playbook for the River Valley Vikings Varsity Football team. DC builds
 **Box:** 6-man.
 **Call Format:** Front + Stunt + Blitz tag(s) + Coverage/Tags.
 **Communication:** Front/stunt/blitz signaled; coverage is verbal. Safeties echo and relay.
+**Coverage Identity:** Zeus and Zorro are our identity. NINJA is the engine. Viking is the safety net.
 
 ### Philosophy
-"We play fast, physical, and disciplined football. Our job is to remove explosive plays, control the box, and force the offense to execute perfectly for an entire drive. We will pressure and change the picture, but never at the cost of leverage, gap integrity, or effort."
+"We're a pressure defense. We attack with plus-one advantages and play zero behind it. When we're not pressuring, we play man. If they pick it up, we change the picture and come again. We don't sit back and wait for offenses to beat us. We attack. We set edges, we own our gaps, and we get 11 hats to the ball. No explosives. No free yards. Make them earn every first down, and when they don't, take the ball. **From snap to whistle, we play with violent intentions.**"
 
 ### Non-Negotiables
-- No explosives. Make them snap it again.
+- No explosives. Make them snap it again. Eliminate busts and cheap yards.
 - Aggressive with discipline. Attack without losing leverage or committing penalties.
-- Box the run. Set hard edges, compress gaps, keep ball in help.
+- Box the run. Set hard edges, compress gaps, keep the ball in help.
 - Relentless pursuit. 11 to the ball, correct angles, swarming tackles.
-- Win leverage. Outside vs perimeter/QB run; inside vs quick game/crossers.
-- Win situations. 1st down sets the series; 3rd down/red zone = get off the field.
-- Smart aggression. Plus-one rushers to blockers with zero coverage behind it. No-win situation for the offense. Call off the horses when needed.
+- Win situations. 1st down sets the series; 3rd down = get off the field.
+- Smart aggression. Plus-one rushers with zero behind it. No-win for the offense. Call off the dawgs when needed.
 - Communication standard. Simple, loud, early. Everyone echoes. Alerts: BUMP / BANJO / EXCHANGE / UNDER.
 
 ### The Standard
+The baseline. Every snap, every rep, every day.
+- No busted coverages — know your call, know your rules, communicate
+- Stay in phase — maintain leverage in man; no trailing, no freelancing
+- No free routes — collision every release; reroute, disrupt timing, deny easy access
 - No lost edges — contain player keeps QB and ball inside
 - No uncovered gaps — adjust instantly if gap changes with stunt/pressure
-- No free releases — collision every route; reroute, disrupt timing, deny easy access
 - No missed tackles — leverage + near foot + wrap; eliminate YAC
 - No penalties that extend drives
 - No loafs — pursuit is mandatory

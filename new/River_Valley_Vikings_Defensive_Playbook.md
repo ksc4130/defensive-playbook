@@ -38,18 +38,19 @@
 
 ## 1. DEFENSIVE PHILOSOPHY & IDENTITY
 
-> "We play fast, physical, and disciplined football. Our job is to remove explosive plays, control the box, and force the offense to execute perfectly for an entire drive. We will pressure and change the picture, but never at the cost of leverage, gap integrity, or effort."
+> "We're a pressure defense. We attack with plus-one advantages and play zero behind it. When we're not pressuring, we play man. If they pick it up, we change the picture and come again. We don't sit back and wait for offenses to beat us. We attack. We set edges, we own our gaps, and we get 11 hats to the ball. No explosives. No free yards. Make them earn every first down, and when they don't, take the ball. **From snap to whistle, we play with violent intentions.**"
 
 ### Base Structure
 
 | Element | Detail |
 |---------|--------|
-| **Personnel** | 4-2-5 base; 3-4 packages (Mint/Ace/Jet/Slip) based on offensive personnel |
+| **Personnel** | 4-2-5 base; 3-4 / 3-2-6 packages |
 | **Strength** | Field ("protect space") |
 | **Shell** | Two-high |
 | **Box** | 6-man |
 | **Call Format** | Front + Stunt + Blitz tag(s) + Coverage/Tags |
-| **Communication** | Signals with rules/adjustments per formation |
+| **Communication** | Signaled front/stunt/blitz; coverage is verbal. Safeties echo and relay. |
+| **Coverage Identity** | Zeus and Zorro are our identity. NINJA is the engine. Viking is the safety net. |
 
 ### Non-Negotiables
 
@@ -57,16 +58,17 @@
 2. **Aggressive with discipline.** Attack without losing leverage or committing penalties.
 3. **Box the run.** Set hard edges, compress gaps, keep the ball in help.
 4. **Relentless pursuit.** 11 to the ball, correct angles, swarming tackles — finish every snap.
-5. **Win leverage.** Outside vs perimeter/QB run; inside vs quick game/crossers.
-6. **Win situations.** 1st down sets the series; 3rd down/red zone = get off the field.
-7. **Smart aggression.** Plus-one rushers to blockers with zero coverage behind it. No-win situation for the offense. Call off the horses when needed.
-8. **Communication standard.** Simple, loud, early. Everyone echoes. Alerts: BUMP / BANJO / EXCHANGE / UNDER.
+5. **Win situations.** 1st down sets the series; 3rd down = get off the field.
+6. **Smart aggression.** Plus-one rushers with zero behind it. No-win for the offense. Call off the dawgs when needed.
+7. **Communication standard.** Simple, loud, early. Everyone echoes. Alerts: BUMP / BANJO / EXCHANGE / UNDER.
 
 ### The Standard
-
+The baseline. Every snap, every rep, every day.
+- No busted coverages — know your call, know your rules, communicate
+- Stay in phase — maintain leverage in man; no trailing, no freelancing
+- No free routes — collision every release; reroute, disrupt timing, deny easy access
 - No lost edges — contain player keeps QB and ball inside
-- No uncovered gaps — adjust instantly if gap changes with stunt/pressure
-- No free releases — collision every route; reroute, disrupt timing, deny easy access
+- No uncovered gaps — know your fit with stunts/pressures
 - No missed tackles — leverage + near foot + wrap; eliminate YAC
 - No penalties that extend drives
 - No loafs — pursuit is mandatory
@@ -138,7 +140,7 @@
 
 - M fits the open gap to the field side
 - W fits the open gap to the boundary side
-- Open gap logic: 3-tech closes B → open A; 2/2i/1 closes A → open B
+- Open gap logic: 3-tech closes B → open A; 2i/1 closes A → open B
 - A and E = contain (set edge, no wrong-arm)
 - B = field force. D = boundary force
 - 2-back (20/21 personnel): 6-man box default; B is first insert if adding 7th hat
