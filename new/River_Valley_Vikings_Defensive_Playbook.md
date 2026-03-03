@@ -152,7 +152,7 @@ The baseline. Every snap, every rep, every day.
 Overrides **ALL** fronts **EXCEPT GRIZZLY** when TE/Y-off surface.
 
 - Set front to TE: 3-tech to TE, 2i away
-- B inserts into box at LB depth over C gap
+- B inserts into box at LB depth field side, responsible for C(F) gap if the TE to the field or B(F) gap if the TE is to the boundary
 - End to TE aligns 7-tech and plays contain
 - *Example (TE to field, SHADE):* A goes to 7-tech on TE, T goes to 3-tech (to TE), N goes to 2i (away from TE), E stays 5 boundary. B inserts at LB depth. **Gap fits: B = C gap, M = A gap, W = B gap.**
 - *Example (TE to boundary, SHADE):* E goes to 7-tech on TE, N goes to 3-tech (to TE), T goes to 2i (away from TE), A stays 5 field. B inserts at LB depth. **Gap fits: B = B gap, M = A gap, W = C gap. SHADE checks to UNDER** (front shifts to boundary TE).
@@ -162,30 +162,14 @@ Overrides **ALL** fronts **EXCEPT GRIZZLY** when TE/Y-off surface.
 
 | Front | A | T | N | E | M Fit | W Fit |
 |-------|---|---|---|---|-------|-------|
-| **SHADE** (base, set field) | 5 | 3 | 2i | 5 | Open A (field) | Open B (boundary) |
+| **SHADE** (set field) | 5 | 3 | 2i | 5 | Open A (field) | Open B (boundary) |
 | **UNDER** (set boundary) | 5 | 2i | 3 | 5 | Open B (field) | Open A (boundary) |
 | **EYES** (balanced) | 5 | 2i | 2i | 5 | Open B | Open B |
-| **WIDE** | 5 | 3 | 3 | 5 | Open A | Open A |
-| **DEUCES** | 5 | 2 | 2 | 5 | React to T (T closes A → M fills B; T stays B → M fills A) | React to N (same logic) |
-| **GRIZZLY** | 4i | 2i | 2i | 4i | Head up center at LB depth (no TE); head up guard to TE side at LB depth (TE present); C gap | OLB |
+| **WIDE** (balanced) | 5 | 3 | 3 | 5 | Open A | Open A |
+| **DEUCES** (balanced) | 5 | 2 | 2 | 5 | React to T (T closes A → M fills B; T stays B → M fills A) | React to N (same logic) |
+| **GRIZZLY** (balanced) | 4i | 2i | 2i | 4i | Head up center at LB depth (no TE); head up guard to TE side at LB depth (TE present); C gap | OLB |
 | **BOSS** (bigs field) | 5 | 3(F) | 1(F) | 5 | A gap (boundary) | B gap (boundary) |
 | **BOSS UNDER** (bigs bnd) | 5 | 1(B) | 3(B) | 5 | A gap (field) | B gap (field) |
-
-### When to Call
-
-| Front | Best Use |
-|-------|----------|
-| SHADE | Base vs spread/RPO; stable vs Air Raid |
-| UNDER | Tendency breaker; boundary-run weeks; pairs with SLANT |
-| EYES | Vs zone/duo; square interior |
-| WIDE | Force bounce; vs B-gap heavy / gap schemes |
-| DEUCES | Vs Wing-T / pullers; M/W become gap players only if stunt creates it |
-| GRIZZLY | Goal line; power/counter/zone; edge pressure; short yardage; B and W are OLBs; TE SET does NOT override |
-| BOSS | Overload field bigs; confuse OL; pressure setup. SPLIT → SHADE post-snap, ANGLE → EYES post-snap combos. LBs fit opposite DL strength (M=A bnd, W=B bnd). If run goes to overloaded side: DL absorbs blocks, LBs redirect and rally. |
-| BOSS UNDER | Overload boundary bigs; confuse OL; SPLIT or ANGLE combos. LBs fit opposite (M=A fld, W=B fld). Same redirect principle. |
-| DISCO | Week-by-week SHADE adjustment based on the back and offensive tendencies |
-
----
 
 ## 4. 3-DOWN PACKAGES (MINT / ACE / JET / SLIP)
 
@@ -198,25 +182,26 @@ Overrides **ALL** fronts **EXCEPT GRIZZLY** when TE/Y-off surface.
 
 ### ILB Fits (Locked)
 
-- **Play-to-field:** M stacks behind B, inside-out. W stacks behind E, inside-out.
-- **Play-away (from strength):** M slow-plays A gap (patient shuffle, hunt cutback). W slow-plays A gap boundary.
+- **Play-to-field:** M = stack B-C gap field, inside-out. W slow-plays A gap (patient shuffle, hunt cutback), inside-out.
+- **Play-away (from strength):** M slow-plays A gap (patient shuffle, hunt cutback). W stack B-C gap boundary.
+- **Front can affect these**
 
 ### MINT (4i / 0 / 4i)
 
-- **Signal:** "M" on thigh
+- **Signal:** mimic tighting a jar
 - A=4i, T=0, N=4i. B/E = OLBs.
-- Contain: Man (C0/C1) = B. NINJA/VIKING (MINT only) = M is QB contain.
-- **MINT + zone contain technique:** On QB run read, M scrapes over the top to the C gap. If A (at 4i) gets washed inside, M becomes the edge player. M does NOT sit in his gap — he must get outside A's alignment on QB keep.
+- Contain: Man Zeus = B. NINJA/VIKING (MINT only) = M.
+- **MINT + zone contain technique:** On zone read, M scrapes over the top to the C gap. If A (at 4i) gets washed inside, M becomes the edge player. M does NOT sit in his gap — he must get outside A's alignment on QB keep.
 
 ### ACE (4 / 0 / 4)
 
-- **Signal:** 1 finger up (optional chest tap)
+- **Signal:** 1 finger up
 - A=4, T=0, N=4. B/E = OLBs.
 - A, T, N **ALL** 2-gapping (no stunt). Contains = OLBs (B and E).
 
 ### JET (5 / 0 / 5)
 
-- **Signal:** Whoosh forward (hand flat)
+- **Signal:** Mimic airplane with arms
 - A=5, T=0, N=5. B/E = OLBs.
 - T is 2-gapping. A and N are contain (C-gap edges).
 
@@ -225,7 +210,8 @@ Overrides **ALL** fronts **EXCEPT GRIZZLY** when TE/Y-off surface.
 - **Signal:** Mime pushing a wall to the side (two hands)
 - A=5, T=0, N=4i. B/E = OLBs.
 - 1-gap penetrating. A and E are contain.
-- **Stunts are legal with SLIP.** On stunts (e.g., Angle), T at 0 goes to the slip-side A gap.
+- T at 0 goes to the slip-side A gap, except when stunts are on.
+- **Stunts are legal with SLIP.** 
 - **ILB gap fits:** M = B gap field. W = A gap boundary.
 - **Use:** 3-down vs spread with NINJA or VIKING behind it. Takes B out of conflict — B plays coverage clean without force/contain responsibilities.
 
@@ -233,11 +219,12 @@ Overrides **ALL** fronts **EXCEPT GRIZZLY** when TE/Y-off surface.
 
 | Package + Coverage | Contain |
 |--------------------|---------|
-| MINT + Man (C0/C1) | B |
-| MINT + NINJA/VIKING | M is QB contain |
-| ACE/JET + Man | B |
-| ACE/JET + NINJA/VIKING | B contain-first, then match on pass read |
-| SLIP + Man (C0/C1) | A and E (B plays coverage clean) |
+| MINT + Zeus | B+E |
+| MINT + NINJA/VIKING | M+E |
+| ACE + Zeus | B+E |
+| ACE + NINJA/VIKING | A/M+N/E |
+| JET  | A+N |
+| SLIP + Zeus | A and E (B plays coverage clean) |
 | SLIP + NINJA/VIKING | A and E (B plays coverage clean) |
 
 ### CAMP QB Player (Universal Rule)
@@ -260,11 +247,11 @@ OLB-only adjust: bump B/E alignments to TE/Y-off surface. Keep Mint/Ace/Jet/Slip
 
 ## 5. STUNT CATALOG
 
-DL coaching point: read run/pass; on run read get heel depth. Edges play normal unless noted.
+DL coaching point: read run/pass; on run read get heel depth and find  the ball, on pass maintain rush lanes (collapse the pocket). Edges play normal unless noted.
 
 ### SLANT (to field)
 
-- 4-down: T+N slant to field. 3-down: A+T+N slant.
+- 4-down: T+N slant to field. 3-down: A+T+N slant to the field.
 - **NOT** with Shade. Best fronts: Under, BOSS Under.
 - Best pressures: Mike, Will, Bandit, sWarM, BooM, BoW.
 
@@ -276,16 +263,18 @@ DL coaching point: read run/pass; on run read get heel depth. Edges play normal 
 ### PINCH
 
 - 4-down: T+N pinch A gaps (if already in A, play base). 3-down: A+N pinch B gaps.
-- A and E normal. Best fronts: Shade, Under, Wide, Deuces.
+- A and E normal. 
+- **NOT** with eyes or grizzly. Best fronts: Shade, Under, Wide, Deuces.
 
 ### JACKS
 
 - 4-down: T+N shoot B gaps. 3-down: A+N expand to C gaps (NOT pinch).
-- A and E contain. **NOT** with Wide. Best fronts: Eyes, Shade, Under. Best pressure: sWarM.
+- A and E contain. 
+- **NOT** with Wide. Best fronts: Eyes, Shade, Under. Best pressure: sWarM.
 
 ### SPLIT
 
-- With BOSS: 1-tech crosses C face to opposite A. With BOSS UNDER: same concept, boundary side. With GRIZZLY: field gap-out.
+- With BOSS: 1-tech crosses Center's face to opposite A gap. With BOSS UNDER: same concept, boundary side. With GRIZZLY: field side A and T stunt out one gap.
 - A and E contain. Looks weird with BOSS but plays like Shade. Best: Mike, sWarM.
 - **SPLIT is only legal with BOSS, BOSS UNDER, and GRIZZLY.** Not called with other fronts.
 
@@ -303,7 +292,7 @@ DL coaching point: read run/pass; on run read get heel depth. Edges play normal 
 
 ### CRASH
 
-- A+E shoot B gaps. T+N shoot A gaps. **B = field contain** (replaces A). **W = boundary contain** (replaces E). **M = free LB** (fill vacated gap).
+- A+E shoot B gaps. T+N shoot A gaps. **B = field contain** (replaces A). **W = boundary contain** (replaces E). **M = free LB** (free dender unless TE).
 - **With TE/Y-off/H:** M takes the gap they create (e.g., C gap to the TE).
 - Best paired with **Zorro** (B and M switch alignments — B aligns ~8 yds middle to key RB on pass, M moves to field force/contain area. This allows B to have RB on pass while M handles the extra gap from the TE).
 - **CRASH + Zorro CAMP exception:** M takes field contain (and therefore the QB per CAMP). B keys the RB from ~8 yds middle. W has boundary contain. This is the only CRASH pairing where B does NOT have field contain.
@@ -311,12 +300,12 @@ DL coaching point: read run/pass; on run read get heel depth. Edges play normal 
 
 ### ANCHOR RAVEN (A 5→B)
 
-- A shoots B gap from 5-tech. Signal: point field → flap flap.
+- A shoots B gap from 5-tech. Signal: swing anchor flap elbow.
 - Not with Hammer or staB. If + Bandit = BANDIT RAVEN.
 
 ### EDGE RAVEN (E 5→B)
 
-- E shoots B gap from 5-tech. Signal: point boundary → flap flap.
+- E shoots B gap from 5-tech. Signal: chop hands flap elbow.
 
 ### VEER (Slant to Motion / Slant to TE)
 
@@ -339,13 +328,14 @@ DL coaching point: read run/pass; on run read get heel depth. Edges play normal 
 | **Mike** | M blitzes his gap |
 | **Will** | W blitzes his gap |
 | **Bandit** | B blitzes his gap |
+| **staB** | B blitzes one gap inside EMOL normally C or B gap |
 | **Dawg** | D blitzes his gap |
 
 ### Special Tags
 
 - **staB** — B one gap inside EOL (normally B or C gap)
-- **Freebird** — Cover 1 only. The post safety (per variant) blitzes: Oregon = FS blitzes, Oklahoma = D blitzes, Ohio = B blitzes. Remaining defenders cover per CAMP distribution minus the blitzing player.
-- **Cobra** — Boundary corner blitz. **Cover 0 only, paired with Zunnel. Hash-only call** (ball must be on the hash so B's trip to #2 boundary is manageable). Pre-snap: standard two-high shell. At the snap: BC blitzes (6th rusher, replaces B in Zunnel). D rotates down to #1 boundary. B takes #2 boundary (from Zorro-depth pre-snap alignment, ~8 yds middle). FS takes #2 field. M/W funnel RB (Zunnel rules). **Cobra requires B in coverage — cannot pair with any pressure that sends B (Bandit, BooM, BoW, Eat, Hammer, staB).**
+- **Freebird** — Cover 1 only. The post safety (per variant) blitzes A gap: Oregon = FS blitzes, Oklahoma = D blitzes, Ohio = B blitzes. Remaining defenders cover per CAMP distribution minus the blitzing player.
+- **Cobra** — Boundary corner blitz. **Cover 0 only, paired with Zunnel. Hash-only call** (ball must be on the hash. Pre-snap: standard zorro shell. At the snap: BC blitzes (6th rusher, replaces B in Zunnel). D rotates down to #1 boundary. B takes #2 boundary (from Zorro-depth pre-snap alignment, ~8 yds middle). FS takes #2 field. M/W funnel RB (Zunnel rules). **Cobra requires B in coverage — cannot pair with any pressure that sends B (Bandit, BooM, BoW, Eat, Hammer, staB).**
 
 ### Combination Pressures
 
@@ -355,13 +345,7 @@ DL coaching point: read run/pass; on run read get heel depth. Edges play normal 
 | **BooM** | B + M |
 | **BoW** | B + W |
 | **MaD** | M + D |
-| **Eat** | M + W + B |
-
-**Pressure + Cover 1 RB Rules:** In Cover 1, M/W are the RB funnel. When a combination pressure sends both funnel players, the RB must be accounted for:
-- **sWarM + Cover 1: NOT LEGAL.** Both funnel players blitz — nobody has the RB. Use sWarM with Zeus or NINJA instead.
-- **BooM + Cover 1:** W takes RB solo (no funnel partner). M is blitzing.
-- **BoW + Cover 1: NOT LEGAL.** B has #2 field in Cover 1 — blitzing B leaves #2 field uncovered. **BoW + Zeus: NOT LEGAL.** B, W, and M all rush — RB unaccounted. **Use BoW with Cover 0 family only (Zike is standard call — M has RB).**
-- **Eat + Cover 1: NOT LEGAL.** All three underneath players blitz — RB unaccounted. **Use Eat with Cover 0 family only.**
+| **Eat** | M + W + B (rush peel) |
 
 ### Packaged Pressures (Married to Stunts)
 
@@ -382,6 +366,7 @@ M and/or W walk up to the LOS at their pre-snap gap assignment. Responsibilities
 - **MUG** — both M and W walk up to their gap.
 - **M MUG** — only M walks up.
 - **W MUG** — only W walks up.
+- **E Mug** — 3 down edge walks up
 
 **Pre-snap gap is front-dependent:**
 
@@ -393,21 +378,21 @@ M and/or W walk up to the LOS at their pre-snap gap assignment. Responsibilities
 | WIDE | A gap | A gap |
 
 **Coaching points:**
-- Coverage drops start late — M/W must get to their zone/assignment quickly after the snap. In NINJA, M still owns hook/crosser; in CLAMP, W still owns hook/curl #3.
+- Coverage drops start late — M/W must get to their zone/assignment quickly after the snap. In NINJA, M still owns hook/crosser; in CLAMP, W still owns hook/curl #3 push.
 - In Zeus, Mug is natural — M is already an add-on rusher on pass read. Walking up just gets him there faster.
 - Do NOT tip blitz vs Mug. Mug players hold the LOS alignment and play their base assignment. Blitzing players also hold alignment and hit their gap. The offense should not be able to tell the difference pre-snap.
 
 ### Game-Plan Specials (Not Weekly — Installed as Needed)
 
-Dawg, MaD, Shave, Freebird, Cobra, staB. These are available in the playbook but only installed for specific game plans. Not part of the weekly menu.
+Dawg, MaD, Shave, Freebird, Cobra These are available in the playbook but only installed for specific game plans. Not part of the weekly menu.
 
 ### Freebird + Cover 1 Definition
 
-Freebird is a **Cover 1 only** pressure. The post safety (per variant) blitzes as the extra rusher.
+Freebird is a **Cover 1 only** pressure. The post safety (per variant) blitzes as the extra rusher to the open A gap. Wehn freebird is called we are effectively in cover 0
 
 - **Freebird + Oregon (FS blitzes):** FS is the post → FS rushes. Remaining coverage: D has #2 boundary (or #3 away), B has #2 field (or #3 away), FC/BC have #1, M/W funnel RB. No post safety — accept the risk.
-- **Freebird + Oklahoma (D blitzes):** D is the post → D rushes. FS has #2 boundary (already on boundary side from pre-snap switch), B has #2 field, FC/BC have #1, M/W funnel RB. No post safety.
-- **Freebird + Ohio (B blitzes):** B is the post → B rushes from ~8 yds middle (looks like a blitz from depth). FS has #2 field, D has #2 boundary, FC/BC have #1, M/W funnel RB. No post safety.
+- **Freebird + Oklahoma (D blitzes):** D is the post → D rushes. FS has #2 boundary (already on boundary side from pre-snap switch), B has #2 field, FC/BC have #1, M/W funnel RB. No post safety — accept the risk.
+- **Freebird + Ohio (B blitzes):** B is the post → B rushes from ~8 yds middle (looks like a blitz from depth). FS has #2 field, D has #2 boundary, FC/BC have #1, M/W funnel RB. No post safety — accept the risk.
 
 ---
 
@@ -417,13 +402,13 @@ Coach calls "NINJA." DBs auto-check. FS owns field checks. D owns boundary check
 
 ### Alignments
 
-- **Corners (FC/BC):** Inside leverage, 6 yards on #1.
-- **Safeties (FS/D):** 10-12 yds deep. Inside foot on #2 (~1 yd inside #2). No #2: poach/post posture, hash-to-middle. Compressed/stack: tighten 1-2 steps, ready to BANJO.
+- **Corners (FC/BC):** Inside leverage on #1, 6 yards on #1.
+- **Safeties (FS/D):** 10-12 yds deep. 1 yd inside #2. No #2: poach/post posture, in a position to be force away from trips and drop MOF. Compressed/stack: tighten 1-2 steps, ready to BANJO ( match the new #2).
 - **B (Bandit):** Apex to field, split between #2 and the box.
 
 ### NINJA vs 2x2 — MOD / CLAMP
 
-Two techniques that can be called to **either side.** Default: MOD to field, CLAMP to boundary. CLAMP can also be run to the field. MOD can also be run to the boundary, especially when the ball is in the **middle of the field** (field/boundary distinction is less meaningful).
+Two techniques that can be called to **either side.** Default: MOD to field, CLAMP to boundary. CLAMP can also be run to the field. MOD can also be run to the boundary, especially when the ball is in the **middle of the field**.
 
 #### MOD (Sky Principles)
 
@@ -431,22 +416,21 @@ Three-man triangle: Corner + Safety + Flat Player. Corner keys #1. Safety reads 
 
 | Position | Key | Rule |
 |----------|-----|------|
-| **Corner** | #1, reads to #2 | Match #1-to-#2. Stay on top of #1 deep/outside. If #1 breaks short → pass off, zone off. |
-| **Safety** | #2, reads to #1 | Match #2-to-#1. #2 vertical → match #2. #2 out/under → work to high hole or rob #1. |
+| **Corner** | #1, reads to #2 | Match #1-to-#2. Stay on top of #1 deep/outside. If #1 breaks short → pass off, zone off looking for corner from #2 or to rob #2. |
+| **Safety** | #2, reads to #1 | Match #2-to-#1. #2 vertical → match #2. #2 out/under → work to high hole (check for backside crosser) or rob #1. |
 | **Flat Player** | #2, expands to flat | Cover down on #2. Match #2. Push (carry vertical). First man to flat. If flat clears → relate back to hook zone. |
 
 **Default field MOD:** FC = corner, FS = safety, B = flat player.
-**Boundary MOD:** BC = corner, D = safety, W = flat player (push to flat).
+**Boundary MOD:** BC = corner, D = safety, W = flat player.
+ 
 
-#### CLAMP (Cloud / Read-2 Principles)
-
-Corner and safety **both read #2.** Clamp viability is a **pre-snap check based on receiver splits** — if #2 is aligned within 5 yards of #1 (tight/compressed), CLAMP works. If #2 is split wider, default to MOD.
+Corner and safety **both read #2.** Clamp viability is a **pre-snap check based on receiver splits** — if #2 is aligned within 5-7 yards of #1 (tight/compressed), CLAMP works. If #2 is split wider, default to MOD. This is on the safety to decide if he can get over top of #1's fade (deep) if #2 goes out.
 
 | Position | Key | Rule |
 |----------|-----|------|
-| **Corner** | #2 | #2 out (tight split, 5 yds or less) → **jump #2**, take him in the flat. #2 vertical → stay on #1. #2 inside → stay on #1. |
-| **Safety** | #2, reads to #1 | #2 vertical → match #2. #2 out → **flip to #1 deep** (replace corner). #2 inside → carry or pass off #2, bracket #1. |
-| **Hook/Curl (#3)** | Late push, reads #2 first | Late push drop to hook/curl. Takes whoever becomes #3. Reads #2 trigger before committing to drop. |
+| **Corner** | #2 | #2 out (safety calls clamp) → **jump #2**, take him in the flat (take the wheel don't sit). #2 vertical → stay on #1. #2 inside → stay on #1. |
+| **Safety** | #2, reads to #2 | #2 vertical → match #2. #2 out → **flip to #1 deep** (replace corner). #2 inside → carry or pass off #2, bracket #1. |
+| **Hook/Curl (#3)** | Late push, reads #2 first | Late push drop to hook/curl. Takes whoever becomes #3. |
 
 **Default boundary CLAMP:** BC = corner, D = safety, W = hook/curl (#3).
 **Field CLAMP:** FC = corner, FS = safety, B = hook/curl (#3).
@@ -458,9 +442,9 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
 | Read | Rule |
 |------|------|
 | **Base** | Hook zone. Eyes to QB, relate to underneath threats. |
-| **First crosser enters his zone** | Wall it, carry it. Do not hand off. |
+| **First crosser enters his zone** | Wall it, carry it. Default is not to hand it off. Yell cross if Will echos they will hand the routes off to each over, think mesh. |
 | **Crosser carries to boundary** | M carries all the way through. Calls **"CROSS!"** so W knows to stay on his assignment. |
-| **Mesh (two crossers)** | Take the deeper / more dangerous crosser. Flat player (B) relates back to pick up the shallow crosser. |
+| **Mesh (two crossers)** | Take the deeper / more dangerous crosser. Flat player (B) relates back to pick up the shallow crosser. (see above for crossers, where the Will echos **"CROSS!"** call) |
 
 **W — CLAMP hook/curl #3 (default configuration):**
 
@@ -474,8 +458,9 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
 
 | Read | Rule |
 |------|------|
-| **Base** | Push to flat. Cover down on #2 boundary. First man to flat. |
-| **Flat clears** | Relate back to hook zone. |
+| **Base** | Push to flat. Widen alignment (if possible cover down #2). First man to flat. |
+| **Flat is clear** | Relate back to hook zone. |
+| **Matchg the wheel** | if the flat route is a wheel carry it |
 
 #### Crosser Handling Summary
 
@@ -484,7 +469,7 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
 | **No crossers** | Hook zone, relate to threats | CLAMP: hook/curl #3 | MOD: flat player |
 | **Single crosser (field → bnd)** | Carries crosser all the way through, calls "CROSS!" | Stays on #3 | Flat clears → relates back to hook |
 | **Single crosser (bnd → field)** | Picks up crosser heading field | Stays on #3 | Stays in flat |
-| **Mesh (two crossers)** | Takes deeper crosser | Takes #3 (or shallow crosser if #3 not threatening) | Relates back to pick up shallow crosser |
+| **Mesh (two crossers)** | Takes deeper crosser, should get echo from Will for swtch | Takes #3 (or shallow crosser if #3 not threatening) | Relates back to pick up shallow crosser |
 
 #### Default NINJA 2x2 Alignment
 
@@ -497,17 +482,20 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
 
 | Flip | When | Corner | Safety | B / W | M |
 |------|------|--------|--------|-------|---|
-| **CLAMP to field** | Field #2 tight split (5 yds or less) | FC (jumps #2 out) | FS (#1 deep if #2 out) | B → hook/curl (#3) | Hook / crosser carrier |
-| **MOD to boundary** | Ball in MOF | BC (keys #1 deep) | D (reads #2-to-#1) | W → flat player | Hook / crosser carrier |
+| **CLAMP to field** | Field #2 tight split to #1 (5-7 yds or less) | FC (jumps #2 out) | FS (#1 deep if #2 out) | B → hook/curl (#3) | Hook / crosser carrier |
+| **MOD to boundary** | Ball in MOF and #2 has wide splits to #1 | BC (keys #1 deep) | D (reads #2-to-#1) | W → flat player | Hook / crosser carrier |
+
+**Safety to mod side can work to high if we get a lot of high crossing routes**
 
 ### NINJA vs 3x1 — POACH
 
 - **Trips to field: D is the poach safety.**
 - **Trips to boundary: FS is the poach safety.**
-- #3 vertical: poach player takes it (no free seam).
-- #3 shallow/under: poach player communicates and overlaps crossers.
+- #3 vertical: poach safety takes it (no free seam).
+- #3 shallow/under: poach player is essentially the MOF safety looking to poach the post.
 - Backside stays sound — no free go balls or glance RPO.
-- Poach player slides post-snap to **10-12 yards deep, splitting #2 and #3 on the trips side.** Reads #3 first. #3 vertical = match immediately. #3 underneath = settle at depth, eyes to QB, overlap crossers. Do not drift past the far hash — stay in position to break on throws. Pre-snap he is still at 10-12 over #2 in his normal spot.
+- Non poach safety slides post-snap to **10-12 yards deep MOF, splitting #2 and #3 on the trips side.** Reads #3 first. #3 vertical = match immediately. #3 underneath = settle at depth, eyes to QB, overlap crossers. Do not drift past the far hash — stay in position to break on throws. Pre-snap he is still at 10-12 over #2 in his normal spot.
+- **Corner away from the trip is MES (Man except shallow)** if is under give **Under!** call and him carry looking for the flat (potentional) wheel by the RB. If the RB is out flat pass the the under and jump the flat top shoulder. If the RB is not out Flat carry the under route near the box and pass off looking for cross from the trips side, if there not a cross settle with depth.  
 
 ### NINJA Motion Rule
 
@@ -517,14 +505,6 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
   - 3x1 → 2x2: "MOD/CLAMP!"
   - No trips change: keep original.
 - Nearest safety calls re-check; other echoes.
-
-### NINJA Special Formations
-
-- **Bunch/Stack/Tight Splits:** BANJO alert. Corner = first OUT; near safety = first IN; opposite safety = deeper fixer.
-- **Rub/Pick:** EXCHANGE automatic. Switch on contact.
-- **Empty (3x2):** Field = MOD (FC on #1, FS on #2, B on #3 flat/intermediate). Boundary = CLAMP (BC on #1, D on #2). M/W = hook zone, no RB — both become additional underneath coverage. No run responsibility — eyes up, play receivers.
-- **Empty (2x3):** Boundary has 3 receivers — treat like trips boundary. FS becomes poach player (slides toward #3 boundary). Field = MOD with 2 (FC on #1, B on #2). D = top-down on #2 boundary. M/W = hook zone.
-- **Nub TE/Y-off:** Treat nub as #1. Safety communicates if nub goes vertical.
 
 ---
 
@@ -545,9 +525,9 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
 
 | Position | Assignment |
 |----------|-----------|
-| FS | Post/MOF — rotate to middle of field. Fixer — make the corner right. |
-| D | Man #2 boundary, or #3 away if no #2 boundary. |
-| B | Man #2 field, or #3 away if no #2 field. |
+| FS | Post/MOF — rotate to middle of field. |
+| D | Man #2 boundary, or #3 away if no #2 boundary.  |
+| B | Man #2 field, or #3 away if no #2 field.  Fixer — make the corner right. |
 | FC / BC | Man #1 to your side. |
 | M / W | RB funnel. RB to you = take. RB away = rush. TAMPA: away LB = RAT. |
 
@@ -557,21 +537,21 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
 
 | Position | Pre-Snap Alignment | Post-Snap Assignment |
 |----------|-------------------|---------------------|
-| D | Field side (switches from boundary) | Rotate from field to MOF — Post/Fixer. |
-| FS | Boundary side (switches from field) | Man #2 boundary, or #3 away. |
-| B | Apex (field) | Man #2 field, or #3 away. |
+| D | Field side (switches from boundary) | Rotate from field to MOF. |
+| FS | Boundary side (switches from field) | Man #2 boundary, or #3 away. Fixer — make the corner right. |
+| B | Apex #2 wdien and deep to help | Man #2 field, or #3 away. |
 | FC / BC | Normal (inside lev, 6 yds) | Man #1 to your side. |
 | M / W | Normal | RB funnel. |
 
 ### OHIO (Post = B) — EXCEPTION
 
-**B aligns at ~8 yards deep in the middle of the formation** (not at his normal apex). This changes the pre-snap picture — the offense may read B's movement out of the apex.
+**B aligns at ~8 yards deep in the middle of the formation** (not at his normal apex).
 
 | Position | Assignment |
 |----------|-----------|
-| B | ~8 yds middle pre-snap → rotates to MOF. Post/Fixer — make the corner right. |
-| FS | Man #2 field, or #3 away. |
-| D | Man #2 boundary, or #3 away. |
+| B | ~8 yds middle pre-snap → rotates to MOF. |
+| FS | Man #2 field, or #3 away. Fixer — make the corner right. |
+| D | Man #2 boundary, or #3 away. Fixer — make the corner right. |
 | FC / BC | Man #1 to your side. |
 | M / W | RB funnel. |
 
@@ -579,7 +559,7 @@ Corner and safety **both read #2.** Clamp viability is a **pre-snap check based 
 
 ### Cover 1 vs Trips (3x1)
 
-B always takes #3 trips side. Assignments vary by variant:
+B always takes #3 trips side, pre decided receiver week by week. Assignments vary by variant:
 
 **OREGON vs Trips to Field:**
 | Position | Assignment |
@@ -641,8 +621,6 @@ B always takes #3 trips side. Assignments vary by variant:
 | FS | Man #3 boundary (crosses from field) |
 | M/W | RB funnel |
 
-> **Coaching point:** The non-post safety rotating to the trips side must work toward his receiver at the snap — inside shade, top-down, deny the seam. The RB is still M/W funnel.
-
 ### Cover 1 Bunch/Stack/Pick Rules
 
 Man coverage is MORE vulnerable to bunch than zone. Bunch and stack have separate rules.
@@ -653,27 +631,27 @@ Man coverage is MORE vulnerable to bunch than zone. Bunch and stack have separat
 | Position | Alignment | Assignment |
 |----------|-----------|------------|
 | **Corner** (FC/BC) | 6 yds, **outside leverage** (flip from normal inside) | First OUT / third IN |
-| **B** | Normal or tightened to bunch side | First IN / third OUT |
-| **Cover safety** (non-post safety to bunch side) | 8-9 yds, inside shade on bunch | Second IN / second OUT / middle route |
+| **B** | 6 yds inside leverage | First IN / third OUT |
+| **Cover safety** (non-post safety to bunch side) | 8-9 yds, inside shade on the point | Second IN / second OUT / middle route. **He is the fixer**|
 | **Post safety** | Normal depth, shade toward bunch | Fixer — stay MOF, help only on clear bust |
 
 **Cover 0 (Z-Family) vs Bunch:**
 | Position | Alignment | Assignment |
 |----------|-----------|------------|
 | **Corner** (FC/BC) | 6 yds, **outside leverage** | First OUT / third IN |
-| **FS** (nearest safety to bunch) | 8-9 yds, inside shade on bunch | Second IN / second OUT / middle route |
-| **D** | Normal depth | First IN / third OUT |
+| **FS** (nearest safety to bunch) | 8-9 yds, inside shade on the point | Second IN / second OUT / middle route. **He is the fixer** |
+| **D** | 6 yds inside leverage | First IN / third OUT |
 
 #### Stack (2 receivers stacked vertically)
 
-**Cover 0 (Z-Family) vs Stack:** Corner and safety sort **first IN / first OUT**. Simple two-man sort.
+**Cover 0 (Z-Family) vs Stack:** Corner and safety sort **first IN / first OUT**.
 
 **Cover 1 vs Stack:** Corner + whoever has #2 on that side (per CAMP distribution for Oregon/Oklahoma/Ohio) sort **first IN / first OUT**. Post safety is fixer.
 
 #### EXCHANGE (All Man Coverages)
 
 - **Trigger:** rub/pick contact — two receivers cross within 2 yards.
-- **Rule:** switch assignments ON CONTACT. Yell "SWITCH! SWITCH!"
+- **Rule:** switch assignments when you see it or ON CONTACT. Yell "SWITCH! SWITCH!"
 - Anticipate the switch. Be physical through the rub. Stay on your new man immediately.
 
 ---
@@ -696,7 +674,7 @@ In trips, the safeties handle #2 and #3 to the trips side. The nearest safety ta
 | **Trips to field** | Man #1 field | Man #1 boundary (solo) | Man #2 field | **Man #3 field** (rotates from boundary) | Per Z-call (RB or rush) |
 | **Trips to boundary** | Man #1 field (solo) | Man #1 boundary | **Man #3 boundary** (rotates from field) | Man #2 boundary | Per Z-call (RB or rush) |
 
-**Key rule:** Safeties split the trips load — nearest takes #2, far safety rotates to #3. B does NOT take a trips receiver — B's assignment is determined by the Z-call (see RB Player Reference below). This prevents any safety from traveling cross-field.
+**Key rule:** Safeties split the trips load — nearest takes #2, far safety rotates to #3. B does NOT take a trips receiver — B's assignment is determined by the Z-call (see RB Player Reference below). This keeps our DBs on their receivers.
 
 ### Universal Tags
 
@@ -709,22 +687,20 @@ In trips, the safeties handle #2 and #3 to the trips side. The nearest safety ta
 
 | Position | Read Key | Run Assignment | Pass Assignment |
 |----------|----------|----------------|-----------------|
-| A & E | — | Contain | Cage/contain — don't run past QB depth, force step-up |
+| A & E | — | Contain | Cage/contain — don't run past QB depth, force step-up / collapse pocket |
 | T & N | — | Base gap | Vertical push / collapse pocket |
-| M | Guard | Fit run gap | Add-on rusher |
+| M | Guard | Fit run gap / scrape per read | Add-on rusher |
 | B | EMOL (end man on line) | Fit run gap | RB funnel (RB to you → take; RB away → rush) |
-| W | Guard | Fit run gap | RB funnel (RB to you → take; RB away → rush; RB middle → W takes) |
+| W | Guard | Fit run gap / scrape per read | RB funnel (RB to you → take; RB away → rush; RB out to your side or middle → W takes) |
 
 **Read progression (M, B, W):**
 - **Run block read:** Play run fit until ball clears mesh point.
 - **Pass set read:** Aggressive pass set = transition to pass assignment immediately.
-- **Play-action rule:** If OL shows run but QB pulls and sets, transition to pass assignment FAST — max 2 steps downhill before reading pass. Do not chase the run fake past 2 steps.
-
-**Call-off:** After showing Zeus 1-3 times, bail to NINJA or VIKING.
+- **Play-action rule:** If OL shows run but QB pulls and sets, transition to pass assignment FAST — max 2 steps downhill before reading pass. Do not chase the run fake past 2 steps. Funnel defenders cannot let the RB cross their face.
 
 ### ZORRO — EXCEPTION
 
-**B aligns at ~8 yards deep in the middle of the formation** to key the RB (not at his normal apex). This changes the pre-snap picture.
+**B aligns at ~8 yards deep in the middle of the formation** to key the RB (not at his normal apex).
 
 - **B:** Has RB (man). Aligns ~8 yds middle.
 - **M/W:** No pass responsibility unless tagged (TAMPA = droppers, SPY = spy QB).
@@ -734,7 +710,7 @@ In trips, the safeties handle #2 and #3 to the trips side. The nearest safety ta
 
 ### ZUNNEL
 
-- M and W funnel RB. RB to your side → take. Away → rush. TAMPA: away = RAT.
+- M and W funnel RB. RB to your side → take. Away → rush. TAMPA: away = RAT, SPY = spy QB.
 - **B: Green-light rusher.** No pass responsibility. M/W handle the RB, freeing B to rush on any pass read. B aligns at normal apex pre-snap.
 
 ### ZILL
@@ -749,9 +725,9 @@ In trips, the safeties handle #2 and #3 to the trips side. The nearest safety ta
 
 | Z-Call | RB Player |
 |--------|-----------|
-| Zeus | B or W (funnel) |
-| Zorro | B |
-| Zunnel | M or W (funnel) |
+| **Zeus** | B or W (funnel) |
+| **Zorro** | B |
+| **Zunnel** | M or W (funnel) |
 | Zill | W |
 | Zike | M |
 
@@ -765,9 +741,9 @@ In trips, the safeties handle #2 and #3 to the trips side. The nearest safety ta
 
 ## 10. COVERAGE: VIKING (COVER 3 FAMILY)
 
-### VIKING (Base) — Spot-Drop Cover 3
+### VIKING — Spot-Drop Cover 3
 
-Intent: safe, anti-explosive, low bust. Primary Zeus call-off.
+Intent: safe, anti-explosive, take aways the underneath, low bust.
 
 **Deep 3:**
 
@@ -784,35 +760,11 @@ Intent: safe, anti-explosive, low bust. Primary Zeus call-off.
 | B | Curl/flat (field) |
 | D | Seam-curl-flat (boundary) |
 | M | Hook |
-| W | Hook |
-
-### Tags
-
-#### VIKING SEAM
-When #2 goes vertical, the curl/flat player (B field, D boundary) carries #2 to the deep-third defender and passes off. Deep-third defender (FC or BC) takes #2 vertical. Curl/flat player then settles in the vacated curl zone. M/W stay in hook zone.
-
-#### VIKING PUSH (vs 3x1 Trips)
-Adjusts underneath distribution to the trips side:
-- **Deep 3:** FC = 1/3 field, FS = 1/3 middle, BC = 1/3 boundary (unchanged).
-- **Underneath vs trips to field:** B = flat (widens to #3). M = hook/curl field (slides to replace B's curl zone). D = curl/flat boundary. W = hook.
-- **Underneath vs trips to boundary:** D = flat (widens to #3). W = hook/curl boundary (slides to replace D's zone). B = curl/flat field. M = hook.
-
-#### VIKING CROSS
-When a receiver crosses the formation, the curl/flat player carries the crosser to 12 yards depth before passing off to the hook player. Hook player (M or W) takes the crosser through the middle. Curl/flat player stays in his zone after the hand-off.
-
-#### VIKING SCREEN
-Trigger rules vs now screens, bubble screens, and tunnel screens:
-- **DL:** If OL releases downfield and QB retreats, yell "SCREEN!" and redirect to the ball. Get hands up in the throwing lane.
-- **Curl/flat player (B or D):** Attack the screen side aggressively — you are the primary tackler. Do not drop to zone.
-- **LBs (M/W):** Rally to the ball. Sprint to the screen side.
-
-### ~~VIKING Fire Zone~~ — DROPPED
-
-Dropped from the install. Existing pressure packages (14 calls across 5 coverage families) already cover every pressure need.
+| W | Hook/ |
 
 ---
 
-## 11. PRE-SNAP DISGUISE & ALIGNMENT RULES
+## 11. PRE-SNAP DISGUISE & ALIGNMENT RULES 2 primary shells
 
 ### Core Principle
 
@@ -824,54 +776,39 @@ Dropped from the install. Existing pressure packages (14 calls across 5 coverage
 
 1. **OHIO:** B moves from apex to ~8 yards deep in the middle of the formation to become the post/MOF safety. His movement tips the coverage.
 2. **ZORRO:** B moves from apex to ~8 yards deep in the middle of the formation to key the RB. His alignment change tips the coverage.
+3. **Zunnel with cobra call:** B moves from apex to ~8 yards deep in the middle of the formation to key the RB. His alignment change tips the coverage.
+4. **Trips with man:** trips with man will change the picture. We can look at show man. This will evolve depending on our personnel.
 
 ### Universal Pre-Snap Alignment
 
 | Position | Pre-Snap Alignment | Key |
 |----------|-------------------|-----|
-| FC / BC | Inside leverage, 6 yards on #1 | Do not tip coverage with depth or leverage changes |
-| FS | 10-12 yds deep, inside foot on #2 (~1 yd inside #2) | If no #2: hash-to-middle, eyes on #3/QB |
-| D | 10-12 yds deep, inside foot on #2 (~1 yd inside #2) | If no #2: hash-to-middle, eyes on #3/QB |
-| B | Apex to field, split between #2 and box | Same spot every coverage (except Ohio/Zorro) |
-| M / W | Standard LB depth over assigned gap | Run-fit alignment does not change by coverage |
+| FC / BC | Inside leverage (half man, outside foot split the receiver), 6 yards on #1 | Do not tip coverage with depth or leverage changes |
+| FS | 10-12 yds deep, inside leverage on #2 (~1 yd inside #2) | If no #2: hash-to-middle, eyes on #3/QB |
+| D | 10-12 yds deep, inside leverage on #2 (~1 yd inside #2) | If no #2: hash-to-middle, eyes on #3/QB |
+| B | Apex to field, split between #2 and box | Same spot every coverage (aside from above exceptions) |
+| M / W | Standard LB depth (4-5 yds) over assigned gap | Run-fit alignment does not change by coverage |
 
 ### Formation-Driven Adjustments (NOT Coverage-Driven)
 
-- **Compressed/stack splits:** Safeties tighten 1-2 steps, ready for BANJO. Same adjustment in every coverage.
+- **Compressed/stack splits:** Safeties tighten 1-2 yds, ready for BANJO. This is a man adjustment.
 - **Motion:** NINJA re-checks (POACH/MOD/CLAMP). Man coverages use BUMP-BUMP. Either way, the pre-snap shell resets the same.
-
-### Coverage Summary — Pre-Snap vs Post-Snap
-
-| Coverage | Pre-Snap | FS Post-Snap | D Post-Snap | B Post-Snap |
-|----------|----------|-------------|-------------|-------------|
-| NINJA 2x2 | Two-high | MOD: top-down #2 | CLAMP: control #2 | Apex: #2/#3 threats |
-| NINJA 3x1 (trips field) | Two-high | Hold field half | POACH toward trips | Apex: trips threats |
-| NINJA 3x1 (trips bnd) | Two-high | POACH toward trips | Hold boundary half | Apex: trips threats |
-| OREGON | Two-high | Rotate to MOF (post) | Man #2 bnd | Man #2 field |
-| OKLAHOMA | Two-high (FS/D switched) | Man #2 bnd (from bnd side) | Rotate to MOF (from field side) | Man #2 field |
-| OHIO * | **Changed** | Man #2 field | Man #2 bnd | Rotate to MOF (from ~8 yds middle) |
-| ZEUS | Two-high | Man #2 field | Man #2 bnd | RB funnel |
-| ZORRO * | **Changed** | Man #2 field | Man #2 bnd | Has RB (~8 yds middle) |
-| ZUNNEL | Two-high | Man #2 field | Man #2 bnd | Per call |
-| VIKING | Two-high | Rotate to deep mid 1/3 | Seam-curl-flat | Curl/flat |
-
-\* = Exception. Pre-snap look changes from the standard two-high shell.
 
 ---
 
 ## 12. AUTOS & ALERTS
 
-### BUMP-BUMP (Man Coverages Only — C0/C1)
+### BUMP-BUMP (Man Coverages Only)
 
 - Safeties travel. Underneath does NOT. Safeties do NOT cross.
-- **BUMP 1** (Safety → Safety): traveling safety hands off because he won't cross.
+- **BUMP 1** (Safety → Safety): traveling safety hands off because he won't cross. Safety running with mothion will settle inside the old #2. His eyes can not leave the motioning receiver (YOYO). 
 - **BUMP 2** (Safety → Corner): if motion becomes new widest #1, safety bumps to corner.
-- Corner takes ONLY when motion is new widest #1 to that side.
+- Corner takes ONLY when motion is new widest #1 to that side. Safety will settle inside the old #1.
 
 ### BANJO (Safety Alert — NOT Signaled In)
 
 - **Trigger:** Stack, tight/close splits, bunch.
-- Corner = first OUT. Near safety = first IN. Opposite safety = deeper fixer.
+- Corner = first OUT. Near safety = first IN. Safety or deeper safety = fixer.
 
 ### EXCHANGE (Automatic)
 
@@ -881,28 +818,8 @@ Dropped from the install. Existing pressure packages (14 calls across 5 coverage
 
 - **Trigger:** Receiver runs UNDER to pick RB-responsible defender AND RB releases fast out.
 - **Rule:** RB player takes UNDER (replaces pick). UNDER defender takes RB (swap).
-- **Call:** "UNDER! UNDER!" (no numbers). Fixer safety calls it.
+- **Call:** "UNDER! UNDER! echo PUSH! PUSH!". Fixer safety or RB player can calls it.
 - **RB player by coverage:**
-
-| Coverage | RB Player |
-|----------|-----------|
-| Zeus | B or W (funnel) |
-| Zorro | B |
-| Zunnel | M or W (funnel) |
-| Zill | W |
-| Zike | M |
-
-**UNDER alert applies to Cover 0 / Z-family only.** In Cover 1, use EXCHANGE (switch on rub/pick contact) — every defender already has a man assignment. In NINJA and VIKING, zone principles and pass-off rules handle under routes naturally — no swap is needed.
-
-### Fixer Safety Reference
-
-The fixer safety calls the UNDER alert in Z-family coverages and calls adjustments in NINJA.
-
-| Coverage | Fixer Safety | Notes |
-|----------|-------------|-------|
-| NINJA | FS (field), D (boundary) | Nearest fixer to the action calls adjustments |
-| Cover 1 | N/A | Use EXCHANGE for rub/pick. Post safety is the general fixer. |
-| Zeus/Z-family | FS or D | Both in man — whichever sees the pick developing calls UNDER |
 
 ---
 
@@ -923,8 +840,8 @@ No explosives. Box it. Relentless pursuit. Force ball to help.
 |-----------|------|
 | **Pullers** (Power/Counter/Wing-T) | Box + overlap; edge outside, M/W inside-out off pull path |
 | **QB Run (CAMP)** | A is QB player |
-| **2-Back** (20/21) | 6-man box; B first insert for 7th hat |
-| **Slice** | Backside OLB has slicer |
+| **2-Back** (20/21) | 7-man box; B first insert for 7th hat, we can align zorro to help the B |
+| **Slice** | Backside OLB has slicer (split zone) |
 
 ### 3-Down ILB Fits
 
@@ -2431,4 +2348,3 @@ All drill menus are ~17 minutes. Player-on-player — no sleds or dummies.
 
 ---
 
-*Generated: River Valley Vikings Defensive Staff — 2026 Season*
